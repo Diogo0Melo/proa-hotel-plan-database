@@ -30,8 +30,8 @@ O projeto foi modelado utilizando conceitos de banco de dados orientado a docume
 * **Feedbacks**: Avaliações detalhadas por categorias (limpeza, atendimento, conforto) e o registro de respostas oficiais do hotel.
 
 ## 💻 Tecnologias e Ferramentas Utilizadas
-* 📄 **JSON** (Estruturação de Documentos)
-* 🍃 **MongoDB Logic** (Modelagem NoSQL)
+* 📄 **JSON**
+* 🍃 **MongoDB Logic**
 * 💻 **VSCode**
 * 🐙 **Git e GitHub**
 
