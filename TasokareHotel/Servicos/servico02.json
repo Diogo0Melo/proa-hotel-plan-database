@@ -1,0 +1,20 @@
+{
+  "id_servico": "ObjectId('65b600000000000000000002')",
+  "detalhes": {
+    "nome": "Lavanderia Express",
+    "categoria": "Facilidades",
+    "descricao": "Lavagem e passagem a ferro de até 5 peças de roupa com entrega em até 4 horas."
+  },
+  "precificacao": {
+    "preco_padrao": 120.00,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por cesto (5 peças)"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "18:00",
+    "dias_semana": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
+  },
+  "operacional": { "tags": ["terceirizado", "express", "quarto"], "requer_agendamento": true, "departamento_responsavel": "Governança" }
+}

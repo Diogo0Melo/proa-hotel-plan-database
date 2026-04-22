@@ -1,0 +1,54 @@
+{
+  "id_reserva": "ObjectId('65b300000000000000000007')",
+  "id_hospede_principal": "ObjectId('65b100000000000000000007')",
+  "hospede_snapshot": {
+    "nome": "Ricardo Gomes",
+    "email": "ricardo.gomes@email.com",
+    "telefone": "+55 81 99999-7777"
+  },
+  "ids_hospedes_acompanhantes": [],
+  "id_quarto_atribuido": "ObjectId('65b200000000000000000006')",
+  "quarto_snapshot": {
+    "numero": 302,
+    "tipo": "Deluxe",
+    "preco_diaria": 750.00
+  },
+  "id_tipo_quarto_reservado": null,
+  "data_reserva": "2024-09-20T19:00:00Z",
+  "data_checkin_prevista": "2024-10-12T14:00:00Z",
+  "data_checkout_prevista": "2024-10-17T12:00:00Z",
+  "numero_adultos": 2,
+  "numero_criancas": 2,
+  "status_reserva": "Check-in Realizado",
+  "origem": {
+    "canal_reserva": "Expedia",
+    "id_agencia_viagem": "ObjectId('65bc00000000000000000002')",
+    "id_conta_corporativa": null
+  },
+  "financeiro": {
+    "tarifa_diaria_acordada": 700.00,
+    "valor_total_estimado": 3500.00,
+    "valor_sinal_pago": 3500.00,
+    "id_promocao_aplicada": null,
+    "garantia": {
+      "metodo": "Agência Virtual (VCC)",
+      "id_gateway_pagamento": "GW-OTA-888",
+      "ultimos_quatro_digitos": "1234"
+    }
+  },
+  "solicitacoes_especiais": [],
+  "historico_alteracoes": [],
+  "cancelamento": {
+    "foi_cancelada": false,
+    "data_cancelamento": null,
+    "motivo": "",
+    "taxa_cancelamento_aplicada": 0,
+    "id_usuario_cancelamento": null
+  },
+  "id_hospedagem_gerada": "ObjectId('65b400000000000000000007')",
+  "auditoria": {
+    "data_criacao": "2024-09-20T19:00:00Z",
+    "ultima_atualizacao": "2024-10-12T15:10:00Z",
+    "criado_por_id": null
+  }
+}

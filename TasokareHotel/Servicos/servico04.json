@@ -1,0 +1,20 @@
+{
+  "id_servico": "ObjectId('65b600000000000000000004')",
+  "detalhes": {
+    "nome": "Massagem Relaxante Spa",
+    "categoria": "Bem-estar",
+    "descricao": "Sessão de 60 minutos de massagem relaxante corporal com óleos essenciais no Spa do hotel."
+  },
+  "precificacao": {
+    "preco_padrao": 250.00,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por sessão (60 min)"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "10:00",
+    "horario_fim": "20:00",
+    "dias_semana": ["Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
+  },
+  "operacional": { "tags": ["spa", "relaxamento", "exclusivo"], "requer_agendamento": true, "departamento_responsavel": "Spa & Lazer" }
+}

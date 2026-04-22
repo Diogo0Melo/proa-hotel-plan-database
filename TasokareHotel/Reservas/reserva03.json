@@ -1,0 +1,54 @@
+{
+  "id_reserva": "ObjectId('65b300000000000000000003')",
+  "id_hospede_principal": "ObjectId('65b100000000000000000003')",
+  "hospede_snapshot": {
+    "nome": "Fernando Costa",
+    "email": "fernando.costa@email.com",
+    "telefone": "+55 21 99999-3333"
+  },
+  "ids_hospedes_acompanhantes": [],
+  "id_quarto_atribuido": "ObjectId('65b200000000000000000002')",
+  "quarto_snapshot": {
+    "numero": 102,
+    "tipo": "Standard",
+    "preco_diaria": 250.00
+  },
+  "id_tipo_quarto_reservado": null,
+  "data_reserva": "2024-07-01T15:20:00Z",
+  "data_checkin_prevista": "2024-07-20T14:00:00Z",
+  "data_checkout_prevista": "2024-07-25T12:00:00Z",
+  "numero_adultos": 2,
+  "numero_criancas": 1,
+  "status_reserva": "Finalizada",
+  "origem": {
+    "canal_reserva": "Telefone",
+    "id_agencia_viagem": null,
+    "id_conta_corporativa": null
+  },
+  "financeiro": {
+    "tarifa_diaria_acordada": 250.00,
+    "valor_total_estimado": 1250.00,
+    "valor_sinal_pago": 250.00,
+    "id_promocao_aplicada": null,
+    "garantia": {
+      "metodo": "PIX",
+      "id_gateway_pagamento": "PIX-REF-777",
+      "ultimos_quatro_digitos": ""
+    }
+  },
+  "solicitacoes_especiais": ["Quarto com acessibilidade garantida."],
+  "historico_alteracoes": [],
+  "cancelamento": {
+    "foi_cancelada": false,
+    "data_cancelamento": null,
+    "motivo": "",
+    "taxa_cancelamento_aplicada": 0,
+    "id_usuario_cancelamento": null
+  },
+  "id_hospedagem_gerada": "ObjectId('65b400000000000000000003')",
+  "auditoria": {
+    "data_criacao": "2024-07-01T15:20:00Z",
+    "ultima_atualizacao": "2024-07-20T14:10:00Z",
+    "criado_por_id": "ObjectId('65b500000000000000000001')"
+  }
+}

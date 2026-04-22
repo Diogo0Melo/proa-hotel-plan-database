@@ -1,0 +1,20 @@
+{
+  "id_servico": "ObjectId('65b600000000000000000001')",
+  "detalhes": {
+    "nome": "Café da Manhã Premium",
+    "categoria": "Alimentos e Bebidas",
+    "descricao": "Café da manhã estilo buffet servido no restaurante panorâmico, incluindo opções quentes, pães artesanais e espumante."
+  },
+  "precificacao": {
+    "preco_padrao": 65.00,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa/dia"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "06:00",
+    "horario_fim": "10:30",
+    "dias_semana": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
+  },
+  "operacional": { "tags": ["alimentacao", "buffet", "incluso_em_pacotes"], "requer_agendamento": false, "departamento_responsavel": "Alimentos e Bebidas" }
+}

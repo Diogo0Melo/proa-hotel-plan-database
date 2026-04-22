@@ -1,0 +1,20 @@
+{
+  "id_servico": "ObjectId('65b600000000000000000003')",
+  "detalhes": {
+    "nome": "Consumo de Frigobar (Pacote Standard)",
+    "categoria": "Alimentos e Bebidas",
+    "descricao": "Lançamento genérico para consumo de itens do frigobar como águas, refrigerantes e snacks padrão."
+  },
+  "precificacao": {
+    "preco_padrao": 15.00,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por item"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "00:00",
+    "horario_fim": "23:59",
+    "dias_semana": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
+  },
+  "operacional": { "tags": ["minibar", "quarto", "automatizado"], "requer_agendamento": false, "departamento_responsavel": "Governança" }
+}

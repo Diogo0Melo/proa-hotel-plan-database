@@ -1,0 +1,29 @@
+{
+  "id_feedback": "ObjectId('65b800000000000000000006')",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId('65b400000000000000000006')",
+    "id_quarto": "ObjectId('65b200000000000000000001')",
+    "id_hospede": "ObjectId('65b100000000000000000006')"
+  },
+  "avaliacao": {
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 5,
+      "conforto": 4,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario_cliente": "Ótima experiência viajando com meu doguinho. O kit pet recebido no check-in foi um detalhe fofo. Sugiro apenas que a caminha do pet seja um pouco maior da próxima vez."
+  },
+  "resposta_hotel": {
+    "respondido": true,
+    "texto_resposta": "Oi Laura! Que bom que você e seu companheiro canino aproveitaram a estadia. Anotamos a sugestão sobre o tamanho da caminha para melhorar nossos kits. Voltem sempre!",
+    "data_resposta": "2024-09-05T08:00:00Z",
+    "respondido_por_id": "ObjectId('65b500000000000000000007')"
+  },
+  "status_publicacao": {
+    "visivel_site": true,
+    "data_avaliacao": "2024-09-04T11:00:00Z"
+  }
+}

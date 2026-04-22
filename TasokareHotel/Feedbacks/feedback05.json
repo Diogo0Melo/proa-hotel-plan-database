@@ -1,0 +1,29 @@
+{
+  "id_feedback": "ObjectId('65b800000000000000000005')",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId('65b400000000000000000005')",
+    "id_quarto": "ObjectId('65b200000000000000000007')",
+    "id_hospede": "ObjectId('65b100000000000000000005')"
+  },
+  "avaliacao": {
+    "nota_geral": 5.0,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario_cliente": "[Mid-stay Review] Chegada impecável, atendimento ágil da Concierge e a suíte presidencial oferece toda a privacidade necessária para o meu trabalho."
+  },
+  "resposta_hotel": {
+    "respondido": false,
+    "texto_resposta": "",
+    "data_resposta": null,
+    "respondido_por_id": null
+  },
+  "status_publicacao": {
+    "visivel_site": false,
+    "data_avaliacao": "2024-10-11T19:00:00Z"
+  }
+}

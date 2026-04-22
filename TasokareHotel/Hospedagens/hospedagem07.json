@@ -1,0 +1,54 @@
+{
+  "id_hospedagem": "ObjectId('65b400000000000000000007')",
+  "id_reserva_origem": "ObjectId('65b300000000000000000007')",
+  "id_quarto": "ObjectId('65b200000000000000000006')",
+  "ids_hospedes": [
+    "ObjectId('65b100000000000000000007')"
+  ],
+  "checkin": {
+    "data_real": "2024-10-12T15:10:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "checkout": {
+    "data_prevista": "2024-10-17T12:00:00Z",
+    "data_real": null,
+    "realizado_por_id": null
+  },
+  "status_hospedagem": "Ativa",
+  "folio": {
+    "id_folio": "ObjectId('65bf00000000000000000007')",
+    "aberto": true,
+    "itens": [
+      {
+        "id_item_folio": "ObjectId('65bf10000000000000000008')",
+        "data_hora": "2024-10-12T15:15:00Z",
+        "descricao": "Estacionamento Valet",
+        "id_produto_servico": "ObjectId('65b600000000000000000006')",
+        "quantidade": 1,
+        "valor_unitario": 45.00,
+        "valor_total": 45.00,
+        "lancado_por_id": "ObjectId('65b500000000000000000001')"
+      }
+    ],
+    "totais": {
+      "total_diarias": 3500.00,
+      "total_consumo": 45.00,
+      "total_taxas": 0.00,
+      "total_descontos": 0.00,
+      "total_geral": 3545.00,
+      "total_pago": 3500.00,
+      "saldo_devedor": 45.00
+    }
+  },
+  "chaves_acesso": [
+    {
+      "id_chave": "RF-302-A",
+      "tipo": "RFID",
+      "data_emissao": "2024-10-12T15:10:00Z",
+      "data_expiracao": "2024-10-17T12:00:00Z",
+      "status": "Ativa"
+    }
+  ],
+  "observacoes_estadia": [],
+  "auditoria": { "data_criacao": "2024-10-12T15:10:00Z", "ultima_atualizacao": "2024-10-12T15:15:00Z" }
+}

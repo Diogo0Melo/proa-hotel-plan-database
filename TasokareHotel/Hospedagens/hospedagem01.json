@@ -1,0 +1,54 @@
+{
+  "id_hospedagem": "ObjectId('65b400000000000000000001')",
+  "id_reserva_origem": "ObjectId('65b300000000000000000001')",
+  "id_quarto": "ObjectId('65b200000000000000000003')",
+  "ids_hospedes": [
+    "ObjectId('65b100000000000000000001')"
+  ],
+  "checkin": {
+    "data_real": "2024-05-01T14:15:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "checkout": {
+    "data_prevista": "2024-05-05T12:00:00Z",
+    "data_real": "2024-05-05T10:30:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "status_hospedagem": "Encerrada",
+  "folio": {
+    "id_folio": "ObjectId('65bf00000000000000000001')",
+    "aberto": false,
+    "itens": [
+      {
+        "id_item_folio": "ObjectId('65bf10000000000000000001')",
+        "data_hora": "2024-05-02T08:30:00Z",
+        "descricao": "Café da Manhã Premium",
+        "id_produto_servico": "ObjectId('65b600000000000000000001')",
+        "quantidade": 2,
+        "valor_unitario": 65.00,
+        "valor_total": 130.00,
+        "lancado_por_id": "ObjectId('65b500000000000000000006')"
+      }
+    ],
+    "totais": {
+      "total_diarias": 1800.00,
+      "total_consumo": 130.00,
+      "total_taxas": 0.00,
+      "total_descontos": 0.00,
+      "total_geral": 1930.00,
+      "total_pago": 1930.00,
+      "saldo_devedor": 0.00
+    }
+  },
+  "chaves_acesso": [
+    {
+      "id_chave": "RF-101-A",
+      "tipo": "RFID",
+      "data_emissao": "2024-05-01T14:15:00Z",
+      "data_expiracao": "2024-05-05T12:00:00Z",
+      "status": "Inativa"
+    }
+  ],
+  "observacoes_estadia": [],
+  "auditoria": { "data_criacao": "2024-05-01T14:15:00Z", "ultima_atualizacao": "2024-05-05T10:30:00Z" }
+}

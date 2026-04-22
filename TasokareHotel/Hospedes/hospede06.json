@@ -1,0 +1,92 @@
+{
+  "id_hospede": "ObjectId('65b100000000000000000006')",
+  "dados_identificacao": {
+    "nome_completo": "Laura Mendes",
+    "data_nascimento": "2000-12-05T00:00:00Z",
+    "nacionalidade": "Brasileira",
+    "idioma_preferencial": "PT-BR",
+    "documento": {
+      "tipo": "CPF",
+      "numero": "666.777.888-99"
+    }
+  },
+  "comunicacao_localizacao": {
+    "contato": {
+      "telefone": "+55 51 3666-6666",
+      "celular": "+55 51 99999-6666",
+      "email": "laura.mendes@email.com"
+    },
+    "contato_emergencia": {
+      "nome_contato": "Pedro Mendes",
+      "telefone": "+55 51 98888-6666",
+      "parentesco": "Pai"
+    },
+    "endereco": {
+      "logradouro": "Rua dos Andradas",
+      "numero": "300",
+      "bairro": "Centro Histórico",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "pais": "Brasil",
+      "cep": "90020-000"
+    }
+  },
+  "saude_e_preferencias": {
+    "preferencias_gerais": ["Pet friendly", "Quarto no térreo"],
+    "restricoes_alimentares": [],
+    "alergias": ["Frutos do mar"],
+    "medicamentos": [],
+    "acessibilidade": {
+      "necessita": false,
+      "tipos": []
+    }
+  },
+  "perfil_de_viagem": {
+    "grupo_familiar_padrao": "Solo com Pet",
+    "motivos_hospedagem": ["Lazer", "Turismo"],
+    "veiculos_registrados": []
+  },
+  "relacionamento_e_historico": {
+    "fidelidade": {
+      "status": "Standard",
+      "pontos": 450,
+      "tipo_hospede": 1
+    },
+    "habitos_de_consumo": ["Kit Pet", "Frigobar"],
+    "historico_ids": {
+      "hospedagens": [],
+      "reservas": [],
+      "cancelamentos": []
+    }
+  },
+  "financeiro_e_pagamento": {
+    "metricas": {
+      "gasto_medio": 350.00,
+      "receita_total": 350.00,
+      "gasto_maximo": 350.00,
+      "gasto_minimo": 350.00
+    },
+    "metodos_salvos": [
+      {
+        "id_gateway_pagamento": "GW-CUST-1006",
+        "ultimos_quatro_digitos": "7788",
+        "bandeira": "Visa"
+      }
+    ]
+  },
+  "marketing_e_privacidade": {
+    "influenciador": false,
+    "redes_sociais": { "facebook": "", "instagram": "@lauramendes_pet", "twitter": "", "linkedin": "", "youtube": "", "tiktok": "", "kwai": "" },
+    "consentimentos": { "aceita_marketing_email": true, "aceita_marketing_sms": true, "compartilhamento_parceiros": false }
+  },
+  "informacoes_corporativas": {
+    "viajante_corporativo": false,
+    "empresa": { "nome": "", "id_fiscal": "", "conta_corporativa_id": "" }
+  },
+  "seguranca_e_alertas": {
+    "em_lista_de_alerta": false,
+    "motivo": "",
+    "observacoes": ["Viaja com cachorro porte pequeno (Poodle)."]
+  },
+  "auditoria": { "ativo": true, "data_cadastro": "2024-05-01T10:20:00Z", "ultima_atualizacao": "2024-05-01T10:20:00Z" }
+}

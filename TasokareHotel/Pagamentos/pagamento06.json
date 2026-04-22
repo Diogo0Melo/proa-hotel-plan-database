@@ -1,0 +1,40 @@
+{
+  "id_pagamento": "ObjectId('65b700000000000000000006')",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId('65b400000000000000000006')",
+    "id_reserva": "ObjectId('65b300000000000000000006')",
+    "id_hospede": "ObjectId('65b100000000000000000006')"
+  },
+  "valores": {
+    "valor_total_pago": 650.00,
+    "moeda": "BRL"
+  },
+  "status_pagamento": "Pago",
+  "data_pagamento": "2024-09-03T10:05:00Z",
+  "parcelas": [
+    {
+      "metodo": "Cartão de Crédito",
+      "bandeira": "Visa",
+      "valor": 125.00,
+      "num_parcelas": 1,
+      "status": "Aprovado",
+      "transacao_id": "TXN-VISA-1006A",
+      "data_processamento": "2024-08-10T16:35:00Z"
+    },
+    {
+      "metodo": "Cartão de Crédito",
+      "bandeira": "Visa",
+      "valor": 525.00,
+      "num_parcelas": 1,
+      "status": "Aprovado",
+      "transacao_id": "TXN-VISA-1006B",
+      "data_processamento": "2024-09-03T10:05:00Z"
+    }
+  ],
+  "documento_fiscal": {
+    "tipo": "NFS-e",
+    "numero": "001820",
+    "link_download": "https://fiscal.hotelnebula.com/nfse/001820.pdf"
+  },
+  "auditoria": { "processado_por_id": "ObjectId('65b500000000000000000001')", "data_criacao": "2024-09-03T10:05:00Z" }
+}

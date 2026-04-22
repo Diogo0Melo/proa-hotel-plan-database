@@ -1,0 +1,58 @@
+{
+  "id_quarto": "ObjectId('65b200000000000000000004')",
+  "identificacao_e_localizacao": {
+    "numero": 202,
+    "nome": "Suíte Executiva 202",
+    "andar": 2,
+    "bloco_ou_torre": "Torre A",
+    "vista_principal": "Cidade"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "Suíte Executiva",
+    "capacidade": {
+      "adultos_maximo": 2,
+      "criancas_maximo": 2
+    },
+    "area_metros_quadrados": 45.0,
+    "configuracao_camas": [
+      {
+        "tipo": "King Size",
+        "quantidade": 1
+      },
+      { "tipo": "Berço", "quantidade": 1 }
+    ],
+    "banheiros_quantidade": 1
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": false,
+    "conecta_com_ids_quartos": []
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": ["Ar-condicionado Split", "Cofre digital para laptop", "Mesa de reunião", "Poltrona de leitura", "Máquina Nespresso"],
+    "equipamentos_eletronicos": ["Smart TV 55\"", "Frigobar premium", "Secador de cabelo profissional"],
+    "produtos_banho": ["Kit L'Occitane", "Roupão de banho", "Pantufas"],
+    "smart_room": { "habilitado": true, "dispositivos_iot_ids": ["IOT-LUZ-202", "IOT-AC-202"] }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": false,
+    "permite_pets": false,
+    "permite_fumantes": false
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": 450.00,
+    "moeda": "BRL",
+    "taxas_adicionais": []
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": ["https://storage.hotelnebula.com/quartos/202/foto1.jpg"],
+    "url_tour_virtual": "https://tour.hotelnebula.com/202",
+    "url_video": ""
+  },
+  "sustentabilidade_e_consumo": { "sensor_consumo_energia_id": "SENS-ENE-202", "sensor_consumo_agua_id": "SENS-AGU-202", "media_kwh_diaria": 14.5 },
+  "operacao_e_housekeeping": {
+    "status_atual": "Limpeza em Andamento",
+    "prioridade_limpeza": "Alta",
+    "auditoria_limpeza": { "ultima_limpeza": "2024-05-30T09:00:00Z", "inspetor_responsavel_id": "ObjectId('65b500000000000000000003')" },
+    "manutencao": { "necessita_reparo": false, "descricao_reparo": "", "historico_ocorrencias_ids": [] }
+  }
+}

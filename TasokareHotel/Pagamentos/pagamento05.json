@@ -1,0 +1,24 @@
+{
+  "id_pagamento": "ObjectId('65b700000000000000000005')",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId('65b400000000000000000005')",
+    "id_reserva": "ObjectId('65b300000000000000000005')",
+    "id_hospede": "ObjectId('65b100000000000000000005')"
+  },
+  "valores": {
+    "valor_total_pago": 0.00,
+    "moeda": "BRL"
+  },
+  "status_pagamento": "Aguardando Faturamento",
+  "data_pagamento": null,
+  "parcelas": [],
+  "documento_fiscal": {
+    "tipo": "NF-e Fatura",
+    "numero": "Pendente",
+    "link_download": ""
+  },
+  "auditoria": { 
+    "processado_por_id": null, 
+    "data_criacao": "2024-10-10T15:15:00Z" 
+  }
+}

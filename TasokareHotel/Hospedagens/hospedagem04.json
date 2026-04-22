@@ -1,0 +1,64 @@
+{
+  "id_hospedagem": "ObjectId('65b400000000000000000004')",
+  "id_reserva_origem": "ObjectId('65b300000000000000000004')",
+  "id_quarto": "ObjectId('65b200000000000000000004')",
+  "ids_hospedes": [
+    "ObjectId('65b100000000000000000004')"
+  ],
+  "checkin": {
+    "data_real": "2024-08-05T14:45:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "checkout": {
+    "data_prevista": "2024-08-08T12:00:00Z",
+    "data_real": "2024-08-08T13:30:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "status_hospedagem": "Encerrada",
+  "folio": {
+    "id_folio": "ObjectId('65bf00000000000000000004')",
+    "aberto": false,
+    "itens": [
+      {
+        "id_item_folio": "ObjectId('65bf10000000000000000004')",
+        "data_hora": "2024-08-06T20:00:00Z",
+        "descricao": "Consumo de Frigobar",
+        "id_produto_servico": "ObjectId('65b600000000000000000003')",
+        "quantidade": 2,
+        "valor_unitario": 15.00,
+        "valor_total": 30.00,
+        "lancado_por_id": "ObjectId('65b500000000000000000004')"
+      },
+      {
+        "id_item_folio": "ObjectId('65bf10000000000000000005')",
+        "data_hora": "2024-08-07T18:00:00Z",
+        "descricao": "Estacionamento Valet",
+        "id_produto_servico": "ObjectId('65b600000000000000000006')",
+        "quantidade": 3,
+        "valor_unitario": 45.00,
+        "valor_total": 135.00,
+        "lancado_por_id": "ObjectId('65b500000000000000000001')"
+      }
+    ],
+    "totais": {
+      "total_diarias": 1350.00,
+      "total_consumo": 165.00,
+      "total_taxas": 0.00,
+      "total_descontos": 0.00,
+      "total_geral": 1515.00,
+      "total_pago": 1515.00,
+      "saldo_devedor": 0.00
+    }
+  },
+  "chaves_acesso": [
+    {
+      "id_chave": "RF-202-B",
+      "tipo": "RFID",
+      "data_emissao": "2024-08-05T14:45:00Z",
+      "data_expiracao": "2024-08-08T12:00:00Z",
+      "status": "Inativa"
+    }
+  ],
+  "observacoes_estadia": [ { "data_hora": "2024-08-08T11:00:00Z", "texto": "Autorizado late checkout até 13:30.", "autor_id": "ObjectId('65b500000000000000000005')" } ],
+  "auditoria": { "data_criacao": "2024-08-05T14:45:00Z", "ultima_atualizacao": "2024-08-08T13:30:00Z" }
+}

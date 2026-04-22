@@ -1,0 +1,24 @@
+{
+  "id_funcionario": "ObjectId('65b500000000000000000001')",
+  "dados_pessoais": {
+    "nome_completo": "Juliana Martins",
+    "cpf": "987.654.321-11",
+    "email_corporativo": "juliana.martins@hotelnebula.com",
+    "telefone": "+55 21 99123-4567"
+  },
+  "cargo_e_alocacao": {
+    "cargo": "Recepcionista Senior",
+    "departamento": "Recepção",
+    "salario_base": 3200.00,
+    "data_admissao": "2022-08-01T08:00:00Z"
+  },
+  "turno": {
+    "tipo": "Manhã",
+    "horario_entrada": "07:00",
+    "horario_saida": "15:00",
+    "escala": "6x1"
+  },
+  "permissoes_sistema": ["checkin_realizar", "checkout_realizar", "reservas_visualizar", "reservas_editar", "pagamentos_processar", "hospedes_cadastrar"],
+  "status": "Ativo",
+  "auditoria": { "ultima_promocao": "2024-01-10T09:00:00Z", "criado_em": "2022-07-25T14:30:00Z" }
+}

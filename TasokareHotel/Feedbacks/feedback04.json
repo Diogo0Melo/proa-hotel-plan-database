@@ -1,0 +1,29 @@
+{
+  "id_feedback": "ObjectId('65b800000000000000000004')",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId('65b400000000000000000004')",
+    "id_quarto": "ObjectId('65b200000000000000000004')",
+    "id_hospede": "ObjectId('65b100000000000000000004')"
+  },
+  "avaliacao": {
+    "nota_geral": 3.5,
+    "notas_detalhadas": {
+      "limpeza": 4,
+      "atendimento": 4,
+      "conforto": 4,
+      "custo_beneficio": 2,
+      "localizacao": 5
+    },
+    "comentario_cliente": "O quarto estava bom e a decoração de aniversário ficou muito bonita, mas achei um absurdo o preço do estacionamento e os valores do frigobar."
+  },
+  "resposta_hotel": {
+    "respondido": true,
+    "texto_resposta": "Olá Juliana. Ficamos felizes que tenha gostado da surpresa de aniversário! Sobre os valores de consumação e valet, repassamos sua observação à gerência para revisão de mercado. Agradecemos o relato.",
+    "data_resposta": "2024-08-10T09:00:00Z",
+    "respondido_por_id": "ObjectId('65b500000000000000000005')"
+  },
+  "status_publicacao": {
+    "visivel_site": false,
+    "data_avaliacao": "2024-08-09T14:00:00Z"
+  }
+}

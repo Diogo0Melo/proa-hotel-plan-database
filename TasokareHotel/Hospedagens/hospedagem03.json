@@ -1,0 +1,54 @@
+{
+  "id_hospedagem": "ObjectId('65b400000000000000000003')",
+  "id_reserva_origem": "ObjectId('65b300000000000000000003')",
+  "id_quarto": "ObjectId('65b200000000000000000002')",
+  "ids_hospedes": [
+    "ObjectId('65b100000000000000000003')"
+  ],
+  "checkin": {
+    "data_real": "2024-07-20T14:10:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "checkout": {
+    "data_prevista": "2024-07-25T12:00:00Z",
+    "data_real": "2024-07-25T11:15:00Z",
+    "realizado_por_id": "ObjectId('65b500000000000000000001')"
+  },
+  "status_hospedagem": "Encerrada",
+  "folio": {
+    "id_folio": "ObjectId('65bf00000000000000000003')",
+    "aberto": false,
+    "itens": [
+      {
+        "id_item_folio": "ObjectId('65bf10000000000000000003')",
+        "data_hora": "2024-07-22T09:00:00Z",
+        "descricao": "Lavanderia Express",
+        "id_produto_servico": "ObjectId('65b600000000000000000002')",
+        "quantidade": 1,
+        "valor_unitario": 120.00,
+        "valor_total": 120.00,
+        "lancado_por_id": "ObjectId('65b500000000000000000003')"
+      }
+    ],
+    "totais": {
+      "total_diarias": 1250.00,
+      "total_consumo": 120.00,
+      "total_taxas": 0.00,
+      "total_descontos": 0.00,
+      "total_geral": 1370.00,
+      "total_pago": 1370.00,
+      "saldo_devedor": 0.00
+    }
+  },
+  "chaves_acesso": [
+    {
+      "id_chave": "RF-102-A",
+      "tipo": "RFID",
+      "data_emissao": "2024-07-20T14:10:00Z",
+      "data_expiracao": "2024-07-25T12:00:00Z",
+      "status": "Inativa"
+    }
+  ],
+  "observacoes_estadia": [ { "data_hora": "2024-07-20T14:15:00Z", "texto": "Hóspede acomodado no quarto acessível conforme solicitado.", "autor_id": "ObjectId('65b500000000000000000001')" } ],
+  "auditoria": { "data_criacao": "2024-07-20T14:10:00Z", "ultima_atualizacao": "2024-07-25T11:15:00Z" }
+}

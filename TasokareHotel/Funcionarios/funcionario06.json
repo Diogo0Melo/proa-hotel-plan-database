@@ -1,0 +1,24 @@
+{
+  "id_funcionario": "ObjectId('65b500000000000000000006')",
+  "dados_pessoais": {
+    "nome_completo": "Fernando Rocha",
+    "cpf": "147.258.369-66",
+    "email_corporativo": "fernando.rocha@hotelnebula.com",
+    "telefone": "+55 41 94444-3322"
+  },
+  "cargo_e_alocacao": {
+    "cargo": "Maitre",
+    "departamento": "Alimentos e Bebidas",
+    "salario_base": 4200.00,
+    "data_admissao": "2020-03-10T08:00:00Z"
+  },
+  "turno": {
+    "tipo": "Noite",
+    "horario_entrada": "16:00",
+    "horario_saida": "00:00",
+    "escala": "6x1"
+  },
+  "permissoes_sistema": ["pdv_restaurante", "lancar_consumo_quarto", "estoque_visualizar"],
+  "status": "Ativo",
+  "auditoria": { "ultima_promocao": "2023-08-01T09:00:00Z", "criado_em": "2020-03-05T15:00:00Z" }
+}

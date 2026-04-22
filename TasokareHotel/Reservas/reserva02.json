@@ -1,0 +1,54 @@
+{
+  "id_reserva": "ObjectId('65b300000000000000000002')",
+  "id_hospede_principal": "ObjectId('65b100000000000000000002')",
+  "hospede_snapshot": {
+    "nome": "Ana Paula Oliveira",
+    "email": "ana.oliveira@email.com",
+    "telefone": "+55 31 99999-2222"
+  },
+  "ids_hospedes_acompanhantes": [],
+  "id_quarto_atribuido": "ObjectId('65b200000000000000000005')",
+  "quarto_snapshot": {
+    "numero": 301,
+    "tipo": "Deluxe",
+    "preco_diaria": 750.00
+  },
+  "id_tipo_quarto_reservado": null,
+  "data_reserva": "2024-05-20T11:45:00Z",
+  "data_checkin_prevista": "2024-06-10T14:00:00Z",
+  "data_checkout_prevista": "2024-06-12T12:00:00Z",
+  "numero_adultos": 1,
+  "numero_criancas": 0,
+  "status_reserva": "Finalizada",
+  "origem": {
+    "canal_reserva": "Booking.com",
+    "id_agencia_viagem": null,
+    "id_conta_corporativa": null
+  },
+  "financeiro": {
+    "tarifa_diaria_acordada": 750.00,
+    "valor_total_estimado": 1500.00,
+    "valor_sinal_pago": 1500.00,
+    "id_promocao_aplicada": null,
+    "garantia": {
+      "metodo": "Cartão de Crédito",
+      "id_gateway_pagamento": "GW-OTA-999",
+      "ultimos_quatro_digitos": "0000"
+    }
+  },
+  "solicitacoes_especiais": ["Quarto silencioso."],
+  "historico_alteracoes": [],
+  "cancelamento": {
+    "foi_cancelada": false,
+    "data_cancelamento": null,
+    "motivo": "",
+    "taxa_cancelamento_aplicada": 0,
+    "id_usuario_cancelamento": null
+  },
+  "id_hospedagem_gerada": "ObjectId('65b400000000000000000002')",
+  "auditoria": {
+    "data_criacao": "2024-05-20T11:45:00Z",
+    "ultima_atualizacao": "2024-06-10T14:20:00Z",
+    "criado_por_id": "ObjectId('65b500000000000000000001')"
+  }
+}
