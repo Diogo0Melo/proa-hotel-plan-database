@@ -1,4 +1,4 @@
-<h1 align="center">🏨 Hotel Tasokare - Planejamento</h1>
+<h1 align="center"><a href="./TasokareHotel/Instructions/README.md" target="_blank">🏨 Hotel Tasokare - Planejamento</a></h1>
 
 <img width="2752" height="1536" alt="A_wide_16_9_202604221302" src="https://github.com/user-attachments/assets/27ad1b2f-b5d0-454e-a9ac-2feb4d2fca7c" />
 <br>
