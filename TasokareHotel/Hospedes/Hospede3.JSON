@@ -1,0 +1,130 @@
+{
+    "id_hospede": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "dados_identificacao": {
+        "nome_completo": "Maria Clara Oliveira",
+        "data_nascimento": "1992-07-01T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "123.456.789-00"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "552120003000",
+            "celular": "5521990003000",
+            "email": "maria.oliveira@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Fernando Oliveira",
+            "telefone": "5521980003000",
+            "parentesco": "Irmão"
+        },
+        "endereco": {
+            "logradouro": "Rua Copacabana",
+            "numero": "500",
+            "bairro": "Copacabana",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "pais": "Brasil",
+            "cep": "22000-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com varanda",
+            "Café da manhã no quarto"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [
+            "Insulina"
+        ],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Amigos",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Turismo"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Prata",
+            "pontos": 8000,
+            "tipo_hospede": 2
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Piscina",
+                "Bar da piscina"
+            ],
+            "canal_reserva_preferido": "Booking.com"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-qwe-9"
+            ],
+            "reservas": [
+                "reserva-rty-10"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 950.00,
+            "receita_total": 1900.00,
+            "gasto_maximo": 1000.00,
+            "gasto_minimo": 900.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_abcde",
+                "ultimos_quatro_digitos": "1111",
+                "bandeira": "Elo"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": true,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": "mariaclara_travels",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": "mariaclara_tiktok",
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": true,
+            "compartilhamento_parceiros": true
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alerta": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2021-03-20T15:00:00Z",
+        "ultima_atualizacao": "2023-09-10T09:00:00Z"
+    }
+}

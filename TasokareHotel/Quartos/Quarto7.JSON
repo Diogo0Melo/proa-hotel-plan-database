@@ -1,0 +1,76 @@
+{
+  "id_quarto": "uuid-quarto-007",
+  "identificacao_e_localizacao": {
+    "numero": 701,
+    "nome": "Business Suíte",
+    "andar": 7,
+    "bloco_ou_torre": "A",
+    "vista_principal": "Cidade"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "Business",
+    "capacidade": {
+      "adultos_maximo": 1,
+      "criancas_maximo": 0
+    },
+    "area_metros_quadrados": 35.0,
+    "configuracao_camas": [
+      {
+        "tipo": "Queen",
+        "quantidade": 1
+      }
+    ],
+    "banheiros_quantidade": 1
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": false,
+    "conecta_com_ids_quartos": []
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": ["Ar Condicionado", "Cofre", "Minibar", "Mesa de trabalho ampla", "Cadeira ergonômica"],
+    "equipamentos_eletronicos": ["TV 50 polegadas", "Impressora multifuncional", "Telefone com viva-voz"],
+    "produtos_banho": ["Shampoo", "Condicionador", "Sabonete"],
+    "smart_room": {
+      "habilitado": true,
+      "dispositivos_iot_ids": ["iot-luz-701", "iot-ac-701"]
+    }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": false,
+    "permite_pets": false,
+    "permite_fumantes": false
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": 650.00,
+    "moeda": "BRL",
+    "taxas_adicionais": [
+      {
+        "nome_taxa": "Taxa de Serviço",
+        "valor": 65.00
+      }
+    ]
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": ["/img/q701/foto1.jpg", "/img/q701/foto2.jpg"],
+    "url_tour_virtual": "/tour/q701",
+    "url_video": null
+  },
+  "sustentabilidade_e_consumo": {
+    "sensor_consumo_energia_id": "energy-sensor-701",
+    "sensor_consumo_agua_id": "water-sensor-701",
+    "media_kwh_diaria": 20.5
+  },
+  "operacao_e_housekeeping": {
+    "status_atual": "Disponível",
+    "prioridade_limpeza": "Normal",
+    "auditoria_limpeza": {
+      "ultima_limpeza": "2023-10-30T18:00:00Z",
+      "inspetor_responsavel_id": "user-insp-003"
+    },
+    "manutencao": {
+      "necessita_reparo": false,
+      "descricao_reparo": null,
+      "historico_ocorrencias_ids": []
+    }
+  }
+}

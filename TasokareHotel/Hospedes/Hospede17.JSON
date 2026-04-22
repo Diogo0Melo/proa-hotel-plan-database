@@ -1,0 +1,130 @@
+{
+    "id_hospede": "q7r8s9t0-u1v2-3456-7890-abcdef1234567890126",
+    "dados_identificacao": {
+        "nome_completo": "Helena Costa",
+        "data_nascimento": "1987-04-04T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Inglês",
+        "documento": {
+            "tipo": "Passaporte",
+            "numero": "BR778899"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130007000",
+            "celular": "5511990007000",
+            "email": "helena.costa@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Felipe Costa",
+            "telefone": "5511980007000",
+            "parentesco": "Irmão"
+        },
+        "endereco": {
+            "logradouro": "Rua da Consolação",
+            "numero": "1500",
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01300-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Serviço de lavanderia"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Negócios",
+            "Conferência"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Platina",
+            "pontos": 32000,
+            "tipo_hospede": 4
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Business Lounge",
+                "Academia"
+            ],
+            "canal_reserva_preferido": "Agência de Viagens Corporativas"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-def-42",
+                "hospedagem-ghi-43",
+                "hospedagem-jkl-44"
+            ],
+            "reservas": [
+                "reserva-mno-45"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 2700.00,
+            "receita_total": 8100.00,
+            "gasto_maximo": 3000.00,
+            "gasto_minimo": 2500.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_abcde",
+                "ultimos_quatro_digitos": "3333",
+                "bandeira": "Visa Corporate"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": "helenacosta-exec",
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": false,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": true,
+        "empresa": {
+            "nome": "Consultoria Global",
+            "id_fiscal": "BR00112233445",
+            "conta_corporativa_id": "CORP-CG-025"
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2018-09-01T09:00:00Z",
+        "ultima_atualizacao": "2023-10-28T11:00:00Z"
+    }
+}

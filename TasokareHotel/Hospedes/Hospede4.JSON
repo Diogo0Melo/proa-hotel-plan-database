@@ -1,0 +1,141 @@
+{
+    "id_hospede": "d4e5f6a7-b8c9-0123-4567-890abcdef123",
+    "dados_identificacao": {
+        "nome_completo": "Roberto Carlos Souza",
+        "data_nascimento": "1965-01-20T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Espanhol",
+        "documento": {
+            "tipo": "RG",
+            "numero": "987654321"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "553130004000",
+            "celular": "5531990004000",
+            "email": "roberto.souza@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Sonia Souza",
+            "telefone": "5531980004000",
+            "parentesco": "Esposa"
+        },
+        "endereco": {
+            "logradouro": "Avenida Afonso Pena",
+            "numero": "1500",
+            "bairro": "Centro",
+            "cidade": "Belo Horizonte",
+            "estado": "MG",
+            "pais": "Brasil",
+            "cep": "30130-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com cama king-size",
+            "Frigobar abastecido"
+        ],
+        "restricoes_alimentares": [
+            "Sem lactose"
+        ],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": true,
+            "tipos": [
+                "Cadeira de rodas"
+            ]
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Férias"
+        ],
+        "veiculos_registrados": [
+            {
+                "tipo": "Carro",
+                "marca": "Toyota",
+                "modelo": "Corolla",
+                "ano": 2020,
+                "placa": "ABC1234",
+                "cor": "Prata"
+            }
+        ]
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Bronze",
+            "pontos": 3000,
+            "tipo_hospede": 1
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Estacionamento",
+                "Restaurante"
+            ],
+            "canal_reserva_preferido": "Telefone"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-zxc-11"
+            ],
+            "reservas": [
+                "reserva-vbn-12"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 700.00,
+            "receita_total": 1400.00,
+            "gasto_maximo": 750.00,
+            "gasto_minimo": 650.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_fghij",
+                "ultimos_quatro_digitos": "5555",
+                "bandeira": "American Express"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": false,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2019-08-01T11:00:00Z",
+        "ultima_atualizacao": "2023-10-01T10:00:00Z"
+    }
+}

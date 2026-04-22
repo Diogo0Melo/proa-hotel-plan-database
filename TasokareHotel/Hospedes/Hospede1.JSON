@@ -1,0 +1,131 @@
+{
+    "id_hospede": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "dados_identificacao": {
+        "nome_completo": "Ana Paula Silva",
+        "data_nascimento": "1985-03-15T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "RG",
+            "numero": "123456789"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130001000",
+            "celular": "5511990001000",
+            "email": "ana.silva@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Carlos Silva",
+            "telefone": "5511980001000",
+            "parentesco": "Marido"
+        },
+        "endereco": {
+            "logradouro": "Rua das Flores",
+            "numero": "100",
+            "bairro": "Jardins",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01400-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para o mar",
+            "Travesseiros extras"
+        ],
+        "restricoes_alimentares": [
+            "Vegetariana"
+        ],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Aniversário"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Ouro",
+            "pontos": 15000,
+            "tipo_hospede": 3
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Spa",
+                "Room Service"
+            ],
+            "canal_reserva_preferido": "Site do Hotel"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-abc-1",
+                "hospedagem-def-2"
+            ],
+            "reservas": [
+                "reserva-ghi-3"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 1200.50,
+            "receita_total": 3600.00,
+            "gasto_maximo": 1800.00,
+            "gasto_minimo": 800.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_12345",
+                "ultimos_quatro_digitos": "4242",
+                "bandeira": "Visa"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": "ana.silva.profile",
+            "instagram": "anapaulasilva_oficial",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2020-01-10T10:00:00Z",
+        "ultima_atualizacao": "2023-10-26T14:30:00Z"
+    }
+}

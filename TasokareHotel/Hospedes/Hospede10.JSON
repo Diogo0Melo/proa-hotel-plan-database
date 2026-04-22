@@ -1,0 +1,133 @@
+{
+    "id_hospede": "j0k1l2m3-n4o5-6789-0123-abcdef123456789",
+    "dados_identificacao": {
+        "nome_completo": "Carlos Eduardo Pereira",
+        "data_nascimento": "1955-08-08T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "RG",
+            "numero": "334455667"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "558130009000",
+            "celular": "5581990009000",
+            "email": "carlos.pereira@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Helena Pereira",
+            "telefone": "5581980009000",
+            "parentesco": "Esposa"
+        },
+        "endereco": {
+            "logradouro": "Avenida Boa Viagem",
+            "numero": "1000",
+            "bairro": "Boa Viagem",
+            "cidade": "Recife",
+            "estado": "PE",
+            "pais": "Brasil",
+            "cep": "51000-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para o mar",
+            "Cama extra firme"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [
+            "Remédio para pressão"
+        ],
+        "acessibilidade": {
+            "necessita": true,
+            "tipos": [
+                "Andador"
+            ]
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Descanso"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Ouro",
+            "pontos": 20000,
+            "tipo_hospede": 3
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Restaurante",
+                "Piscina"
+            ],
+            "canal_reserva_preferido": "Site do Hotel"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-def-24",
+                "hospedagem-ghi-25"
+            ],
+            "reservas": [
+                "reserva-jkl-26"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 1800.00,
+            "receita_total": 5400.00,
+            "gasto_maximo": 2500.00,
+            "gasto_minimo": 1000.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_abcde",
+                "ultimos_quatro_digitos": "6666",
+                "bandeira": "Visa"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2019-03-01T09:00:00Z",
+        "ultima_atualizacao": "2023-10-28T14:00:00Z"
+    }
+}

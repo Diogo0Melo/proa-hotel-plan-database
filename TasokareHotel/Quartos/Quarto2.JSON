@@ -1,0 +1,80 @@
+{
+  "id_quarto": "uuid-quarto-002",
+  "identificacao_e_localizacao": {
+    "numero": 505,
+    "nome": "Suíte Deluxe Vista Mar",
+    "andar": 5,
+    "bloco_ou_torre": "A",
+    "vista_principal": "Oceano"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "Deluxe",
+    "capacidade": {
+      "adultos_maximo": 2,
+      "criancas_maximo": 0
+    },
+    "area_metros_quadrados": 45.0,
+    "configuracao_camas": [
+      {
+        "tipo": "King",
+        "quantidade": 1
+      }
+    ],
+    "banheiros_quantidade": 1
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": false,
+    "conecta_com_ids_quartos": []
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": ["Ar Condicionado Central", "Cofre", "Minibar Premium", "Máquina de Café Expresso", "Varanda Privativa"],
+    "equipamentos_eletronicos": ["TV 55 polegadas Smart", "Sistema de Som Bluetooth", "Telefone"],
+    "produtos_banho": ["Shampoo Premium", "Condicionador Premium", "Sabonete Artesanal", "Sais de Banho"],
+    "smart_room": {
+      "habilitado": true,
+      "dispositivos_iot_ids": ["iot-luz-505", "iot-ac-505", "iot-cortina-505"]
+    }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": false,
+    "permite_pets": false,
+    "permite_fumantes": false
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": 780.00,
+    "moeda": "BRL",
+    "taxas_adicionais": [
+      {
+        "nome_taxa": "Taxa de Serviço",
+        "valor": 78.00
+      },
+      {
+        "nome_taxa": "Taxa de Turismo",
+        "valor": 15.00
+      }
+    ]
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": ["/img/q505/foto1.jpg", "/img/q505/foto2.jpg", "/img/q505/foto3.jpg"],
+    "url_tour_virtual": "/tour/q505",
+    "url_video": "/video/q505"
+  },
+  "sustentabilidade_e_consumo": {
+    "sensor_consumo_energia_id": "energy-sensor-505",
+    "sensor_consumo_agua_id": "water-sensor-505",
+    "media_kwh_diaria": 22.5
+  },
+  "operacao_e_housekeeping": {
+    "status_atual": "Ocupado",
+    "prioridade_limpeza": "Alta",
+    "auditoria_limpeza": {
+      "ultima_limpeza": "2023-10-31T10:00:00Z",
+      "inspetor_responsavel_id": "user-insp-001"
+    },
+    "manutencao": {
+      "necessita_reparo": false,
+      "descricao_reparo": null,
+      "historico_ocorrencias_ids": []
+    }
+  }
+}

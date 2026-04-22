@@ -1,0 +1,130 @@
+{
+    "id_hospede": "g7h8i9j0-k1l2-3456-7890-abcdef123456",
+    "dados_identificacao": {
+        "nome_completo": "Isabela Rocha",
+        "data_nascimento": "1988-02-28T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "RG",
+            "numero": "112233445"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "556130007000",
+            "celular": "5561990007000",
+            "email": "isabela.rocha@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Lucas Rocha",
+            "telefone": "5561980007000",
+            "parentesco": "Filho"
+        },
+        "endereco": {
+            "logradouro": "SQS 100 Bloco A",
+            "numero": "101",
+            "bairro": "Asa Sul",
+            "cidade": "Brasília",
+            "estado": "DF",
+            "pais": "Brasil",
+            "cep": "70000-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com berço",
+            "Serviço de babá"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [
+            "Amendoim"
+        ],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Família com crianças",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Férias em família"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Prata",
+            "pontos": 9500,
+            "tipo_hospede": 2
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Kids Club",
+                "Restaurante"
+            ],
+            "canal_reserva_preferido": "Site do Hotel"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-uvw-17"
+            ],
+            "reservas": [
+                "reserva-xyz-18"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 1100.00,
+            "receita_total": 2200.00,
+            "gasto_maximo": 1300.00,
+            "gasto_minimo": 900.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_uvwxy",
+                "ultimos_quatro_digitos": "3333",
+                "bandeira": "Visa"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": "isabelarocha_family",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2020-05-12T10:00:00Z",
+        "ultima_atualizacao": "2023-10-15T18:00:00Z"
+    }
+}

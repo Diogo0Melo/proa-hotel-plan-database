@@ -1,0 +1,126 @@
+{
+    "id_hospede": "p6q7r8s9-t0u1-2345-6789-0abcdef1234567890125",
+    "dados_identificacao": {
+        "nome_completo": "Gustavo Lima",
+        "data_nascimento": "1991-07-12T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "778.899.001-33"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130006000",
+            "celular": "5511990006000",
+            "email": "gustavo.lima@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Carla Lima",
+            "telefone": "5511980006000",
+            "parentesco": "Mãe"
+        },
+        "endereco": {
+            "logradouro": "Rua Haddock Lobo",
+            "numero": "500",
+            "bairro": "Cerqueira César",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01414-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Academia"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Visita a amigos"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Bronze",
+            "pontos": 1500,
+            "tipo_hospede": 1
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Academia",
+                "Bar"
+            ],
+            "canal_reserva_preferido": "Booking.com"
+        },
+        "historico_ids": {
+            "hospedagens": [],
+            "reservas": [
+                "reserva-abc-41"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 500.00,
+            "receita_total": 500.00,
+            "gasto_maximo": 500.00,
+            "gasto_minimo": 500.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_rstuv",
+                "ultimos_quatro_digitos": "2222",
+                "bandeira": "Mastercard"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": "gustavolima_sp",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2023-01-10T14:00:00Z",
+        "ultima_atualizacao": "2023-09-05T10:00:00Z"
+    }
+}

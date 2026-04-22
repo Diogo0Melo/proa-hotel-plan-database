@@ -1,0 +1,132 @@
+{
+    "id_hospede": "h8i9j0k1-l2m3-4567-8901-abcdef1234567",
+    "dados_identificacao": {
+        "nome_completo": "Pedro Henrique Almeida",
+        "data_nascimento": "1970-06-05T00:00:00Z",
+        "nacionalidade": "Americano",
+        "idioma_preferencial": "Inglês",
+        "documento": {
+            "tipo": "Passaporte",
+            "numero": "US12345678"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "12125551234",
+            "celular": "12125555678",
+            "email": "pedro.almeida@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Sarah Almeida",
+            "telefone": "12125559012",
+            "parentesco": "Filha"
+        },
+        "endereco": {
+            "logradouro": "Main Street",
+            "numero": "45",
+            "bairro": "Downtown",
+            "cidade": "New York",
+            "estado": "NY",
+            "pais": "EUA",
+            "cep": "10001"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Serviço de concierge"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [
+            "Anti-hipertensivo"
+        ],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Negócios",
+            "Reuniões"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Platina",
+            "pontos": 40000,
+            "tipo_hospede": 4
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Business Lounge",
+                "Transporte executivo"
+            ],
+            "canal_reserva_preferido": "Agência de Viagens Corporativas"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-1a2b-19",
+                "hospedagem-3c4d-20",
+                "hospedagem-5e6f-21"
+            ],
+            "reservas": [
+                "reserva-7g8h-22"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 3000.00,
+            "receita_total": 12000.00,
+            "gasto_maximo": 4000.00,
+            "gasto_minimo": 2000.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_abcde",
+                "ultimos_quatro_digitos": "0000",
+                "bandeira": "Visa Corporate"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": "pedrohenriquealmeida-exec",
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": false,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": true,
+        "empresa": {
+            "nome": "Global Corp Inc.",
+            "id_fiscal": "US123456789",
+            "conta_corporativa_id": "CORP-GC-010"
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2017-01-01T09:00:00Z",
+        "ultima_atualizacao": "2023-10-27T09:00:00Z"
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "id_hospede": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+    "dados_identificacao": {
+        "nome_completo": "João Pedro Santos",
+        "data_nascimento": "1978-11-22T00:00:00Z",
+        "nacionalidade": "Português",
+        "idioma_preferencial": "Inglês",
+        "documento": {
+            "tipo": "Passaporte",
+            "numero": "PT1234567"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "351210002000",
+            "celular": "351910002000",
+            "email": "joao.santos@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Maria Santos",
+            "telefone": "351930002000",
+            "parentesco": "Esposa"
+        },
+        "endereco": {
+            "logradouro": "Avenida da Liberdade",
+            "numero": "50",
+            "bairro": "Centro",
+            "cidade": "Lisboa",
+            "estado": null,
+            "pais": "Portugal",
+            "cep": "1250-096"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto silencioso",
+            "Jornais diários"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [
+            "Glúten"
+        ],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Negócios",
+            "Conferência"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Platina",
+            "pontos": 30000,
+            "tipo_hospede": 4
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Academia",
+                "Lavanderia"
+            ],
+            "canal_reserva_preferido": "Agência de Viagens"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-jkl-4",
+                "hospedagem-mno-5",
+                "hospedagem-pqr-6"
+            ],
+            "reservas": [
+                "reserva-stu-7"
+            ],
+            "cancelamentos": [
+                "cancelamento-vwx-8"
+            ]
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 2500.00,
+            "receita_total": 10000.00,
+            "gasto_maximo": 3500.00,
+            "gasto_minimo": 1500.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_67890",
+                "ultimos_quatro_digitos": "8888",
+                "bandeira": "Mastercard"
+            },
+            {
+                "id_gateway_pagamento": "pgw_paypal_abc",
+                "ultimos_quatro_digitos": null,
+                "bandeira": "PayPal"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": "joaosantos_biz",
+            "linkedin": "joaopedrosantos-profile",
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": true,
+            "compartilhamento_parceiros": true
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": true,
+        "empresa": {
+            "nome": "Global Solutions Ltda.",
+            "id_fiscal": "PT500123456",
+            "conta_corporativa_id": "CORP-GS-001"
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2018-05-01T09:00:00Z",
+        "ultima_atualizacao": "2023-10-25T11:45:00Z"
+    }
+}

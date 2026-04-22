@@ -1,0 +1,76 @@
+{
+  "id_quarto": "uuid-quarto-006",
+  "identificacao_e_localizacao": {
+    "numero": 105,
+    "nome": "Quarto Acessível",
+    "andar": 1,
+    "bloco_ou_torre": "C",
+    "vista_principal": "Jardim"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "Acessível",
+    "capacidade": {
+      "adultos_maximo": 2,
+      "criancas_maximo": 0
+    },
+    "area_metros_quadrados": 30.0,
+    "configuracao_camas": [
+      {
+        "tipo": "Queen",
+        "quantidade": 1
+      }
+    ],
+    "banheiros_quantidade": 1
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": false,
+    "conecta_com_ids_quartos": []
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": ["Ar Condicionado", "Cofre", "Minibar", "Barras de apoio", "Portas largas"],
+    "equipamentos_eletronicos": ["TV 42 polegadas", "Telefone com botões grandes"],
+    "produtos_banho": ["Shampoo", "Condicionador", "Sabonete"],
+    "smart_room": {
+      "habilitado": true,
+      "dispositivos_iot_ids": ["iot-luz-105", "iot-ac-105", "iot-emergency-105"]
+    }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": true,
+    "permite_pets": false,
+    "permite_fumantes": false
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": 380.00,
+    "moeda": "BRL",
+    "taxas_adicionais": [
+      {
+        "nome_taxa": "Taxa de Serviço",
+        "valor": 38.00
+      }
+    ]
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": ["/img/q105/foto1.jpg", "/img/q105/foto2.jpg"],
+    "url_tour_virtual": "/tour/q105",
+    "url_video": "/video/q105"
+  },
+  "sustentabilidade_e_consumo": {
+    "sensor_consumo_energia_id": "energy-sensor-105",
+    "sensor_consumo_agua_id": "water-sensor-105",
+    "media_kwh_diaria": 14.8
+  },
+  "operacao_e_housekeeping": {
+    "status_atual": "Limpeza Pendente",
+    "prioridade_limpeza": "Alta",
+    "auditoria_limpeza": {
+      "ultima_limpeza": "2023-10-28T09:00:00Z",
+      "inspetor_responsavel_id": "user-insp-001"
+    },
+    "manutencao": {
+      "necessita_reparo": false,
+      "descricao_reparo": null,
+      "historico_ocorrencias_ids": []
+    }
+  }
+}

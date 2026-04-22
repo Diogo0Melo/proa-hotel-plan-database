@@ -1,0 +1,128 @@
+{
+    "id_hospede": "k1l2m3n4-o5p6-7890-1234-abcdef1234567890",
+    "dados_identificacao": {
+        "nome_completo": "Laura Martins",
+        "data_nascimento": "1990-01-01T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Inglês",
+        "documento": {
+            "tipo": "Passaporte",
+            "numero": "BR112233"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "559130001000",
+            "celular": "5591990001000",
+            "email": "laura.martins@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Roberto Martins",
+            "telefone": "5591980001000",
+            "parentesco": "Pai"
+        },
+        "endereco": {
+            "logradouro": "Avenida Nazaré",
+            "numero": "100",
+            "bairro": "Nazaré",
+            "cidade": "Belém",
+            "estado": "PA",
+            "pais": "Brasil",
+            "cep": "66000-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Serviço de quarto"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Negócios",
+            "Evento"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Prata",
+            "pontos": 7000,
+            "tipo_hospede": 2
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Academia",
+                "Restaurante"
+            ],
+            "canal_reserva_preferido": "Booking.com"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-mno-27"
+            ],
+            "reservas": [
+                "reserva-pqr-28"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 800.00,
+            "receita_total": 1600.00,
+            "gasto_maximo": 900.00,
+            "gasto_minimo": 700.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_qrstu",
+                "ultimos_quatro_digitos": "7777",
+                "bandeira": "Mastercard"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": "lauramartins-consulting",
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": true,
+        "empresa": {
+            "nome": "Consultoria Alpha",
+            "id_fiscal": "BR98765432100",
+            "conta_corporativa_id": "CORP-CA-015"
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2021-02-01T13:00:00Z",
+        "ultima_atualizacao": "2023-10-29T10:00:00Z"
+    }
+}

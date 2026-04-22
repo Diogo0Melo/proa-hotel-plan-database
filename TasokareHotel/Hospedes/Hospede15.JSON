@@ -1,0 +1,129 @@
+{
+    "id_hospede": "o5p6q7r8-s9t0-1234-5678-90abcdef1234567890124",
+    "dados_identificacao": {
+        "nome_completo": "Patrícia Oliveira",
+        "data_nascimento": "1975-03-03T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "RG",
+            "numero": "667788990"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130005000",
+            "celular": "5511990005000",
+            "email": "patricia.oliveira@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Roberto Oliveira",
+            "telefone": "5511980005000",
+            "parentesco": "Marido"
+        },
+        "endereco": {
+            "logradouro": "Rua da Consolação",
+            "numero": "2000",
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01300-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para o jardim",
+            "Frutas frescas no quarto"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Aniversário de casamento"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Ouro",
+            "pontos": 22000,
+            "tipo_hospede": 3
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Restaurante",
+                "Spa"
+            ],
+            "canal_reserva_preferido": "Site do Hotel"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-qrs-38",
+                "hospedagem-tuv-39"
+            ],
+            "reservas": [
+                "reserva-wxy-40"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 1300.00,
+            "receita_total": 3900.00,
+            "gasto_maximo": 1800.00,
+            "gasto_minimo": 900.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_mnopq",
+                "ultimos_quatro_digitos": "1111",
+                "bandeira": "Elo"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2019-06-20T10:00:00Z",
+        "ultima_atualizacao": "2023-10-26T12:00:00Z"
+    }
+}

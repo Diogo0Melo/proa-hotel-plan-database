@@ -1,0 +1,126 @@
+{
+    "id_hospede": "r8s9t0u1-v2w3-4567-8901-abcdef1234567890127",
+    "dados_identificacao": {
+        "nome_completo": "Lucas Pereira",
+        "data_nascimento": "1996-11-20T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "889.900.112-44"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130008000",
+            "celular": "5511990008000",
+            "email": "lucas.pereira@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Ana Pereira",
+            "telefone": "5511980008000",
+            "parentesco": "Mãe"
+        },
+        "endereco": {
+            "logradouro": "Rua da Consolação",
+            "numero": "2500",
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01300-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Serviço de streaming"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Show"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Bronze",
+            "pontos": 1200,
+            "tipo_hospede": 1
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Bar",
+                "Wi-Fi"
+            ],
+            "canal_reserva_preferido": "Booking.com"
+        },
+        "historico_ids": {
+            "hospedagens": [],
+            "reservas": [
+                "reserva-pqr-46"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 450.00,
+            "receita_total": 450.00,
+            "gasto_maximo": 450.00,
+            "gasto_minimo": 450.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_xyzab",
+                "ultimos_quatro_digitos": "4444",
+                "bandeira": "Mastercard"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": true,
+        "redes_sociais": {
+            "facebook": "lucaspereira_page",
+            "instagram": "lucaspereira_music",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": "lucaspereiramusic",
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": true,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2023-03-01T15:00:00Z",
+        "ultima_atualizacao": "2023-09-15T11:00:00Z"
+    }
+}

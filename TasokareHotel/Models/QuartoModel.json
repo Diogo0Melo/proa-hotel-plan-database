@@ -1,0 +1,90 @@
+{
+  "id_quarto": "UUID",
+  "identificacao_e_localizacao": {
+    "numero": "Integer",
+    "nome": "String",
+    "andar": "Integer",
+    "bloco_ou_torre": "String",
+    "vista_principal": "String"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "String",
+    "capacidade": {
+      "adultos_maximo": "Integer",
+      "criancas_maximo": "Integer"
+    },
+    "area_metros_quadrados": "Number",
+    "configuracao_camas": [
+      {
+        "tipo": "String",
+        "quantidade": "Integer"
+      }
+    ],
+    "banheiros_quantidade": "Integer"
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": "Boolean",
+    "conecta_com_ids_quartos": [
+      "UUID"
+    ]
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": [
+      "String"
+    ],
+    "equipamentos_eletronicos": [
+      "String"
+    ],
+    "produtos_banho": [
+      "String"
+    ],
+    "smart_room": {
+      "habilitado": "Boolean",
+      "dispositivos_iot_ids": [
+        "String"
+      ]
+    }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": "Boolean",
+    "permite_pets": "Boolean",
+    "permite_fumantes": "Boolean"
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": "Number",
+    "moeda": "String",
+    "taxas_adicionais": [
+      {
+        "nome_taxa": "String",
+        "valor": "Number"
+      }
+    ]
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": [
+      "String"
+    ],
+    "url_tour_virtual": "String",
+    "url_video": "String"
+  },
+  "sustentabilidade_e_consumo": {
+    "sensor_consumo_energia_id": "String",
+    "sensor_consumo_agua_id": "String",
+    "media_kwh_diaria": "Number"
+  },
+  "operacao_e_housekeeping": {
+    "status_atual": "String",
+    "prioridade_limpeza": "String",
+    "auditoria_limpeza": {
+      "ultima_limpeza": "ISODate",
+      "inspetor_responsavel_id": "String"
+    },
+    "manutencao": {
+      "necessita_reparo": "Boolean",
+      "descricao_reparo": "String",
+      "historico_ocorrencias_ids": [
+        "String"
+      ]
+    }
+  }
+}

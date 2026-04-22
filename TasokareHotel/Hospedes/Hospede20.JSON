@@ -1,0 +1,126 @@
+{
+    "id_hospede": "t0u1v2w3-x4y5-6789-0123-abcdef1234567890129",
+    "dados_identificacao": {
+        "nome_completo": "Felipe Santos",
+        "data_nascimento": "1994-02-14T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "001.122.334-55"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130000000",
+            "celular": "5511990000000",
+            "email": "felipe.santos@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Marcos Santos",
+            "telefone": "5511980000000",
+            "parentesco": "Pai"
+        },
+        "endereco": {
+            "logradouro": "Rua da Consolação",
+            "numero": "3000",
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01300-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com vista para a cidade",
+            "Serviço de quarto"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Visita a museus"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Bronze",
+            "pontos": 1800,
+            "tipo_hospede": 1
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Restaurante",
+                "Bar"
+            ],
+            "canal_reserva_preferido": "Expedia"
+        },
+        "historico_ids": {
+            "hospedagens": [],
+            "reservas": [
+                "reserva-abc-50"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 650.00,
+            "receita_total": 650.00,
+            "gasto_maximo": 650.00,
+            "gasto_minimo": 650.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_hijkl",
+                "ultimos_quatro_digitos": "6666",
+                "bandeira": "Visa"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": "felipesantos_art",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2023-05-01T10:00:00Z",
+        "ultima_atualizacao": "2023-10-20T14:00:00Z"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id_hospede": "f6a7b8c9-d0e1-2345-6789-0abcdef12345",
+    "dados_identificacao": {
+        "nome_completo": "Gabriel Costa",
+        "data_nascimento": "2000-09-10T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Inglês",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "987.654.321-00"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "555130006000",
+            "celular": "5551990006000",
+            "email": "gabriel.costa@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Patrícia Costa",
+            "telefone": "5551980006000",
+            "parentesco": "Mãe"
+        },
+        "endereco": {
+            "logradouro": "Avenida Praia de Belas",
+            "numero": "300",
+            "bairro": "Praia de Belas",
+            "cidade": "Porto Alegre",
+            "estado": "RS",
+            "pais": "Brasil",
+            "cep": "90110-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com boa iluminação",
+            "Serviço de streaming"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Show"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Bronze",
+            "pontos": 1000,
+            "tipo_hospede": 1
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Bar",
+                "Wi-Fi"
+            ],
+            "canal_reserva_preferido": "Booking.com"
+        },
+        "historico_ids": {
+            "hospedagens": [],
+            "reservas": [
+                "reserva-fgh-16"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 400.00,
+            "receita_total": 400.00,
+            "gasto_maximo": 400.00,
+            "gasto_minimo": 400.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_pqrst",
+                "ultimos_quatro_digitos": "2222",
+                "bandeira": "Mastercard"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": true,
+        "redes_sociais": {
+            "facebook": "gabrielcosta_page",
+            "instagram": "gabrielcosta_music",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": "gabrielcostamusic",
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": true,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2022-01-05T14:00:00Z",
+        "ultima_atualizacao": "2023-08-01T12:00:00Z"
+    }
+}

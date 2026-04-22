@@ -1,0 +1,129 @@
+{
+    "id_hospede": "l2m3n4o5-p6q7-8901-2345-abcdef12345678901",
+    "dados_identificacao": {
+        "nome_completo": "Rafael Gomes",
+        "data_nascimento": "1980-10-10T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "RG",
+            "numero": "445566778"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130002000",
+            "celular": "5511990002000",
+            "email": "rafael.gomes@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Juliana Gomes",
+            "telefone": "5511980002000",
+            "parentesco": "Esposa"
+        },
+        "endereco": {
+            "logradouro": "Rua Augusta",
+            "numero": "1200",
+            "bairro": "Consolação",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01300-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com cama de casal",
+            "Silencioso"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Casal",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Fim de semana"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Ouro",
+            "pontos": 16000,
+            "tipo_hospede": 3
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Restaurante",
+                "Bar"
+            ],
+            "canal_reserva_preferido": "Site do Hotel"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-stu-29",
+                "hospedagem-vwx-30"
+            ],
+            "reservas": [
+                "reserva-yza-31"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 1000.00,
+            "receita_total": 3000.00,
+            "gasto_maximo": 1500.00,
+            "gasto_minimo": 800.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_bcdef",
+                "ultimos_quatro_digitos": "8888",
+                "bandeira": "Mastercard"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": false,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": null,
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": null,
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": false,
+            "compartilhamento_parceiros": false
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2020-07-07T11:00:00Z",
+        "ultima_atualizacao": "2023-10-30T15:00:00Z"
+    }
+}

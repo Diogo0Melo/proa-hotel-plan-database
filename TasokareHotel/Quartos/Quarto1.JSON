@@ -1,0 +1,76 @@
+{
+  "id_quarto": "uuid-quarto-001",
+  "identificacao_e_localizacao": {
+    "numero": 101,
+    "nome": "Quarto Standard Casal",
+    "andar": 1,
+    "bloco_ou_torre": "A",
+    "vista_principal": "Jardim Interno"
+  },
+  "caracteristicas_fisicas": {
+    "tipo_categoria": "Standard",
+    "capacidade": {
+      "adultos_maximo": 2,
+      "criancas_maximo": 1
+    },
+    "area_metros_quadrados": 25.5,
+    "configuracao_camas": [
+      {
+        "tipo": "Queen",
+        "quantidade": 1
+      }
+    ],
+    "banheiros_quantidade": 1
+  },
+  "conectividade_entre_quartos": {
+    "pode_ser_conjugado": false,
+    "conecta_com_ids_quartos": []
+  },
+  "comodidades_e_servicos": {
+    "itens_gerais": ["Ar Condicionado", "Cofre", "Minibar"],
+    "equipamentos_eletronicos": ["TV 42 polegadas", "Telefone"],
+    "produtos_banho": ["Shampoo", "Condicionador", "Sabonete"],
+    "smart_room": {
+      "habilitado": true,
+      "dispositivos_iot_ids": ["iot-luz-101", "iot-ac-101"]
+    }
+  },
+  "politicas_do_quarto": {
+    "acessivel_cadeirantes": false,
+    "permite_pets": false,
+    "permite_fumantes": false
+  },
+  "gestao_de_valores": {
+    "preco_diaria_base": 350.00,
+    "moeda": "BRL",
+    "taxas_adicionais": [
+      {
+        "nome_taxa": "Taxa de Serviço",
+        "valor": 35.00
+      }
+    ]
+  },
+  "midia_e_marketing": {
+    "url_galeria_fotos": ["/img/q101/foto1.jpg", "/img/q101/foto2.jpg"],
+    "url_tour_virtual": "/tour/q101",
+    "url_video": "/video/q101"
+  },
+  "sustentabilidade_e_consumo": {
+    "sensor_consumo_energia_id": "energy-sensor-101",
+    "sensor_consumo_agua_id": "water-sensor-101",
+    "media_kwh_diaria": 15.2
+  },
+  "operacao_e_housekeeping": {
+    "status_atual": "Disponível",
+    "prioridade_limpeza": "Normal",
+    "auditoria_limpeza": {
+      "ultima_limpeza": "2023-10-30T14:00:00Z",
+      "inspetor_responsavel_id": "user-insp-002"
+    },
+    "manutencao": {
+      "necessita_reparo": false,
+      "descricao_reparo": null,
+      "historico_ocorrencias_ids": []
+    }
+  }
+}

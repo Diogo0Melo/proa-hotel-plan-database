@@ -1,0 +1,128 @@
+{
+    "id_hospede": "m3n4o5p6-q7r8-9012-3456-abcdef123456789012",
+    "dados_identificacao": {
+        "nome_completo": "Camila Ferreira",
+        "data_nascimento": "1993-05-18T00:00:00Z",
+        "nacionalidade": "Brasileira",
+        "idioma_preferencial": "Português",
+        "documento": {
+            "tipo": "CPF",
+            "numero": "556.677.889-22"
+        }
+    },
+    "comunicacao_localizacao": {
+        "contato": {
+            "telefone": "551130003000",
+            "celular": "5511990003000",
+            "email": "camila.ferreira@example.com"
+        },
+        "contato_emergencia": {
+            "nome_contato": "Paulo Ferreira",
+            "telefone": "5511980003000",
+            "parentesco": "Pai"
+        },
+        "endereco": {
+            "logradouro": "Rua Oscar Freire",
+            "numero": "800",
+            "bairro": "Jardins",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "pais": "Brasil",
+            "cep": "01426-000"
+        }
+    },
+    "saude_e_preferencias": {
+        "preferencias_gerais": [
+            "Quarto com banheira",
+            "Serviço de massagem"
+        ],
+        "restricoes_alimentares": [],
+        "alergias": [],
+        "medicamentos": [],
+        "acessibilidade": {
+            "necessita": false,
+            "tipos": []
+        }
+    },
+    "perfil_de_viagem": {
+        "grupo_familiar_padrao": "Solo",
+        "motivos_hospedagem": [
+            "Lazer",
+            "Compras"
+        ],
+        "veiculos_registrados": []
+    },
+    "relacionamento_e_historico": {
+        "fidelidade": {
+            "status": "Prata",
+            "pontos": 8500,
+            "tipo_hospede": 2
+        },
+        "habitos_de_consumo": {
+            "servicos_mais_utilizados": [
+                "Spa",
+                "Restaurante"
+            ],
+            "canal_reserva_preferido": "Hoteis.com"
+        },
+        "historico_ids": {
+            "hospedagens": [
+                "hospedagem-cde-32"
+            ],
+            "reservas": [
+                "reserva-fgh-33"
+            ],
+            "cancelamentos": []
+        }
+    },
+    "financeiro_e_pagamento": {
+        "metricas": {
+            "gasto_medio": 900.00,
+            "receita_total": 1800.00,
+            "gasto_maximo": 1000.00,
+            "gasto_minimo": 800.00
+        },
+        "metodos_salvos": [
+            {
+                "id_gateway_pagamento": "pgw_card_ghijk",
+                "ultimos_quatro_digitos": "1212",
+                "bandeira": "Visa"
+            }
+        ]
+    },
+    "marketing_e_privacidade": {
+        "influenciador": true,
+        "redes_sociais": {
+            "facebook": null,
+            "instagram": "camilaf_fashion",
+            "twitter": null,
+            "linkedin": null,
+            "youtube": null,
+            "tiktok": "camilaf_beauty",
+            "kwai": null
+        },
+        "consentimentos": {
+            "aceita_marketing_email": true,
+            "aceita_marketing_sms": true,
+            "compartilhamento_parceiros": true
+        }
+    },
+    "informacoes_corporativas": {
+        "viajante_corporativo": false,
+        "empresa": {
+            "nome": null,
+            "id_fiscal": null,
+            "conta_corporativa_id": null
+        }
+    },
+    "seguranca_e_alertas": {
+        "em_lista_de_alerta": false,
+        "motivo": null,
+        "observacoes": []
+    },
+    "auditoria": {
+        "ativo": true,
+        "data_cadastro": "2022-04-01T10:00:00Z",
+        "ultima_atualizacao": "2023-10-25T17:00:00Z"
+    }
+}
