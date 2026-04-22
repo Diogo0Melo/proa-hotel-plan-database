@@ -1,31 +1,31 @@
 {
-  "id_quarto": "UUID",
+  "id_quarto": "ObjectId",
   "identificacao_e_localizacao": {
-    "numero": "Integer",
+    "numero": "Number",
     "nome": "String",
-    "andar": "Integer",
+    "andar": "Number",
     "bloco_ou_torre": "String",
     "vista_principal": "String"
   },
   "caracteristicas_fisicas": {
     "tipo_categoria": "String",
     "capacidade": {
-      "adultos_maximo": "Integer",
-      "criancas_maximo": "Integer"
+      "adultos_maximo": "Number",
+      "criancas_maximo": "Number"
     },
     "area_metros_quadrados": "Number",
     "configuracao_camas": [
       {
         "tipo": "String",
-        "quantidade": "Integer"
+        "quantidade": "Number"
       }
     ],
-    "banheiros_quantidade": "Integer"
+    "banheiros_quantidade": "Number"
   },
   "conectividade_entre_quartos": {
     "pode_ser_conjugado": "Boolean",
     "conecta_com_ids_quartos": [
-      "UUID"
+      "ObjectId"
     ]
   },
   "comodidades_e_servicos": {
@@ -77,13 +77,13 @@
     "prioridade_limpeza": "String",
     "auditoria_limpeza": {
       "ultima_limpeza": "ISODate",
-      "inspetor_responsavel_id": "String"
+      "inspetor_responsavel_id": "ObjectId"
     },
     "manutencao": {
       "necessita_reparo": "Boolean",
       "descricao_reparo": "String",
       "historico_ocorrencias_ids": [
-        "String"
+        "ObjectId"
       ]
     }
   }

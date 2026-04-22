@@ -1,146 +1,146 @@
 {
-    "id_hospede": "UUID",
-    "dados_identificacao": {
-        "nome_completo": "String",
-        "data_nascimento": "ISODate",
-        "nacionalidade": "String",
-        "idioma_preferencial": "String",
-        "documento": {
-            "tipo": "String",
-            "numero": "String"
-        }
-    },
-    "comunicacao_localizacao": {
-        "contato": {
-            "telefone": "String",
-            "celular": "String",
-            "email": "String"
-        },
-        "contato_emergencia": {
-            "nome_contato": "String",
-            "telefone": "String",
-            "parentesco": "String"
-        },
-        "endereco": {
-            "logradouro": "String",
-            "numero": "String",
-            "bairro": "String",
-            "cidade": "String",
-            "estado": "String",
-            "pais": "String",
-            "cep": "String"
-        }
-    },
-    "saude_e_preferencias": {
-        "preferencias_gerais": [
-            "String"
-        ],
-        "restricoes_alimentares": [
-            "String"
-        ],
-        "alergias": [
-            "String"
-        ],
-        "medicamentos": [
-            "String"
-        ],
-        "acessibilidade": {
-            "necessita": "Boolean",
-            "tipos": [
-                "String"
-            ]
-        }
-    },
-    "perfil_de_viagem": {
-        "grupo_familiar_padrao": "String",
-        "motivos_hospedagem": [
-            "String"
-        ],
-        "veiculos_registrados": [
-            {
-                "tipo": "String",
-                "marca": "String",
-                "modelo": "String",
-                "ano": "Number",
-                "placa": "String",
-                "cor": "String"
-            }
-        ]
-    },
-    "relacionamento_e_historico": {
-        "fidelidade": {
-            "status": "String",
-            "pontos": "Number",
-            "tipo_hospede": "Number"
-        },
-        "habitos_de_consumo": {
-            "servicos_mais_utilizados": [
-                "String"
-            ],
-            "canal_reserva_preferido": "String"
-        },
-        "historico_ids": {
-            "hospedagens": [
-                "String"
-            ],
-            "reservas": [
-                "String"
-            ],
-            "cancelamentos": [
-                "String"
-            ]
-        }
-    },
-    "financeiro_e_pagamento": {
-        "metricas": {
-            "gasto_medio": "Number",
-            "receita_total": "Number",
-            "gasto_maximo": "Number",
-            "gasto_minimo": "Number"
-        },
-        "metodos_salvos": [
-            {
-                "id_gateway_pagamento": "String",
-                "ultimos_quatro_digitos": "String",
-                "bandeira": "String"
-            }
-        ]
-    },
-    "marketing_e_privacidade": {
-        "influenciador": "Boolean",
-        "redes_sociais": {
-            "facebook": "String",
-            "instagram": "String",
-            "twitter": "String",
-            "linkedin": "String",
-            "youtube": "String",
-            "tiktok": "String",
-            "kwai": "String"
-        },
-        "consentimentos": {
-            "aceita_marketing_email": "Boolean",
-            "aceita_marketing_sms": "Boolean",
-            "compartilhamento_parceiros": "Boolean"
-        }
-    },
-    "informacoes_corporativas": {
-        "viajante_corporativo": "Boolean",
-        "empresa": {
-            "nome": "String",
-            "id_fiscal": "String",
-            "conta_corporativa_id": "String"
-        }
-    },
-    "seguranca_e_alertas": {
-        "em_lista_de_alerta": "Boolean",
-        "motivo": "String",
-        "observacoes": [
-            "String"
-        ]
-    },
-    "auditoria": {
-        "ativo": "Boolean",
-        "data_cadastro": "ISODate",
-        "ultima_atualizacao": "ISODate"
+  "id_hospede": "ObjectId",
+  "dados_identificacao": {
+    "nome_completo": "String",
+    "data_nascimento": "ISODate",
+    "nacionalidade": "String",
+    "idioma_preferencial": "String",
+    "documento": {
+      "tipo": "String",
+      "numero": "String"
     }
+  },
+  "comunicacao_localizacao": {
+    "contato": {
+      "telefone": "String",
+      "celular": "String",
+      "email": "String"
+    },
+    "contato_emergencia": {
+      "nome_contato": "String",
+      "telefone": "String",
+      "parentesco": "String"
+    },
+    "endereco": {
+      "logradouro": "String",
+      "numero": "String",
+      "bairro": "String",
+      "cidade": "String",
+      "estado": "String",
+      "pais": "String",
+      "cep": "String"
+    }
+  },
+  "saude_e_preferencias": {
+    "preferencias_gerais": [
+      "String"
+    ],
+    "restricoes_alimentares": [
+      "String"
+    ],
+    "alergias": [
+      "String"
+    ],
+    "medicamentos": [
+      "String"
+    ],
+    "acessibilidade": {
+      "necessita": "Boolean",
+      "tipos": [
+        "String"
+      ]
+    }
+  },
+  "perfil_de_viagem": {
+    "grupo_familiar_padrao": "String",
+    "motivos_hospedagem": [
+      "String"
+    ],
+    "veiculos_registrados": [
+      {
+        "tipo": "String",
+        "marca": "String",
+        "modelo": "String",
+        "ano": "Number",
+        "placa": "String",
+        "cor": "String"
+      }
+    ]
+  },
+  "relacionamento_e_historico": {
+    "fidelidade": {
+      "status": "String",
+      "pontos": "Number",
+      "tipo_hospede": "Number"
+    },
+    "habitos_de_consumo": {
+      "servicos_mais_utilizados": [
+        "String"
+      ],
+      "canal_reserva_preferido": "String"
+    },
+    "historico_ids": {
+      "hospedagens": [
+        "ObjectId"
+      ],
+      "reservas": [
+        "ObjectId"
+      ],
+      "cancelamentos": [
+        "ObjectId"
+      ]
+    }
+  },
+  "financeiro_e_pagamento": {
+    "metricas": {
+      "gasto_medio": "Number",
+      "receita_total": "Number",
+      "gasto_maximo": "Number",
+      "gasto_minimo": "Number"
+    },
+    "metodos_salvos": [
+      {
+        "id_gateway_pagamento": "String",
+        "ultimos_quatro_digitos": "String",
+        "bandeira": "String"
+      }
+    ]
+  },
+  "marketing_e_privacidade": {
+    "influenciador": "Boolean",
+    "redes_sociais": {
+      "facebook": "String",
+      "instagram": "String",
+      "twitter": "String",
+      "linkedin": "String",
+      "youtube": "String",
+      "tiktok": "String",
+      "kwai": "String"
+    },
+    "consentimentos": {
+      "aceita_marketing_email": "Boolean",
+      "aceita_marketing_sms": "Boolean",
+      "compartilhamento_parceiros": "Boolean"
+    }
+  },
+  "informacoes_corporativas": {
+    "viajante_corporativo": "Boolean",
+    "empresa": {
+      "nome": "String",
+      "id_fiscal": "String",
+      "conta_corporativa_id": "String"
+    }
+  },
+  "seguranca_e_alertas": {
+    "em_lista_de_alerta": "Boolean",
+    "motivo": "String",
+    "observacoes": [
+      "String"
+    ]
+  },
+  "auditoria": {
+    "ativo": "Boolean",
+    "data_cadastro": "ISODate",
+    "ultima_atualizacao": "ISODate"
+  }
 }

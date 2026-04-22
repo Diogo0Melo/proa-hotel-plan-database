@@ -1,0 +1,29 @@
+{
+  "id_funcionario": "ObjectId",
+  "dados_pessoais": {
+    "nome_completo": "String",
+    "cpf": "String",
+    "email_corporativo": "String",
+    "telefone": "String"
+  },
+  "cargo_e_alocacao": {
+    "cargo": "String",
+    "departamento": "String",
+    "salario_base": "Number",
+    "data_admissao": "ISODate"
+  },
+  "turno": {
+    "tipo": "String",
+    "horario_entrada": "String",
+    "horario_saida": "String",
+    "escala": "String"
+  },
+  "permissoes_sistema": [
+    "String"
+  ],
+  "status": "String",
+  "auditoria": {
+    "ultima_promocao": "ISODate",
+    "criado_em": "ISODate"
+  }
+}

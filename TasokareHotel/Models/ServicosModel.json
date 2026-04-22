@@ -1,0 +1,24 @@
+{
+  "id_servico": "ObjectId",
+  "detalhes": {
+    "nome": "String",
+    "categoria": "String",
+    "descricao": "String"
+  },
+  "precificacao": {
+    "preco_padrao": "Number",
+    "moeda": "String",
+    "unidade_cobranca": "String"
+  },
+  "disponibilidade": {
+    "ativo": "Boolean",
+    "horario_inicio": "String",
+    "horario_fim": "String",
+    "dias_semana": ["String"]
+  },
+  "operacional": {
+    "tags": ["String"],
+    "requer_agendamento": "Boolean",
+    "departamento_responsavel": "String"
+  }
+}

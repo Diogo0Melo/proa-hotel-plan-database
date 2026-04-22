@@ -1,0 +1,34 @@
+{
+  "id_pagamento": "ObjectId",
+  "relacionamentos": {
+    "id_hospedagem": "ObjectId",
+    "id_reserva": "ObjectId",
+    "id_hospede": "ObjectId"
+  },
+  "valores": {
+    "valor_total_pago": "Number",
+    "moeda": "String"
+  },
+  "status_pagamento": "String",
+  "data_pagamento": "ISODate",
+  "parcelas": [
+    {
+      "metodo": "String",
+      "bandeira": "String",
+      "valor": "Number",
+      "num_parcelas": "Number",
+      "status": "String",
+      "transacao_id": "String",
+      "data_processamento": "ISODate"
+    }
+  ],
+  "documento_fiscal": {
+    "tipo": "String",
+    "numero": "String",
+    "link_download": "String"
+  },
+  "auditoria": {
+    "processado_por_id": "ObjectId",
+    "data_criacao": "ISODate"
+  }
+}

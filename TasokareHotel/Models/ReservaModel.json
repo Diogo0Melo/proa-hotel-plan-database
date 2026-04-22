@@ -1,56 +1,66 @@
 {
-    "id_reserva": "UUID",
-    "id_hospede_principal": "UUID",
-    "ids_hospedes_acompanhantes": [
-        "UUID"
-    ],
-    "id_quarto_atribuido": "UUID",
-    "id_tipo_quarto_reservado": "UUID",
-    "data_reserva": "ISODate",
-    "data_checkin_prevista": "ISODate",
-    "data_checkout_prevista": "ISODate",
-    "numero_adultos": "Number",
-    "numero_criancas": "Number",
-    "status_reserva": "String",
-    "origem": {
-        "canal_reserva": "String",
-        "id_agencia_viagem": "UUID",
-        "id_conta_corporativa": "UUID"
-    },
-    "financeiro": {
-        "tarifa_diaria_acordada": "Number",
-        "valor_total_estimado": "Number",
-        "valor_sinal_pago": "Number",
-        "id_promocao_aplicada": "UUID",
-        "garantia": {
-            "metodo": "String",
-            "id_gateway_pagamento": "String",
-            "ultimos_quatro_digitos": "String"
-        }
-    },
-    "solicitacoes_especiais": [
-        "String"
-    ],
-    "historico_alteracoes": [
-        {
-            "data_alteracao": "ISODate",
-            "campo_alterado": "String",
-            "valor_antigo": "String",
-            "valor_novo": "String",
-            "id_usuario_alteracao": "UUID"
-        }
-    ],
-    "cancelamento": {
-        "foi_cancelada": "Boolean",
-        "data_cancelamento": "ISODate",
-        "motivo": "String",
-        "taxa_cancelamento_aplicada": "Number",
-        "id_usuario_cancelamento": "UUID"
-    },
-    "id_hospedagem_gerada": "UUID",
-    "auditoria": {
-        "data_criacao": "ISODate",
-        "ultima_atualizacao": "ISODate",
-        "criado_por_id": "UUID"
+  "id_reserva": "ObjectId",
+  "id_hospede_principal": "ObjectId",
+  "hospede_snapshot": {
+    "nome": "String",
+    "email": "String",
+    "telefone": "String"
+  },
+  "ids_hospedes_acompanhantes": [
+    "ObjectId"
+  ],
+  "id_quarto_atribuido": "ObjectId",
+  "quarto_snapshot": {
+    "numero": "Number",
+    "tipo": "String",
+    "preco_diaria": "Number"
+  },
+  "id_tipo_quarto_reservado": "ObjectId",
+  "data_reserva": "ISODate",
+  "data_checkin_prevista": "ISODate",
+  "data_checkout_prevista": "ISODate",
+  "numero_adultos": "Number",
+  "numero_criancas": "Number",
+  "status_reserva": "String",
+  "origem": {
+    "canal_reserva": "String",
+    "id_agencia_viagem": "ObjectId",
+    "id_conta_corporativa": "ObjectId"
+  },
+  "financeiro": {
+    "tarifa_diaria_acordada": "Number",
+    "valor_total_estimado": "Number",
+    "valor_sinal_pago": "Number",
+    "id_promocao_aplicada": "ObjectId",
+    "garantia": {
+      "metodo": "String",
+      "id_gateway_pagamento": "String",
+      "ultimos_quatro_digitos": "String"
     }
+  },
+  "solicitacoes_especiais": [
+    "String"
+  ],
+  "historico_alteracoes": [
+    {
+      "data_alteracao": "ISODate",
+      "campo_alterado": "String",
+      "valor_antigo": "String",
+      "valor_novo": "String",
+      "id_usuario_alteracao": "ObjectId"
+    }
+  ],
+  "cancelamento": {
+    "foi_cancelada": "Boolean",
+    "data_cancelamento": "ISODate",
+    "motivo": "String",
+    "taxa_cancelamento_aplicada": "Number",
+    "id_usuario_cancelamento": "ObjectId"
+  },
+  "id_hospedagem_gerada": "ObjectId",
+  "auditoria": {
+    "data_criacao": "ISODate",
+    "ultima_atualizacao": "ISODate",
+    "criado_por_id": "ObjectId"
+  }
 }

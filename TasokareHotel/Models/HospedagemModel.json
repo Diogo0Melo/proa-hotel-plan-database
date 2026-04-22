@@ -1,73 +1,63 @@
 {
-    "id_hospedagem": "UUID",
-    "id_reserva_origem": "UUID",
-    "id_quarto": "UUID",
-    "ids_hospedes": [
-        "UUID"
+  "id_hospedagem": "ObjectId",
+  "id_reserva_origem": "ObjectId",
+  "id_quarto": "ObjectId",
+  "ids_hospedes": [
+    "ObjectId"
+  ],
+  "checkin": {
+    "data_real": "ISODate",
+    "realizado_por_id": "ObjectId"
+  },
+  "checkout": {
+    "data_prevista": "ISODate",
+    "data_real": "ISODate",
+    "realizado_por_id": "ObjectId"
+  },
+  "status_hospedagem": "String",
+  "folio": {
+    "id_folio": "ObjectId",
+    "aberto": "Boolean",
+    "itens": [
+      {
+        "id_item_folio": "ObjectId",
+        "data_hora": "ISODate",
+        "descricao": "String",
+        "id_produto_servico": "ObjectId",
+        "quantidade": "Number",
+        "valor_unitario": "Number",
+        "valor_total": "Number",
+        "lancado_por_id": "ObjectId"
+      }
     ],
-    "checkin": {
-        "data_real": "ISODateTime",
-        "realizado_por_id": "UUID"
-    },
-    "checkout": {
-        "data_prevista": "ISODate",
-        "data_real": "ISODateTime",
-        "realizado_por_id": "UUID"
-    },
-    "status_hospedagem": "String",
-    "folio": {
-        "id_folio": "UUID",
-        "aberto": "Boolean",
-        "itens": [
-            {
-                "id_item_folio": "UUID",
-                "data_hora": "ISODateTime",
-                "descricao": "String",
-                "id_produto_servico": "UUID",
-                "quantidade": "Number",
-                "valor_unitario": "Number",
-                "valor_total": "Number",
-                "lancado_por_id": "UUID"
-            }
-        ],
-        "pagamentos": [
-            {
-                "id_pagamento": "UUID",
-                "data_hora": "ISODateTime",
-                "valor": "Number",
-                "metodo": "String",
-                "id_transacao_gateway": "String",
-                "processado_por_id": "UUID"
-            }
-        ],
-        "totais": {
-            "total_diarias": "Number",
-            "total_consumo": "Number",
-            "total_taxas": "Number",
-            "total_descontos": "Number",
-            "total_geral": "Number",
-            "total_pago": "Number",
-            "saldo_devedor": "Number"
-        }
-    },
-    "chaves_acesso": [
-        {
-            "id_chave": "String",
-            "tipo": "String",
-            "data_emissao": "ISODateTime",
-            "data_expiracao": "ISODateTime",
-            "status": "String"
-        }
-    ],
-    "observacoes_estadia": [
-        {
-            "data_hora": "ISODateTime",
-            "texto": "String",
-            "autor_id": "UUID"
-        }
-    ],
-    "auditoria": {
-        "data_criacao": "ISODate",
-        "ultima_atualizacao": "ISODate"
+    "totais": {
+      "total_diarias": "Number",
+      "total_consumo": "Number",
+      "total_taxas": "Number",
+      "total_descontos": "Number",
+      "total_geral": "Number",
+      "total_pago": "Number",
+      "saldo_devedor": "Number"
     }
+  },
+  "chaves_acesso": [
+    {
+      "id_chave": "String",
+      "tipo": "String",
+      "data_emissao": "ISODate",
+      "data_expiracao": "ISODate",
+      "status": "String"
+    }
+  ],
+  "observacoes_estadia": [
+    {
+      "data_hora": "ISODate",
+      "texto": "String",
+      "autor_id": "ObjectId"
+    }
+  ],
+  "auditoria": {
+    "data_criacao": "ISODate",
+    "ultima_atualizacao": "ISODate"
+  }
 }
