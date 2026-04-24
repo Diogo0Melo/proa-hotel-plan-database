@@ -1,5 +1,5 @@
 {
-  "id_servico": "ObjectId",
+  "id_servico": "UUID",
   "detalhes": {
     "nome": "String",
     "categoria": "String",

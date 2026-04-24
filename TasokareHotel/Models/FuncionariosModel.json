@@ -1,5 +1,5 @@
 {
-  "id_funcionario": "ObjectId",
+  "id_funcionario": "UUID",
   "dados_pessoais": {
     "nome_completo": "String",
     "cpf": "String",

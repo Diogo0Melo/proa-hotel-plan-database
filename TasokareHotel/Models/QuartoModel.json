@@ -1,5 +1,5 @@
 {
-  "id_quarto": "ObjectId",
+  "id_quarto": "UUID",
   "identificacao_e_localizacao": {
     "numero": "Number",
     "nome": "String",
@@ -21,12 +21,6 @@
       }
     ],
     "banheiros_quantidade": "Number"
-  },
-  "conectividade_entre_quartos": {
-    "pode_ser_conjugado": "Boolean",
-    "conecta_com_ids_quartos": [
-      "ObjectId"
-    ]
   },
   "comodidades_e_servicos": {
     "itens_gerais": [
@@ -68,22 +62,22 @@
     "url_video": "String"
   },
   "sustentabilidade_e_consumo": {
-    "sensor_consumo_energia_id": "String",
-    "sensor_consumo_agua_id": "String",
-    "media_kwh_diaria": "Number"
+    "max_kwh_diaria": "Number",
+    "media_kwh_diaria": "Number",
+    "min_kwh_diaria": "Number"
   },
   "operacao_e_housekeeping": {
     "status_atual": "String",
     "prioridade_limpeza": "String",
     "auditoria_limpeza": {
       "ultima_limpeza": "ISODate",
-      "inspetor_responsavel_id": "ObjectId"
+      "inspetor_responsavel_id": "UUID"
     },
     "manutencao": {
       "necessita_reparo": "Boolean",
       "descricao_reparo": "String",
       "historico_ocorrencias_ids": [
-        "ObjectId"
+        "UUID"
       ]
     }
   }

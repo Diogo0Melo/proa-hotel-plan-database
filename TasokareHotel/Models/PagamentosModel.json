@@ -1,9 +1,9 @@
 {
-  "id_pagamento": "ObjectId",
+  "id_pagamento": "UUID",
   "relacionamentos": {
-    "id_hospedagem": "ObjectId",
-    "id_reserva": "ObjectId",
-    "id_hospede": "ObjectId"
+    "id_hospedagem": "UUID",
+    "id_reserva": "UUID",
+    "id_hospede": "UUID"
   },
   "valores": {
     "valor_total_pago": "Number",
@@ -28,7 +28,7 @@
     "link_download": "String"
   },
   "auditoria": {
-    "processado_por_id": "ObjectId",
+    "processado_por_id": "UUID",
     "data_criacao": "ISODate"
   }
 }

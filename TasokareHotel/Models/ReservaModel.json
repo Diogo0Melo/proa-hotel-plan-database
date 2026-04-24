@@ -1,21 +1,21 @@
 {
-  "id_reserva": "ObjectId",
-  "id_hospede_principal": "ObjectId",
+  "id_reserva": "UUID",
+  "id_hospede_principal": "UUID",
   "hospede_snapshot": {
     "nome": "String",
     "email": "String",
     "telefone": "String"
   },
   "ids_hospedes_acompanhantes": [
-    "ObjectId"
+    "UUID"
   ],
-  "id_quarto_atribuido": "ObjectId",
+  "id_quarto_atribuido": "UUID",
   "quarto_snapshot": {
     "numero": "Number",
     "tipo": "String",
     "preco_diaria": "Number"
   },
-  "id_tipo_quarto_reservado": "ObjectId",
+  "id_tipo_quarto_reservado": "UUID",
   "data_reserva": "ISODate",
   "data_checkin_prevista": "ISODate",
   "data_checkout_prevista": "ISODate",
@@ -24,14 +24,14 @@
   "status_reserva": "String",
   "origem": {
     "canal_reserva": "String",
-    "id_agencia_viagem": "ObjectId",
-    "id_conta_corporativa": "ObjectId"
+    "id_agencia_viagem": "UUID",
+    "id_conta_corporativa": "UUID"
   },
   "financeiro": {
     "tarifa_diaria_acordada": "Number",
     "valor_total_estimado": "Number",
     "valor_sinal_pago": "Number",
-    "id_promocao_aplicada": "ObjectId",
+    "id_promocao_aplicada": "UUID",
     "garantia": {
       "metodo": "String",
       "id_gateway_pagamento": "String",
@@ -47,7 +47,7 @@
       "campo_alterado": "String",
       "valor_antigo": "String",
       "valor_novo": "String",
-      "id_usuario_alteracao": "ObjectId"
+      "id_usuario_alteracao": "UUID"
     }
   ],
   "cancelamento": {
@@ -55,12 +55,12 @@
     "data_cancelamento": "ISODate",
     "motivo": "String",
     "taxa_cancelamento_aplicada": "Number",
-    "id_usuario_cancelamento": "ObjectId"
+    "id_usuario_cancelamento": "UUID"
   },
-  "id_hospedagem_gerada": "ObjectId",
+  "id_hospedagem_gerada": "UUID",
   "auditoria": {
     "data_criacao": "ISODate",
     "ultima_atualizacao": "ISODate",
-    "criado_por_id": "ObjectId"
+    "criado_por_id": "UUID"
   }
 }
