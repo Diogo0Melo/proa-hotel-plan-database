@@ -1,9 +1,9 @@
 {
-  "id_feedback": "UUID",
+  "id_feedback": "ObjectId",
   "relacionamentos": {
-    "id_hospedagem": "UUID",
-    "id_quarto": "UUID",
-    "id_hospede": "UUID"
+    "id_hospedagem": "ObjectId",
+    "id_quarto": "ObjectId",
+    "id_hospede": "ObjectId"
   },
   "avaliacao": {
     "nota_geral": "Number",
@@ -20,7 +20,7 @@
     "respondido": "Boolean",
     "texto_resposta": "String",
     "data_resposta": "ISODate",
-    "respondido_por_id": "UUID"
+    "respondido_por_id": "ObjectId"
   },
   "status_publicacao": {
     "visivel_site": "Boolean",

@@ -1,5 +1,5 @@
 {
-  "id_quarto": "UUID",
+  "id_quarto": "ObjectId",
   "identificacao_e_localizacao": {
     "numero": "Number",
     "nome": "String",
@@ -31,13 +31,7 @@
     ],
     "produtos_banho": [
       "String"
-    ],
-    "smart_room": {
-      "habilitado": "Boolean",
-      "dispositivos_iot_ids": [
-        "String"
-      ]
-    }
+    ]
   },
   "politicas_do_quarto": {
     "acessivel_cadeirantes": "Boolean",
@@ -61,23 +55,18 @@
     "url_tour_virtual": "String",
     "url_video": "String"
   },
-  "sustentabilidade_e_consumo": {
-    "max_kwh_diaria": "Number",
-    "media_kwh_diaria": "Number",
-    "min_kwh_diaria": "Number"
-  },
   "operacao_e_housekeeping": {
     "status_atual": "String",
     "prioridade_limpeza": "String",
     "auditoria_limpeza": {
       "ultima_limpeza": "ISODate",
-      "inspetor_responsavel_id": "UUID"
+      "inspetor_responsavel_id": "ObjectId"
     },
     "manutencao": {
       "necessita_reparo": "Boolean",
       "descricao_reparo": "String",
       "historico_ocorrencias_ids": [
-        "UUID"
+        "ObjectId"
       ]
     }
   }

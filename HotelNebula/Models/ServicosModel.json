@@ -1,5 +1,5 @@
 {
-  "id_servico": "UUID",
+  "id_servico": "ObjectId",
   "detalhes": {
     "nome": "String",
     "categoria": "String",
@@ -17,7 +17,6 @@
     "dias_semana": ["String"]
   },
   "operacional": {
-    "tags": ["String"],
     "requer_agendamento": "Boolean",
     "departamento_responsavel": "String"
   }

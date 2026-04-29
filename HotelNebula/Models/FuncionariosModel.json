@@ -1,5 +1,7 @@
 {
-  "id_funcionario": "UUID",
+  "id_funcionario": "ObjectId",
+  "login": "String",
+  "senha": "String",
   "dados_pessoais": {
     "nome_completo": "String",
     "cpf": "String",

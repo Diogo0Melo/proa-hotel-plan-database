@@ -1,5 +1,5 @@
 {
-  "id_hospede": "UUID",
+  "id_hospede": "ObjectId",
   "dados_identificacao": {
     "nome_completo": "String",
     "data_nascimento": "ISODate",
@@ -81,13 +81,13 @@
     },
     "historico_ids": {
       "hospedagens": [
-        "UUID"
+        "ObjectId"
       ],
       "reservas": [
-        "UUID"
+        "ObjectId"
       ],
       "cancelamentos": [
-        "UUID"
+        "ObjectId"
       ]
     }
   },
