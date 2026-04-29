@@ -1,0 +1,212 @@
+[
+    {
+      "_id": "00000000-0000-0000-0000-feedback0001",
+      "hospede_id": "00000000-0000-0000-0000-hospede0001",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0001",
+      "quarto_id": "00000000-0000-0000-0000-quarto0004",
+      "data_avaliacao": "2024-05-14T10:00:00Z",
+      "nota_geral": 4.0,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 4,
+        "conforto": 3,
+        "custo_beneficio": 4,
+        "localizacao": 5
+      },
+      "comentario": "O quarto era limpo e bem ventilado, bom para o meu tabaco. Mas tudo é muito novo, sem história. Falta a presença do tempo, dos Mushi.",
+      "resposta_hotel": {
+        "texto": "Agradecemos sua estadia, Ginko-san. Entendemos sua preferência por locais com mais 'história'. Talvez em sua próxima jornada, encontre um de nossos hotéis mais antigos.",
+        "data": "2024-05-15T11:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0002"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0002",
+      "hospede_id": "00000000-0000-0000-0000-hospede0002",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0002",
+      "quarto_id": "00000000-0000-0000-0000-quarto0002",
+      "data_avaliacao": "2024-05-15T12:00:00Z",
+      "nota_geral": 5.0,
+      "notas_detalhadas": {
+        "limpeza": 3,
+        "atendimento": 5,
+        "conforto": 5,
+        "custo_beneficio": 5,
+        "localizacao": 4
+      },
+      "comentario": "A panela de ferro era magnífica! Perfeita para um guisado de morcego gigante. O chef Senshi até apareceu para dar dicas. A fauna local (baratas) tem um sabor surpreendentemente adocicado. Recomendo!",
+      "resposta_hotel": {
+        "texto": "Laios-sama, ficamos felizes que tenha aprovado nossa cozinha! O Chef Senshi adorou a troca de experiências culinárias. Porém, pedimos que da próxima vez não cozinhe os insetos do quarto.",
+        "data": "2024-05-16T09:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0003"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0003",
+      "hospede_id": "00000000-0000-0000-0000-hospede0003",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0003",
+      "quarto_id": "00000000-0000-0000-0000-quarto0009",
+      "data_avaliacao": "2024-05-21T14:00:00Z",
+      "nota_geral": 3.5,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 2,
+        "conforto": 5,
+        "custo_beneficio": 3,
+        "localizacao": 4
+      },
+      "comentario": "A cama era boa. Mas me acordaram às 13h. Pedi para não ser acordada antes das 14h. E não tinha nenhum grimório de verdade na biblioteca. Só um de receitas. Decepcionante.",
+      "resposta_hotel": {
+        "texto": "Frieren-sama, pedimos desculpas pelo equívoco no horário. O funcionário responsável já foi orientado. Estamos buscando grimórios mais raros para nosso acervo.",
+        "data": "2024-05-22T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0007"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0004",
+      "hospede_id": "00000000-0000-0000-0000-hospede0005",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0004",
+      "quarto_id": "00000000-0000-0000-0000-quarto0014",
+      "data_avaliacao": "2024-05-23T07:00:00Z",
+      "nota_geral": null,
+      "notas_detalhadas": null,
+      "comentario": null,
+      "resposta_hotel": null,
+      "visivel": false
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0005",
+      "hospede_id": "00000000-0000-0000-0000-hospede0006",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0005",
+      "quarto_id": "00000000-0000-0000-0000-quarto0007",
+      "data_avaliacao": "2024-05-30T11:00:00Z",
+      "nota_geral": 4.5,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 5,
+        "conforto": 4,
+        "custo_beneficio": 4,
+        "localizacao": 5
+      },
+      "comentario": "O suprimento de Dr. Pepper foi impecável. Agradeço a equipe. O micro-ondas, no entanto, era um modelo comum. Não consegui nem sequer transformar uma banana em gel. É uma escolha da Steins;Gate, suponho.",
+      "resposta_hotel": {
+        "texto": "Christina! Quer dizer, Makise-san. Agradecemos o feedback. Estamos trabalhando com nosso Engenheiro Chefe Okabe para desenvolver um 'Phonewave (nome sujeito a alteração)' para futuras estadias. El Psy Kongroo.",
+        "data": "2024-05-31T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0005"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0006",
+      "hospede_id": "00000000-0000-0000-0000-hospede0010",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0006",
+      "quarto_id": "00000000-0000-0000-0000-quarto0024",
+      "data_avaliacao": "2024-06-04T09:00:00Z",
+      "nota_geral": 5.0,
+      "notas_detalhadas": {
+        "limpeza": 2,
+        "atendimento": 5,
+        "conforto": 5,
+        "custo_beneficio": 5,
+        "localizacao": 5
+      },
+      "comentario": "LOVE AND PEACE! Os donuts eram divinos! A equipe foi super amigável, mesmo com toda a confusão. Desculpem pelos buracos na parede! Este mundo é feito de... AMOR E PAZ!",
+      "resposta_hotel": {
+        "texto": "Vash-sama, sua energia é contagiante! Não se preocupe com as paredes, nosso supervisor de manutenção Rayleigh já cuidou de tudo. Volte sempre para mais donuts!",
+        "data": "2024-06-05T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0009"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0007",
+      "hospede_id": "00000000-0000-0000-0000-hospede0021",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0007",
+      "quarto_id": "00000000-0000-0000-0000-quarto0030",
+      "data_avaliacao": "2024-06-09T13:00:00Z",
+      "nota_geral": 2.0,
+      "notas_detalhadas": {
+        "limpeza": 3,
+        "atendimento": 1,
+        "conforto": 4,
+        "custo_beneficio": 1,
+        "localizacao": 5
+      },
+      "comentario": "O leite de morango estava quente e a Shonen Jump era da semana passada. Onde está o profissionalismo? Pelo menos o parfait era bom. Dou 2 estrelas pelo parfait. E o aluguel é um roubo.",
+      "resposta_hotel": {
+        "texto": "Sakata-san, lamentamos pela temperatura do leite e pela revista desatualizada. Gostaríamos de discutir o débito pendente. Por favor, entre em contato com nossa Diretora Financeira Yubaba.",
+        "data": "2024-06-10T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0006"
+      },
+      "visivel": false
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0008",
+      "hospede_id": "00000000-0000-0000-0000-hospede0024",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0008",
+      "quarto_id": "00000000-0000-0000-0000-quarto0021",
+      "data_avaliacao": "2024-06-18T08:00:00Z",
+      "nota_geral": 4.0,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 5,
+        "conforto": 2,
+        "custo_beneficio": 4,
+        "localizacao": 5
+      },
+      "comentario": "A variedade de doces era satisfatória, embora a torta de morango pudesse ter 7% a mais de açúcar. A privacidade foi mantida. A cadeira era desconfortável para sentar agachado.",
+      "resposta_hotel": {
+        "texto": "Ryuzaki, agradecemos a precisão do seu feedback. Vamos ajustar a receita da torta e considerar mobiliário mais... flexível para sua próxima visita investigativa.",
+        "data": "2024-06-19T09:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0002"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0009",
+      "hospede_id": "00000000-0000-0000-0000-hospede0026",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0009",
+      "quarto_id": "00000000-0000-0000-0000-quarto0022",
+      "data_avaliacao": "2024-06-23T11:00:00Z",
+      "nota_geral": 5.0,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 5,
+        "conforto": 5,
+        "custo_beneficio": 5,
+        "localizacao": 5
+      },
+      "comentario": "O serviço foi impecável, como esperado. O chá estava na temperatura correta. O Presidente também pareceu satisfeito. O kawaii koto...",
+      "resposta_hotel": {
+        "texto": "Shinomiya-sama, é uma honra atender às suas expectativas. Ficamos à disposição para qualquer futura batalha... quer dizer, estadia.",
+        "data": "2024-06-24T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0007"
+      },
+      "visivel": true
+    },
+    {
+      "_id": "00000000-0000-0000-0000-feedback0010",
+      "hospede_id": "00000000-0000-0000-0000-hospede0008",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0010",
+      "quarto_id": "00000000-0000-0000-0000-quarto0019",
+      "data_avaliacao": "2024-06-29T09:00:00Z",
+      "nota_geral": 4.5,
+      "notas_detalhadas": {
+        "limpeza": 5,
+        "atendimento": 4,
+        "conforto": 4,
+        "custo_beneficio": 5,
+        "localizacao": 5
+      },
+      "comentario": "O acesso ao jardim foi excelente. Encontrei algumas ervas interessantes, embora a Digitalis purpurea estivesse um pouco murcha. O quarto era limpo e discreto. Bom para o trabalho.",
+      "resposta_hotel": {
+        "texto": "Maomao-san, que bom que nosso jardim foi útil para suas pesquisas. Vamos reforçar a irrigação da Digitalis. Agradecemos a visita e o pagamento em moedas imperiais.",
+        "data": "2024-06-30T10:00:00Z",
+        "funcionario_id": "00000000-0000-0000-0000-funcio0002"
+      },
+      "visivel": true
+    }
+  ]

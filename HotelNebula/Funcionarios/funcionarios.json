@@ -1,0 +1,344 @@
+[
+  {
+    "_id": "00000000-0000-0000-0000-funcio0001",
+    "nome": "Decim",
+    "cpf": "111.111.111-11",
+    "email": "decim.arbiter@hotelnebula.com",
+    "telefone": "+55 11 91111-1111",
+    "cargo": "Recepcionista Pleno",
+    "departamento": "Recepção",
+    "turno": {
+      "tipo": "noite",
+      "entrada": "22:00",
+      "saida": "06:00"
+    },
+    "permissoes": [
+      "checkin",
+      "checkout",
+      "reservas_visualizar",
+      "bar_consumo_registrar"
+    ],
+    "data_admissao": "2015-01-09",
+    "salario": 3500.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0002",
+    "nome": "Erwin Smith",
+    "cpf": "222.222.222-22",
+    "email": "erwin.scout@hotelnebula.com",
+    "telefone": "+55 11 92222-2222",
+    "cargo": "Gerente Geral",
+    "departamento": "Administração",
+    "turno": {
+      "tipo": "integral",
+      "entrada": "08:00",
+      "saida": "18:00"
+    },
+    "permissoes": [
+      "gerenciamento_total",
+      "relatorios_estrategicos",
+      "aprovacoes_master",
+      "rh_visualizar"
+    ],
+    "data_admissao": "2013-04-07",
+    "salario": 15000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0003",
+    "nome": "Senshi",
+    "cpf": "333.333.333-33",
+    "email": "senshi.dungeon@hotelnebula.com",
+    "telefone": "+55 11 93333-3333",
+    "cargo": "Chef Executivo",
+    "departamento": "Alimentos e Bebidas",
+    "turno": {
+      "tipo": "manha",
+      "entrada": "05:00",
+      "saida": "14:00"
+    },
+    "permissoes": [
+      "pedidos_criar",
+      "estoque_editar",
+      "cardapio_gerenciar",
+      "servicos_visualizar"
+    ],
+    "data_admissao": "2024-01-04",
+    "salario": 8500.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0004",
+    "nome": "Urokodaki Sakonji",
+    "cpf": "444.444.444-44",
+    "email": "urokodaki.water@hotelnebula.com",
+    "telefone": "+55 11 94444-4444",
+    "cargo": "Chefe de Governança",
+    "departamento": "Limpeza",
+    "turno": {
+      "tipo": "manha",
+      "entrada": "06:00",
+      "saida": "15:00"
+    },
+    "permissoes": [
+      "quartos_status_editar",
+      "estoque_visualizar",
+      "manutencao_solicitar",
+      "escalas_limpeza"
+    ],
+    "data_admissao": "2019-04-06",
+    "salario": 6200.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0005",
+    "nome": "Rintarou Okabe",
+    "cpf": "555.555.555-55",
+    "email": "hououin.kyouma@hotelnebula.com",
+    "telefone": "+55 11 95555-5555",
+    "cargo": "Engenheiro Chefe",
+    "departamento": "TI e Infraestrutura",
+    "turno": {
+      "tipo": "tarde",
+      "entrada": "13:00",
+      "saida": "22:00"
+    },
+    "permissoes": [
+      "sistema_configurar",
+      "acessos_gerenciar",
+      "manutencao_aprovar",
+      "banco_de_dados_root"
+    ],
+    "data_admissao": "2011-04-06",
+    "salario": 9800.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0006",
+    "nome": "Yubaba",
+    "cpf": "666.666.666-66",
+    "email": "yubaba.bathhouse@hotelnebula.com",
+    "telefone": "+55 11 96666-6666",
+    "cargo": "Diretora Financeira",
+    "departamento": "Financeiro",
+    "turno": {
+      "tipo": "integral",
+      "entrada": "09:00",
+      "saida": "18:00"
+    },
+    "permissoes": [
+      "financeiro_visualizar",
+      "financeiro_editar",
+      "pagamentos_aprovar",
+      "contratos_gerenciar"
+    ],
+    "data_admissao": "2001-07-20",
+    "salario": 18000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0007",
+    "nome": "Loid Forger",
+    "cpf": "777.777.777-77",
+    "email": "loid.twilight@hotelnebula.com",
+    "telefone": "+55 11 97777-7777",
+    "cargo": "Concierge Chefe",
+    "departamento": "Recepção e Relacionamento",
+    "turno": {
+      "tipo": "manha",
+      "entrada": "08:00",
+      "saida": "17:00"
+    },
+    "permissoes": [
+      "hospedes_vip",
+      "reservas_editar",
+      "concierge_master",
+      "acessos_livres"
+    ],
+    "data_admissao": "2022-04-09",
+    "salario": 7500.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0008",
+    "nome": "Makima",
+    "cpf": "888.888.888-88",
+    "email": "makima.control@hotelnebula.com",
+    "telefone": "+55 11 98888-8888",
+    "cargo": "Gerente de Recursos Humanos",
+    "departamento": "Recursos Humanos",
+    "turno": {
+      "tipo": "integral",
+      "entrada": "09:00",
+      "saida": "18:00"
+    },
+    "permissoes": [
+      "rh_gerenciar",
+      "contratacoes",
+      "demissoes",
+      "folha_pagamento"
+    ],
+    "data_admissao": "2022-10-11",
+    "salario": 12000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0009",
+    "nome": "Silvers Rayleigh",
+    "cpf": "999.999.999-99",
+    "email": "rayleigh.darkking@hotelnebula.com",
+    "telefone": "+55 11 99999-9999",
+    "cargo": "Supervisor de Manutenção",
+    "departamento": "Manutenção",
+    "turno": {
+      "tipo": "tarde",
+      "entrada": "12:00",
+      "saida": "21:00"
+    },
+    "permissoes": [
+      "manutencao_editar",
+      "compras_solicitar",
+      "quartos_status_editar",
+      "fornecedores_contatar"
+    ],
+    "data_admissao": "1999-10-20",
+    "salario": 7000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0010",
+    "nome": "Natori Haruto",
+    "cpf": "101.010.101-01",
+    "email": "natori.tasokare@hotelnebula.com",
+    "telefone": "+55 11 91010-1010",
+    "cargo": "Mensageiro / Bellboy",
+    "departamento": "Recepção",
+    "turno": {
+      "tipo": "tarde",
+      "entrada": "14:00",
+      "saida": "22:00"
+    },
+    "permissoes": [
+      "mensageria_registrar",
+      "quartos_acesso_basico",
+      "reservas_visualizar"
+    ],
+    "data_admissao": "2018-01-25",
+    "salario": 2800.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0011",
+    "nome": "Koro-sensei",
+    "cpf": "202.020.202-02",
+    "email": "korosensei.mach20@hotelnebula.com",
+    "telefone": "+55 11 92020-2020",
+    "cargo": "Coordenador de Treinamento",
+    "departamento": "Recursos Humanos",
+    "turno": {
+      "tipo": "manha",
+      "entrada": "07:00",
+      "saida": "16:00"
+    },
+    "permissoes": [
+      "treinamentos_gerenciar",
+      "rh_visualizar",
+      "feedbacks_internos_avaliar"
+    ],
+    "data_admissao": "2015-01-09",
+    "salario": 8000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0012",
+    "nome": "Gendo Ikari",
+    "cpf": "303.030.303-03",
+    "email": "gendo.nerv@hotelnebula.com",
+    "telefone": "+55 11 93030-3030",
+    "cargo": "Diretor de Segurança",
+    "departamento": "Segurança",
+    "turno": {
+      "tipo": "integral",
+      "entrada": "09:00",
+      "saida": "18:00"
+    },
+    "permissoes": [
+      "seguranca_master",
+      "cameras_visualizar",
+      "incidentes_registrar",
+      "acessos_bloquear"
+    ],
+    "data_admissao": "1995-10-04",
+    "salario": 13500.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0013",
+    "nome": "Roy Mustang",
+    "cpf": "404.040.404-04",
+    "email": "roy.flame@hotelnebula.com",
+    "telefone": "+55 11 94040-4040",
+    "cargo": "Gerente de Eventos",
+    "departamento": "Eventos e Conferências",
+    "turno": {
+      "tipo": "tarde",
+      "entrada": "13:00",
+      "saida": "22:00"
+    },
+    "permissoes": [
+      "eventos_gerenciar",
+      "espacos_reservar",
+      "contratos_eventos_aprovar",
+      "orcamento_eventos"
+    ],
+    "data_admissao": "2003-10-04",
+    "salario": 9500.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0014",
+    "nome": "Satoru Gojo",
+    "cpf": "505.050.505-05",
+    "email": "gojo.limitless@hotelnebula.com",
+    "telefone": "+55 11 95050-5050",
+    "cargo": "Instrutor de Lazer e Spa",
+    "departamento": "Lazer e Bem-Estar",
+    "turno": {
+      "tipo": "tarde",
+      "entrada": "14:00",
+      "saida": "20:00"
+    },
+    "permissoes": [
+      "lazer_gerenciar",
+      "spa_reservas",
+      "estoque_amenities_visualizar"
+    ],
+    "data_admissao": "2020-10-02",
+    "salario": 11000.00,
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-funcio0015",
+    "nome": "Himmel",
+    "cpf": "606.060.606-06",
+    "email": "himmel.hero@hotelnebula.com",
+    "telefone": "+55 11 96060-6060",
+    "cargo": "Gerente de Relações Públicas",
+    "departamento": "Marketing",
+    "turno": {
+      "tipo": "manha",
+      "entrada": "10:00",
+      "saida": "16:00"
+    },
+    "permissoes": [
+      "marketing_campanhas",
+      "redes_sociais",
+      "feedbacks_responder",
+      "comunicacao_oficial"
+    ],
+    "data_admissao": "2023-09-29",
+    "salario": 10500.00,
+    "ativo": false
+  }
+]

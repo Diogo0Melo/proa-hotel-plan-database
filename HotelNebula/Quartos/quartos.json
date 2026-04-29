@@ -1,0 +1,682 @@
+[
+  {
+    "_id": "00000000-0000-0000-0000-quarto0001",
+    "numero": "101",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 200.00,
+    "descricao": "Quarto rústico inspirado em estalagens élficas, com toques de madeira polida e iluminação natural suave, perfeito para magos e guerreiros em repouso.",
+    "comodidades": ["ar-condicionado", "tv 32\"", "frigobar", "wifi"],
+    "caracteristicas": {
+      "vista": "floresta_interna",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 24
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/101/elf_bed.jpg",
+      "https://storage.hotelnebula.com/quartos/101/wood_desk.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0002",
+    "numero": "102",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 3,
+    "preco_diaria": 220.00,
+    "descricao": "Ambiente acolhedor com uma mini-cozinha equipada com panelas de ferro fundido. Ideal para quem gosta de preparar suas próprias refeições exóticas após explorar masmorras.",
+    "comodidades": ["ar-condicionado", "tv 32\"", "frigobar", "wifi", "mini-cozinha"],
+    "caracteristicas": {
+      "vista": "patio",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 28
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/102/dungeon_kitchen.jpg",
+      "https://storage.hotelnebula.com/quartos/102/bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:30:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0003",
+    "numero": "103",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 180.00,
+    "descricao": "Decoração nostálgica inspirada no período Taisho, com relógios antigos e uma atmosfera que parece estar entre o dia e a noite.",
+    "comodidades": ["ar-condicionado", "tv 32\"", "frigobar", "wifi", "vitrola"],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 26
+    },
+    "status": "manutencao",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/103/twilight_room.jpg"
+    ],
+    "ultima_limpeza": "2024-04-30T15:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0004",
+    "numero": "104",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 4,
+    "preco_diaria": 250.00,
+    "descricao": "Tradicional ryokan com piso de tatame, portas shoji e um leve aroma de chá verde e natureza. Perfeito para relaxar e observar entidades invisíveis.",
+    "comodidades": ["futon", "ar-condicionado", "chaleira_eletrica", "wifi"],
+    "caracteristicas": {
+      "vista": "montanha",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 32
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/104/tatami_room.jpg",
+      "https://storage.hotelnebula.com/quartos/104/shoji_doors.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0005",
+    "numero": "105",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 2,
+    "preco_diaria": 260.00,
+    "descricao": "Design clássico japonês com acesso direto a um onsen privado de águas termais, remetendo às grandes casas de banho místicas.",
+    "comodidades": ["futon", "ar-condicionado", "frigobar", "wifi", "cofre"],
+    "caracteristicas": {
+      "vista": "lago",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 35
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/105/bathhouse_style.jpg"
+    ],
+    "ultima_limpeza": "2024-04-29T11:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0006",
+    "numero": "106",
+    "andar": 1,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 1,
+    "preco_diaria": 150.00,
+    "descricao": "Um quarto minimalista e pragmático projetado para viajantes solitários e suas motocicletas (estacionamento especial incluso).",
+    "comodidades": ["ar-condicionado", "tv 32\"", "wifi", "kit_ferramentas"],
+    "caracteristicas": {
+      "vista": "estrada",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 20
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/106/traveler_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:15:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0007",
+    "numero": "201",
+    "andar": 2,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 2,
+    "preco_diaria": 350.00,
+    "descricao": "Quarto tecnológico com múltiplas telas, osciloscópios decorativos e um micro-ondas (apenas para esquentar comida, não para enviar mensagens ao passado).",
+    "comodidades": ["ar-condicionado", "tv 55\"", "frigobar", "wifi_gigabit", "pc_gamer"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 40
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/201/lab_gadgets.jpg",
+      "https://storage.hotelnebula.com/quartos/201/divergence_meter.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T08:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0008",
+    "numero": "202",
+    "andar": 2,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 1,
+    "preco_diaria": 190.00,
+    "descricao": "Um espaço imersivo com cabos expostos estilizados e monitores analógicos. Fique profundamente conectado à Wired.",
+    "comodidades": ["ar-condicionado", "multiplos_monitores", "wifi_gigabit"],
+    "caracteristicas": {
+      "vista": "nenhuma",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 22
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/202/wired_room.jpg"
+    ],
+    "ultima_limpeza": "2024-04-28T14:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0009",
+    "numero": "203",
+    "andar": 2,
+    "tipo": "suite",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 450.00,
+    "descricao": "Design ultramoderno e higienista, iluminação inteligente baseada no seu humor e assistentes virtuais conectados ao sistema central.",
+    "comodidades": ["ar-condicionado", "tv 65\"", "frigobar_smart", "wifi_gigabit", "domotica_total"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 45
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/203/smart_room.jpg",
+      "https://storage.hotelnebula.com/quartos/203/hologram_display.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T11:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0010",
+    "numero": "204",
+    "andar": 2,
+    "tipo": "suite",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 480.00,
+    "descricao": "Quarto high-tech com isolamento acústico perfeito. A decoração cyberpunk minimalista faz você se sentir um agente de elite da Seção 9.",
+    "comodidades": ["ar-condicionado", "tv 65\"", "frigobar", "cofre_biometrico", "wifi_gigabit"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 50
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/204/cyber_suite.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:45:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0011",
+    "numero": "205",
+    "andar": 2,
+    "tipo": "standard",
+    "categoria": "luxo",
+    "capacidade_max": 3,
+    "preco_diaria": 320.00,
+    "descricao": "Estética Neo Tokyo com luzes de neon vermelhas, mobília de design agressivo e janelas panorâmicas para as luzes da metrópole.",
+    "comodidades": ["ar-condicionado", "tv 55\"", "frigobar", "wifi", "soundbar"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 38
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/205/neo_tokyo_lights.jpg",
+      "https://storage.hotelnebula.com/quartos/205/red_neon_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:30:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0012",
+    "numero": "206",
+    "andar": 2,
+    "tipo": "suite",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 400.00,
+    "descricao": "Luzes de neon vibrantes, espelhos infinitos e uma estética braindance. O ápice da vida mercenária urbana em Night City.",
+    "comodidades": ["ar-condicionado", "tv 65\"", "frigobar_recheado", "cadeira_massagem", "wifi_gigabit"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 42
+    },
+    "status": "manutencao",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/206/edgerunner_pad.jpg"
+    ],
+    "ultima_limpeza": "2024-04-25T16:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0013",
+    "numero": "301",
+    "andar": 3,
+    "tipo": "deluxe",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 500.00,
+    "descricao": "Elegância sombria de um bar celestial. Veludo roxo, madeira escura, mesa de bilhar privativa e um balcão com as melhores bebidas.",
+    "comodidades": ["ar-condicionado", "bar_completo", "mesa_bilhar", "wifi", "cofre"],
+    "caracteristicas": {
+      "vista": "patio",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 60
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/301/quindecim_bar.jpg",
+      "https://storage.hotelnebula.com/quartos/301/billiard_table.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T08:30:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0014",
+    "numero": "302",
+    "andar": 3,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 4,
+    "preco_diaria": 420.00,
+    "descricao": "Estilo de lounge espacial retro-futurista, com sofás de couro desgastado, cinzeiros vintage e uma trilha sonora de jazz suave tocando ao entrar.",
+    "comodidades": ["ar-condicionado", "tv 55\"", "frigobar", "maquina_espresso", "sofa_couro"],
+    "caracteristicas": {
+      "vista": "ceu_estrelado",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 48
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/302/bebop_lounge.jpg"
+    ],
+    "ultima_limpeza": "2024-04-27T10:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0015",
+    "numero": "303",
+    "andar": 3,
+    "tipo": "deluxe",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 550.00,
+    "descricao": "Quarto de luxo inspirado nos vagões de trem da era da Lei Seca, com detalhes em latão, poltronas confortáveis e muito mistério.",
+    "comodidades": ["ar-condicionado", "banheira_vitoriana", "frigobar_premium", "wifi", "cofre_vintage"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 55
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/303/flying_pussyfoot.jpg",
+      "https://storage.hotelnebula.com/quartos/303/vintage_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T11:15:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0016",
+    "numero": "304",
+    "andar": 3,
+    "tipo": "standard",
+    "categoria": "economico",
+    "capacidade_max": 3,
+    "preco_diaria": 230.00,
+    "descricao": "Um refúgio rústico com decoração tropical e uma rede na varanda. O barulho do mar e o ventilador de teto lembram a cidade de Roanapur.",
+    "comodidades": ["ar-condicionado", "ventilador_teto", "frigobar_recheado_rum", "wifi"],
+    "caracteristicas": {
+      "vista": "mar",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 30
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/304/roanapur_balcony.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:20:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0017",
+    "numero": "305",
+    "andar": 3,
+    "tipo": "standard",
+    "categoria": "luxo",
+    "capacidade_max": 2,
+    "preco_diaria": 280.00,
+    "descricao": "Quarto com grandes janelas projetado para observar as luzes da cidade à noite, com estofados lembrando bancos confortáveis de um táxi clássico.",
+    "comodidades": ["ar-condicionado", "tv 42\"", "radio_am_fm", "wifi", "poltrona_reclinavel"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": false,
+      "varanda": false,
+      "area_m2": 35
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/305/taxi_seats.jpg",
+      "https://storage.hotelnebula.com/quartos/305/city_view.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:05:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0018",
+    "numero": "306",
+    "andar": 3,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 2,
+    "preco_diaria": 310.00,
+    "descricao": "Decoração punk rock aconchegante, mesa com formato de guitarra e duas camas de solteiro separadas por um abajur de morangos.",
+    "comodidades": ["ar-condicionado", "tv 42\"", "frigobar", "wifi", "toca_discos"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 40
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/306/strawberry_glasses.jpg",
+      "https://storage.hotelnebula.com/quartos/306/punk_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-04-26T12:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0019",
+    "numero": "401",
+    "andar": 4,
+    "tipo": "deluxe",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 600.00,
+    "descricao": "Quarto imperial chinês, decorado com sedas finas, móveis de cerejeira e uma área especial para o preparo de chás terapêuticos e ervas medicinais.",
+    "comodidades": ["ar-condicionado", "kit_cha_premium", "frigobar", "wifi", "banheira_madeira"],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 55
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/401/imperial_bed.jpg",
+      "https://storage.hotelnebula.com/quartos/401/tea_set.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T08:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0020",
+    "numero": "402",
+    "andar": 4,
+    "tipo": "deluxe",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 650.00,
+    "descricao": "Estilo vitoriano elegante, com uma mesa de carvalho antigo, máquina de escrever clássica, papelaria fina e selos de cera à disposição.",
+    "comodidades": ["ar-condicionado", "maquina_escrever", "frigobar", "wifi", "lareira_eletrica"],
+    "caracteristicas": {
+      "vista": "mar",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 50
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/402/typewriter_desk.jpg",
+      "https://storage.hotelnebula.com/quartos/402/victorian_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:15:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0021",
+    "numero": "403",
+    "andar": 4,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 2,
+    "preco_diaria": 400.00,
+    "descricao": "Luxo europeu sombrio da Alemanha dos anos 90, com vastas estantes de livros médicos e uma atmosfera de suspense silencioso.",
+    "comodidades": ["ar-condicionado", "tv 42\"", "biblioteca_privativa", "wifi", "cofre"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 45
+    },
+    "status": "manutencao",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/403/european_study.jpg"
+    ],
+    "ultima_limpeza": "2024-04-20T14:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0022",
+    "numero": "404",
+    "andar": 4,
+    "tipo": "master",
+    "categoria": "vip",
+    "capacidade_max": 4,
+    "preco_diaria": 900.00,
+    "descricao": "Quarto de alto padrão no nível do conselho estudantil da Academia Shuchi'in. Sofás de veludo, serviço de chá inglês e vista impecável.",
+    "comodidades": ["ar-condicionado", "tv 75\"", "servico_mordomo", "wifi_gigabit", "adega_vinhos"],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 80
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/404/student_council_room.jpg",
+      "https://storage.hotelnebula.com/quartos/404/tea_time.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T07:30:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0023",
+    "numero": "405",
+    "andar": 4,
+    "tipo": "master",
+    "categoria": "vip",
+    "capacidade_max": 2,
+    "preco_diaria": 1200.00,
+    "descricao": "Uma suíte de luxo bizarra e extravagante. Detalhes em ouro, estátuas renascentistas italianas e um guarda-roupa digno de uma estrela do rock.",
+    "comodidades": ["ar-condicionado_potente", "tv 85\"", "frigobar_premium", "cama_king_gold", "espelho_camarim"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 90
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/405/golden_wind_suite.jpg"
+    ],
+    "ultima_limpeza": "2024-04-29T10:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0024",
+    "numero": "406",
+    "andar": 4,
+    "tipo": "suite",
+    "categoria": "premium",
+    "capacidade_max": 2,
+    "preco_diaria": 500.00,
+    "descricao": "Arquitetura moderna peculiar, escadas que não levam a lugar nenhum, mobília assimétrica e um suprimento inesgotável de donuts.",
+    "comodidades": ["ar-condicionado", "tv 55\"", "frigobar_doces", "wifi", "banheira_furo"],
+    "caracteristicas": {
+      "vista": "patio",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 50
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/406/eccentric_architecture.jpg",
+      "https://storage.hotelnebula.com/quartos/406/donut_box.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:45:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0025",
+    "numero": "501",
+    "andar": 5,
+    "tipo": "master",
+    "categoria": "vip",
+    "capacidade_max": 2,
+    "preco_diaria": 1500.00,
+    "descricao": "Design industrial militar futurista, paredes blindadas brancas, painéis hexagonais e uma banheira especial com água de coloração laranja que remete ao LCL.",
+    "comodidades": ["ar-condicionado", "tv_holografica", "frigobar", "wifi_militar", "isolamento_absoluto"],
+    "caracteristicas": {
+      "vista": "geofront_interna",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 100
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/501/nerv_hq_room.jpg",
+      "https://storage.hotelnebula.com/quartos/501/orange_bath.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T07:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0026",
+    "numero": "502",
+    "andar": 5,
+    "tipo": "deluxe",
+    "categoria": "premium",
+    "capacidade_max": 4,
+    "preco_diaria": 700.00,
+    "descricao": "Paredes de pedra rústica exposta, lareira robusta e mobília de carvalho maciço. O quarto fica nos andares mais altos, perfeito para vigiar além das muralhas.",
+    "comodidades": ["ar-condicionado", "lareira", "frigobar", "wifi", "equipamento_dmt_decorativo"],
+    "caracteristicas": {
+      "vista": "montanha",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 75
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/502/stone_walls.jpg",
+      "https://storage.hotelnebula.com/quartos/502/wall_view.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T09:30:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0027",
+    "numero": "503",
+    "andar": 5,
+    "tipo": "master",
+    "categoria": "vip",
+    "capacidade_max": 2,
+    "preco_diaria": 1800.00,
+    "descricao": "Uma expansão de domínio contida num quarto. Minimalismo místico, chão de água espelhada ilusória e um ambiente imune a energias amaldiçoadas.",
+    "comodidades": ["ar-condicionado", "tv 85\"", "frigobar", "wifi", "onsen_privativo"],
+    "caracteristicas": {
+      "vista": "jardim",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 110
+    },
+    "status": "ocupado",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/503/domain_expansion.jpg",
+      "https://storage.hotelnebula.com/quartos/503/shrine_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-04-28T11:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0028",
+    "numero": "504",
+    "andar": 5,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 3,
+    "preco_diaria": 450.00,
+    "descricao": "Estilo acampamento de alta montanha dentro de casa. Equipamentos de exploração pendurados, redes de descanso e uma varanda vertiginosa com vista para o abismo da cidade.",
+    "comodidades": ["ar-condicionado", "fogareiro", "frigobar", "wifi", "telescopio"],
+    "caracteristicas": {
+      "vista": "abismo",
+      "banheira": false,
+      "varanda": true,
+      "area_m2": 55
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/504/orth_balcony.jpg",
+      "https://storage.hotelnebula.com/quartos/504/explorer_gear.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:00:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0029",
+    "numero": "505",
+    "andar": 5,
+    "tipo": "suite",
+    "categoria": "luxo",
+    "capacidade_max": 4,
+    "preco_diaria": 480.00,
+    "descricao": "Quarto de madeira envelhecida inspirado em longhouses nórdicos, peles falsas aconchegantes e escudos nas paredes. Verdadeiros guerreiros descansam aqui sem inimigos.",
+    "comodidades": ["ar-condicionado", "aquecimento_central", "frigobar_hidromel", "wifi", "tv 55\""],
+    "caracteristicas": {
+      "vista": "montanha",
+      "banheira": true,
+      "varanda": false,
+      "area_m2": 65
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/505/nordic_hearth.jpg",
+      "https://storage.hotelnebula.com/quartos/505/viking_bed.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T08:45:00Z"
+  },
+  {
+    "_id": "00000000-0000-0000-0000-quarto0030",
+    "numero": "506",
+    "andar": 5,
+    "tipo": "tematico",
+    "categoria": "premium",
+    "capacidade_max": 6,
+    "preco_diaria": 500.00,
+    "descricao": "Uma mistura caótica de casa tradicional japonesa com tecnologias absurdas. Conta com uma mesa kotatsu confortável, revistas de mangá e uma placa 'Fazemos Tudo'.",
+    "comodidades": ["ar-condicionado", "kotatsu", "tv 65\"", "geladeira_tamanho_familia", "wifi", "console_jogos"],
+    "caracteristicas": {
+      "vista": "cidade",
+      "banheira": true,
+      "varanda": true,
+      "area_m2": 85
+    },
+    "status": "disponivel",
+    "fotos": [
+      "https://storage.hotelnebula.com/quartos/506/yorozuya_desk.jpg",
+      "https://storage.hotelnebula.com/quartos/506/strawberry_milk.jpg"
+    ],
+    "ultima_limpeza": "2024-05-01T10:15:00Z"
+  }
+]

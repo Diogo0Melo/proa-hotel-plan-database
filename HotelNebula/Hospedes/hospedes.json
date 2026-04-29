@@ -1,0 +1,1302 @@
+[
+  {
+    "_id": "00000000-0000-0000-0000-hospede0001",
+    "nome": "Ginko",
+    "cpf": "111.111.111-01",
+    "email": "ginko@mushi.master.jp",
+    "telefone": "+81 00 1111-0000",
+    "data_nascimento": "1899-12-31",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Trilhas Errantes da Montanha Verde, s/n",
+      "cidade": "Aldeia Desconhecida",
+      "estado": "Norte",
+      "cep": "00000-000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": true,
+      "cama": "futon",
+      "necessidades_especiais": "Quarto com ventilação natural para fumaça de tabaco repelente de Mushi. Ausência de itens antigos que possam abrigar vida invisível."
+    },
+    "veiculo": "A pé (Mochila de madeira estilo caixa farmacêutica)",
+    "data_cadastro": "2024-01-01T10:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0002",
+    "nome": "Laios Touden",
+    "cpf": "222.222.222-02",
+    "email": "laios.eats@dungeon.com",
+    "telefone": "+00 99 8888-7777",
+    "data_nascimento": "1994-08-15",
+    "nacionalidade": "Ilhéu do Continente Leste",
+    "endereco": {
+      "logradouro": "Acampamento Base da Masmorra",
+      "cidade": "Ilha de Ouro",
+      "estado": "Superfície",
+      "cep": "11111-111",
+      "pais": "Reino Antigo"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Requer uma mini-cozinha equipada e panelas grandes de ferro fundido. Solicita permissão para cozinhar cogumelos andantes e carne de basilisco."
+    },
+    "veiculo": "Carroça de suprimentos da guilda",
+    "data_cadastro": "2024-01-05T14:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0003",
+    "nome": "Frieren",
+    "cpf": "333.333.333-03",
+    "email": "frieren.mage@beyond.end",
+    "telefone": "+00 11 2222-3333",
+    "data_nascimento": "0900-01-01",
+    "nacionalidade": "Élfica",
+    "endereco": {
+      "logradouro": "Cabana na Floresta Norte, 1",
+      "cidade": "Auberst",
+      "estado": "Região Mágica Central",
+      "cep": "99999-999",
+      "pais": "Império"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Serviço de quarto deve acordá-la às 14h, não antes. Solicita remoção de qualquer baú com dentes (Mímicos) do quarto."
+    },
+    "veiculo": "Nenhum",
+    "data_cadastro": "2024-01-10T16:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0004",
+    "nome": "Lain Iwakura",
+    "cpf": "444.444.444-04",
+    "email": "lain@wired.net",
+    "telefone": "+81 33 4444-5555",
+    "data_nascimento": "1984-07-21",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Bairro Residencial Silencioso, 404",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "100-0001",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Isolamento térmico extremo, múltiplos cabos de energia e conexão Gigabit direta ao backbone da Wired. Chão resistente a água para sistema de resfriamento customizado."
+    },
+    "veiculo": "Trem suburbano",
+    "data_cadastro": "2024-01-12T23:59:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0005",
+    "nome": "Spike Spiegel",
+    "cpf": "555.555.555-05",
+    "email": "spike.bounty@bebop.mars",
+    "telefone": "+99 88 7777-6666",
+    "data_nascimento": "2044-06-26",
+    "nacionalidade": "Marciano",
+    "endereco": {
+      "logradouro": "Hangar 4, Nave Bebop",
+      "cidade": "Órbita Móvel",
+      "estado": "Sistema Solar",
+      "cep": "00000-BBP",
+      "pais": "Marte"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": true,
+      "cama": "casal",
+      "necessidades_especiais": "Cinzeiros extras, sofá confortável para dormir no meio do dia, e porções de carne com pimentão (com carne de verdade, se possível)."
+    },
+    "veiculo": "Nave Swordfish II (Monolugar de corrida adaptado)",
+    "data_cadastro": "2024-01-15T02:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0006",
+    "nome": "Kurisu Makise",
+    "cpf": "666.666.666-06",
+    "email": "christina.zombie@victorcondria.edu",
+    "telefone": "+1 212 555-0198",
+    "data_nascimento": "1992-07-25",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Laboratório de Neurociência Aplicada, 303",
+      "cidade": "Akihabara",
+      "estado": "Tóquio",
+      "cep": "101-0021",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Frigobar estocado EXCLUSIVAMENTE com Dr. Pepper. Mesa grande para anotações teóricas e um micro-ondas que não interfira com telefones celulares."
+    },
+    "veiculo": "Táxi / Transporte Público",
+    "data_cadastro": "2024-01-18T10:15:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0007",
+    "nome": "Johan Liebert",
+    "cpf": "777.777.777-07",
+    "email": "nameless.monster@unknown.de",
+    "telefone": "+49 30 1111-2222",
+    "data_nascimento": "1975-05-01",
+    "nacionalidade": "Tcheco/Alemão",
+    "endereco": {
+      "logradouro": "Kinderheim 511 (Ruínas)",
+      "cidade": "Berlim",
+      "estado": "Brandemburgo",
+      "cep": "10115",
+      "pais": "Alemanha"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Anonimato absoluto. Quarto sem câmeras de corredor visando a porta. Precisa de uma biblioteca privativa focada em contos de fadas ilustrados europeus."
+    },
+    "veiculo": "Sedan Preto Luxuoso (Placa não registrada)",
+    "data_cadastro": "2024-01-20T21:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0008",
+    "nome": "Maomao",
+    "cpf": "888.888.888-08",
+    "email": "apothecary.cat@palace.cn",
+    "telefone": "+86 10 9999-8888",
+    "data_nascimento": "1500-11-20",
+    "nacionalidade": "Chinesa (Império Li)",
+    "endereco": {
+      "logradouro": "Bairro do Prazer, Farmácia do Luomen",
+      "cidade": "Capital Imperial",
+      "estado": "Centro",
+      "cep": "00000-000",
+      "pais": "China Antiga"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Acesso autorizado ao jardim botânico do hotel para colheita de ervas. Permissão para preparar infusões medicinais e manusear venenos leves no quarto."
+    },
+    "veiculo": "Carruagem do Palácio Traseiro",
+    "data_cadastro": "2024-01-22T08:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0009",
+    "nome": "Kino",
+    "cpf": "999.999.999-09",
+    "email": "kino.journey@motorrad.world",
+    "telefone": "+00 55 4444-3333",
+    "data_nascimento": "2005-03-10",
+    "nacionalidade": "Nômade",
+    "endereco": {
+      "logradouro": "Estrada, País Atual",
+      "cidade": "Varia a cada 3 dias",
+      "estado": "Continente",
+      "cep": "00000-000",
+      "pais": "Mundo de Vários Países"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Obrigatório: permissão para trazer a motocicleta (Hermes) para dentro do quarto ou estacionamento fechado e vigiado. Kit de limpeza de armas de fogo."
+    },
+    "veiculo": "Motorrad Brough Superior (Hermes - com IA falante)",
+    "data_cadastro": "2024-01-25T17:10:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0010",
+    "nome": "Vash the Stampede",
+    "cpf": "101.101.101-10",
+    "email": "love.and.peace@gunsmoke.planet",
+    "telefone": "+00 22 1111-0000",
+    "data_nascimento": "1880-07-21",
+    "nacionalidade": "Planta/Humanóide",
+    "endereco": {
+      "logradouro": "Desertos de No Man's Land",
+      "cidade": "Macca City",
+      "estado": "Deserto",
+      "cep": "00000-000",
+      "pais": "Planeta Gunsmoke"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Caixas diárias de donuts açucarados. Seguro reforçado contra danos ao patrimônio (atrai caçadores de recompensa). Cama extra-longa para suportar casaco vermelho."
+    },
+    "veiculo": "Caravana do Deserto",
+    "data_cadastro": "2024-01-26T12:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0011",
+    "nome": "Hei",
+    "cpf": "121.121.121-12",
+    "email": "li.shengshun@syndicate.org",
+    "telefone": "+81 90 9988-7766",
+    "data_nascimento": "1988-11-11",
+    "nacionalidade": "Chinês",
+    "endereco": {
+      "logradouro": "Prédio de Apartamentos Antigos, 201",
+      "cidade": "Tóquio",
+      "estado": "Portão do Inferno",
+      "cep": "100-0000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Porções de refeição 10 vezes maiores que o normal (pagamento de Contratante). Acesso liberado ao telhado do hotel durante a madrugada."
+    },
+    "veiculo": "Nenhum (Movimentação por fios/ganchos)",
+    "data_cadastro": "2024-01-27T03:15:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0012",
+    "nome": "Revy",
+    "cpf": "131.131.131-13",
+    "email": "twohands@lagooncompany.com",
+    "telefone": "+66 89 555-4444",
+    "data_nascimento": "1972-02-15",
+    "nacionalidade": "Americana",
+    "endereco": {
+      "logradouro": "Doca da Lagoon Company",
+      "cidade": "Roanapur",
+      "estado": "Província Costeira",
+      "cep": "20000-000",
+      "pais": "Tailândia"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": true,
+      "cama": "solteiro",
+      "necessidades_especiais": "Muito rum Bacardi no frigobar. Quarto com ventilador de teto e rede na varanda. Tolerância a barulhos de manutenção de armas (Berettas customizadas)."
+    },
+    "veiculo": "Lancha Torpedeira PT Boat",
+    "data_cadastro": "2024-01-28T14:40:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0013",
+    "nome": "Thorfinn Karlsefni",
+    "cpf": "141.141.141-14",
+    "email": "thorfinn.explorer@vinland.is",
+    "telefone": "+354 555-1234",
+    "data_nascimento": "1000-02-03",
+    "nacionalidade": "Islandês",
+    "endereco": {
+      "logradouro": "Fazenda do Ketil (Antiga)",
+      "cidade": "Jutlândia",
+      "estado": "Norte",
+      "cep": "00000-000",
+      "pais": "Dinamarca"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Dispensa armas no quarto. Prefere dormir no chão duro sobre peles ou piso de madeira. Refeições simples, pão rústico e hidromel."
+    },
+    "veiculo": "Navio Mercante Nórdico (Knarr)",
+    "data_cadastro": "2024-01-29T09:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0014",
+    "nome": "Kraft Lawrence",
+    "cpf": "151.151.151-15",
+    "email": "lawrence.merchant@rowen.trade",
+    "telefone": "+00 11 8888-2222",
+    "data_nascimento": "1450-04-12",
+    "nacionalidade": "Pagan (Continente Norte)",
+    "endereco": {
+      "logradouro": "Guilda Comercial de Rowen",
+      "cidade": "Pazzio",
+      "estado": "Reino de Trenni",
+      "cep": "00000-000",
+      "pais": "Trenni"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Cesta de maçãs vermelhas e frescas renovada 3 vezes ao dia (para sua acompanhante de orelhas de lobo). Cofre grande para moedas de prata e documentos comerciais."
+    },
+    "veiculo": "Carroça de mercador puxada a cavalo",
+    "data_cadastro": "2024-01-30T16:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0015",
+    "nome": "Violet Evergarden",
+    "cpf": "161.161.161-16",
+    "email": "violet.doll@chpostal.com",
+    "telefone": "+00 22 3333-4444",
+    "data_nascimento": "1905-01-01",
+    "nacionalidade": "Leidense",
+    "endereco": {
+      "logradouro": "Companhia Postal CH",
+      "cidade": "Leiden",
+      "estado": "Leidenschaftlich",
+      "cep": "00000-000",
+      "pais": "Continente de Telesis"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Mesa clássica de carvalho, papelaria fina e tinta inesgotável para máquina de escrever. Kit de manutenção e óleo para braços protéticos de adamantium."
+    },
+    "veiculo": "Trem a vapor / Carruagem",
+    "data_cadastro": "2024-02-01T08:10:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0016",
+    "nome": "Phos",
+    "cpf": "171.171.171-17",
+    "email": "phosphophyllite@gems.school",
+    "telefone": "+00 00 0000-0000",
+    "data_nascimento": "0000-01-01",
+    "nacionalidade": "Gema",
+    "endereco": {
+      "logradouro": "Escola das Gemas",
+      "cidade": "Praia de Nascença",
+      "estado": "Ilha Principal",
+      "cep": "00000-000",
+      "pais": "Terra Pós-Humana"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Quarto com umidade zero. Necessita de pó de polimento de joias, cola industrial forte e lençóis extremamente macios para não riscar o corpo que tem dureza 3.5."
+    },
+    "veiculo": "Nenhum (Pernas de ágata velozes)",
+    "data_cadastro": "2024-02-02T10:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0017",
+    "nome": "Killy",
+    "cpf": "181.181.181-18",
+    "email": "killy.safeguard@netsphere.sys",
+    "telefone": "+00 99 9999-9999",
+    "data_nascimento": "0000-00-00",
+    "nacionalidade": "Ciborgue/Humano Sintético",
+    "endereco": {
+      "logradouro": "Nível 3004",
+      "cidade": "Megaestrutura",
+      "estado": "Setor de Base",
+      "cep": "00000-000",
+      "pais": "A Cidade"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "chão",
+      "necessidades_especiais": "Acesso a portas de recarga de alta tensão elétrica. Paredes blindadas capazes de suportar o coice do Gravitational Beam Emitter. Rações sintéticas."
+    },
+    "veiculo": "Elevador da Megaestrutura",
+    "data_cadastro": "2024-02-03T11:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0018",
+    "nome": "Shirou Emiya",
+    "cpf": "191.191.191-19",
+    "email": "seigi.no.mikata@fuyuki.jp",
+    "telefone": "+81 80 1234-5678",
+    "data_nascimento": "1987-04-09",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Distrito Residencial Miyama",
+      "cidade": "Fuyuki",
+      "estado": "Prefeitura Desconhecida",
+      "cep": "00000-000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Cozinha acessível para preparar o jantar para múltiplas pessoas heroicas. Galpão ou área aberta para projeção de espadas e treinamento estrutural (Trace On)."
+    },
+    "veiculo": "Bicicleta",
+    "data_cadastro": "2024-02-04T19:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0019",
+    "nome": "Akane Tsunemori",
+    "cpf": "202.202.202-20",
+    "email": "tsunemori.a@mwh.gov.jp",
+    "telefone": "+81 33 2222-1111",
+    "data_nascimento": "2092-04-01",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Setor Residencial A, Bloco 4",
+      "cidade": "Tóquio-Nova",
+      "estado": "Tóquio",
+      "cep": "100-0002",
+      "pais": "Japão (Sistema Sibyl)"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Quarto livre de estressores psicológicos. Câmeras integradas ao Sistema Sibyl devem ser desligadas para garantir privacidade. Permissão para portar Dominator no cofre."
+    },
+    "veiculo": "Carro Autônomo da Segurança Pública",
+    "data_cadastro": "2024-02-05T07:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0020",
+    "nome": "Chise Hatori",
+    "cpf": "212.212.212-21",
+    "email": "chise.sleighbeggy@magus.uk",
+    "telefone": "+44 20 7946-0958",
+    "data_nascimento": "2000-02-14",
+    "nacionalidade": "Japonesa/Residente no Reino Unido",
+    "endereco": {
+      "logradouro": "Casa de Campo do Elias, Floresta",
+      "cidade": "Interior",
+      "estado": "Inglaterra",
+      "cep": "EN1-MAG",
+      "pais": "Reino Unido"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Cama espaçosa, pois seu tutor (com cabeça de osso de animal) requer muito espaço. Permissão para fadas (Ariel) circularem pela janela."
+    },
+    "veiculo": "Transporte pelas Sombras / Teletransporte",
+    "data_cadastro": "2024-02-06T15:10:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0021",
+    "nome": "Gintoki Sakata",
+    "cpf": "232.232.232-23",
+    "email": "gin.chan.yorozuya@kabukicho.jp",
+    "telefone": "+81 80 5555-4444",
+    "data_nascimento": "1980-10-10",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Segundo Andar do Snack Otose",
+      "cidade": "Edo (Tóquio)",
+      "estado": "Kabukicho",
+      "cep": "160-0021",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": true,
+      "cama": "futon",
+      "necessidades_especiais": "Estoque massivo de leite de morango, sorvete de chocolate com menta e revistas Shonen Jump no quarto. Cobrar estadia de terceiros, pois ele sempre foge sem pagar."
+    },
+    "veiculo": "Scooter prata caindo aos pedaços",
+    "data_cadastro": "2024-02-07T12:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0022",
+    "nome": "Motoko Kusanagi",
+    "cpf": "242.242.242-24",
+    "email": "major.kusanagi@section9.gov.jp",
+    "telefone": "+81 90 9999-1111",
+    "data_nascimento": "2000-05-15",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Sede da Seção 9, Niihama",
+      "cidade": "New Port City",
+      "estado": "Prefeitura de Niihama",
+      "cep": "202-0001",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Rede WiFi Gigabit isolada por firewall militar. Cadeira ergométrica capaz de suportar um corpo cibernético pesado e óleos de manutenção de próteses de alta performance."
+    },
+    "veiculo": "Tachikoma (Estacionado no teto do hotel)",
+    "data_cadastro": "2024-02-08T09:05:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0023",
+    "nome": "Senku Ishigami",
+    "cpf": "252.252.252-25",
+    "email": "senku.science@kingdom.org",
+    "telefone": "+00 00 10000-0000",
+    "data_nascimento": "2004-01-04",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Laboratório Central da Vila Ishigami",
+      "cidade": "Vila Ishigami",
+      "estado": "Mundo de Pedra",
+      "cep": "00000-000",
+      "pais": "Reino da Ciência"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Área bem ventilada com bancada de granito para experimentos químicos. Tolerância a cheiro de ácido sulfúrico. Estoque de ramen instantâneo e cola no frigobar."
+    },
+    "veiculo": "Tanque / Carro a vapor de bambu",
+    "data_cadastro": "2024-02-09T18:22:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0024",
+    "nome": "L Lawliet",
+    "cpf": "262.262.262-26",
+    "email": "ryuzaki.detective@wammy.uk",
+    "telefone": "+44 20 8888-7777",
+    "data_nascimento": "1979-10-31",
+    "nacionalidade": "Britânico",
+    "endereco": {
+      "logradouro": "Quartel General Secreto",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "00000-000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Serviço de quarto ininterrupto entregando bolos, macaroons, chá preto com muito açúcar e cubos de gelo. Sofás com encosto baixo (ele só agacha nas cadeiras)."
+    },
+    "veiculo": "Helicóptero Particular",
+    "data_cadastro": "2024-02-10T14:15:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0025",
+    "nome": "Tanya Degurechaff",
+    "cpf": "272.272.272-27",
+    "email": "tanya.devil@empire.gov",
+    "telefone": "+49 30 6666-5555",
+    "data_nascimento": "1914-09-24",
+    "nacionalidade": "Imperial",
+    "endereco": {
+      "logradouro": "Quartel General do Estado-Maior",
+      "cidade": "Berun",
+      "estado": "Distrito Central",
+      "cep": "10000",
+      "pais": "O Império"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Isolamento acústico contra bombardeios (trauma do front). Máquina de café expresso de alta qualidade. Proibição severa de Bíblias ou estátuas de divindades no quarto."
+    },
+    "veiculo": "Orbital de Voo Mágico (Elênio Type 95)",
+    "data_cadastro": "2024-02-11T09:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0026",
+    "nome": "Kaguya Shinomiya",
+    "cpf": "282.282.282-28",
+    "email": "kaguya.president@shuchiin.edu.jp",
+    "telefone": "+81 90 1234-9876",
+    "data_nascimento": "2002-01-01",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Mansão Shinomiya, Minato",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "108-0000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "vip",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Quarto limpo por criadas de confiança (Hayasaka). Exige jogo de chá em porcelana inglesa autêntica e um telescópio varanda afora para observar a lua."
+    },
+    "veiculo": "Limusine Preta",
+    "data_cadastro": "2024-02-12T11:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0027",
+    "nome": "Natsume Takashi",
+    "cpf": "292.292.292-29",
+    "email": "natsume.friends@rural.jp",
+    "telefone": "+81 80 2222-3333",
+    "data_nascimento": "2000-07-01",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Casa da Família Fujiwara",
+      "cidade": "Cidade do Interior",
+      "estado": "Prefeitura de Kumamoto",
+      "cep": "860-0000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Quarto com acesso para animais (traz consigo um gato gordo chamado Nyanko-sensei). Garrafas de sake premium e lulas secas para o 'gato'."
+    },
+    "veiculo": "Bicicleta rural / Ônibus local",
+    "data_cadastro": "2024-02-13T16:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0028",
+    "nome": "Balsa Yonsa",
+    "cpf": "303.303.303-30",
+    "email": "balsa.spear@moribito.net",
+    "telefone": "+00 11 4444-5555",
+    "data_nascimento": "1970-01-01",
+    "nacionalidade": "Kanbalese",
+    "endereco": {
+      "logradouro": "Montanhas do Norte",
+      "cidade": "Musa",
+      "estado": "Reino de Kanbal",
+      "cep": "00000-000",
+      "pais": "Kanbal"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Comida nutritiva e farta, espaço amplo no quarto para manuseio e limpeza de sua lança curta. Evitar quartos com vista para precipícios devido a emboscadas passadas."
+    },
+    "veiculo": "A pé",
+    "data_cadastro": "2024-02-14T08:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0029",
+    "nome": "Guts",
+    "cpf": "313.313.313-31",
+    "email": "blackswordsman@midland.com",
+    "telefone": "+00 00 0000-0000",
+    "data_nascimento": "0000-00-00",
+    "nacionalidade": "Midlander",
+    "endereco": {
+      "logradouro": "Caminho Sangrento",
+      "cidade": "Lugares Sombrios",
+      "estado": "Império Kushan",
+      "cep": "00000-000",
+      "pais": "Midland"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": true,
+      "cama": "casal",
+      "necessidades_especiais": "Proteção pesada. O quarto deve suportar o peso da espada Dragon Slayer (quase 200kg) apoiada na parede. Quarto isolado com amuletos para não atrair espíritos malignos à noite."
+    },
+    "veiculo": "Cavalo / Carroça com a Trupe",
+    "data_cadastro": "2024-02-15T23:55:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0030",
+    "nome": "Oreki Houtarou",
+    "cpf": "323.323.323-32",
+    "email": "oreki.energy@kamiyama.edu.jp",
+    "telefone": "+81 90 7777-8888",
+    "data_nascimento": "2000-04-28",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Residência Oreki",
+      "cidade": "Kamiyama",
+      "estado": "Prefeitura de Gifu",
+      "cep": "506-0846",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Quarto o mais perto possível do elevador para poupar energia. Nada de enigmas ou decorações misteriosas que possam atrair garotas curiosas."
+    },
+    "veiculo": "Bicicleta (usada a contragosto)",
+    "data_cadastro": "2024-02-16T15:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0031",
+    "nome": "Shiro",
+    "cpf": "343.343.343-34",
+    "email": "blank@ngnl.im",
+    "telefone": "+81 33 0000-1111",
+    "data_nascimento": "2003-07-26",
+    "nacionalidade": "Japonesa (Imanity)",
+    "endereco": {
+      "logradouro": "Castelo Elkia",
+      "cidade": "Elkia",
+      "estado": "Reino de Elkia",
+      "cep": "00000-000",
+      "pais": "Disboard"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Ausência total de luz solar (blackouts absolutos nas janelas). Internet fibra ótica com roteador duplo. Computadores de altíssima performance. Deve dividir quarto com seu irmão, Sora."
+    },
+    "veiculo": "Carruagem Voadora / Bestas Aladas",
+    "data_cadastro": "2024-02-17T02:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0032",
+    "nome": "Yumeko Jabami",
+    "cpf": "353.353.353-35",
+    "email": "jabami.gamble@hyakkaou.edu.jp",
+    "telefone": "+81 90 6666-5555",
+    "data_nascimento": "2001-05-15",
+    "nacionalidade": "Japonesa",
+    "endereco": {
+      "logradouro": "Dormitórios Elite, Academia Hyakkaou",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "100-0003",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Mesa de feltro verde espaçosa para jogos de baralho e roleta. Permissão para trazer grandes volumes de dinheiro em espécie (Yen) para o cofre do quarto."
+    },
+    "veiculo": "Limusine da Família",
+    "data_cadastro": "2024-02-18T20:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0033",
+    "nome": "Kenshin Himura",
+    "cpf": "363.363.363-36",
+    "email": "battousai.peace@dojokamiya.jp",
+    "telefone": "+81 3 4444-3333",
+    "data_nascimento": "1849-06-20",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Dojo Kamiya Kasshin",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "000-0000",
+      "pais": "Japão (Era Meiji)"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Quarto tradicional estilo Ryokan com tatame. Chaleira de ferro para chá verde. Suporte rústico para colocar sua espada de lâmina invertida (Sakabato)."
+    },
+    "veiculo": "A pé / Sandálias de palha (Waraji)",
+    "data_cadastro": "2024-02-19T07:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0034",
+    "nome": "Rimuru Tempest",
+    "cpf": "373.373.373-37",
+    "email": "rimuru.slime@jura.forest",
+    "telefone": "+00 99 1111-2222",
+    "data_nascimento": "1980-01-01",
+    "nacionalidade": "Japonês (Reencarnado/Monstro)",
+    "endereco": {
+      "logradouro": "Prefeitura Central",
+      "cidade": "Tempest",
+      "estado": "Grande Floresta de Jura",
+      "cep": "00000-000",
+      "pais": "Federação Jura Tempest"
+    },
+    "preferencias": {
+      "tipo_quarto": "vip",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Travesseiros extra macios. Acesso VIP ao Onsen (águas termais). Aviso: pode mudar de forma física humana para um slime azul sem aviso prévio."
+    },
+    "veiculo": "Lobo Tempestade (Ranga)",
+    "data_cadastro": "2024-02-20T10:10:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0035",
+    "nome": "Subaru Natsuki",
+    "cpf": "383.383.383-38",
+    "email": "subaru.knight@emilia.camp",
+    "telefone": "+81 80 5555-6666",
+    "data_nascimento": "1999-04-01",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Mansão do Roswaal",
+      "cidade": "Domínio Mathers",
+      "estado": "Reino de Lugunica",
+      "cep": "00000-000",
+      "pais": "Lugunica"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Quarto com poucas quinas vivas. Serviço de quarto com suprimento inesgotável de maionese caseira. Precisa de confirmação verbal de que está seguro a cada check-in."
+    },
+    "veiculo": "Dragão da Terra (Patrasche)",
+    "data_cadastro": "2024-02-21T03:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0036",
+    "nome": "Lelouch vi Britannia",
+    "cpf": "393.393.393-39",
+    "email": "zero@blackknights.com",
+    "telefone": "+81 33 9999-8888",
+    "data_nascimento": "1999-12-05",
+    "nacionalidade": "Britannian",
+    "endereco": {
+      "logradouro": "Dormitório Presidencial, Academia Ashford",
+      "cidade": "Área 11 (Tóquio)",
+      "estado": "Tóquio",
+      "cep": "100-0004",
+      "pais": "Sacro Império de Britannia"
+    },
+    "preferencias": {
+      "tipo_quarto": "vip",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Mesa clássica de xadrez em mármore com peças de cristal. Controle total sobre a iluminação do quarto. Nenhum espelho posicionado diretamente na altura dos olhos."
+    },
+    "veiculo": "Knightmare Frame (Shinkiro) / Limusine Escolar",
+    "data_cadastro": "2024-02-22T19:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0037",
+    "nome": "Inuyasha",
+    "cpf": "404.404.404-40",
+    "email": "inuyasha.hanyou@sengoku.jidai",
+    "telefone": "+81 90 1111-2222",
+    "data_nascimento": "1400-01-01",
+    "nacionalidade": "Meio-Youkai",
+    "endereco": {
+      "logradouro": "Árvore Sagrada (Goshinboku)",
+      "cidade": "Aldeia da Kaede",
+      "estado": "Desconhecido",
+      "cep": "00000-000",
+      "pais": "Japão (Era Sengoku)"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Recusa dormir em cama, dorme agachado em vigas de madeira no teto ou varandas. O frigobar deve estar lotado de lámen instantâneo sabor carne e porco."
+    },
+    "veiculo": "A pé (saltando entre árvores)",
+    "data_cadastro": "2024-02-23T06:15:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0038",
+    "nome": "Yato",
+    "cpf": "414.414.414-41",
+    "email": "deliverygod@yatogami.jp",
+    "telefone": "+81 80 0900-9999",
+    "data_nascimento": "0000-00-00",
+    "nacionalidade": "Deus Calamidade / Japonês",
+    "endereco": {
+      "logradouro": "Santuários abandonados e vielas",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "000-0000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "economico",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "futon",
+      "necessidades_especiais": "Oferecerá fazer a limpeza do próprio quarto em troca de um desconto de 5 ienes. Aceita dividir quarto com a relíquia sagrada (Yukine)."
+    },
+    "veiculo": "Teletransporte divino (quando invocado)",
+    "data_cadastro": "2024-02-24T13:40:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0039",
+    "nome": "Dandy",
+    "cpf": "424.424.424-42",
+    "email": "dandy.space@alohaoe.com",
+    "telefone": "+00 55 5555-5555",
+    "data_nascimento": "2070-07-07",
+    "nacionalidade": "Terrestre / Alienígena Honorário",
+    "endereco": {
+      "logradouro": "Rota Espacial",
+      "cidade": "Boobies (Filial mais próxima)",
+      "estado": "Galáxia",
+      "cep": "00000-000",
+      "pais": "Espaço Sideral"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": true,
+      "cama": "casal",
+      "necessidades_especiais": "Quarto com decoração retrô-futurista, vitrola para discos de vinil disco/funk e espelhos grandes para arrumar o topete (Pompadour). Permitir entrada do robô QT e gato alienígena Meow."
+    },
+    "veiculo": "Nave Espacial Aloha Oe",
+    "data_cadastro": "2024-02-25T21:50:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0040",
+    "nome": "Riko",
+    "cpf": "434.434.434-43",
+    "email": "riko.cave@orth.abyss",
+    "telefone": "+00 22 2222-2222",
+    "data_nascimento": "2005-08-08",
+    "nacionalidade": "Cidadã de Orth",
+    "endereco": {
+      "logradouro": "Orfanato de Belchero",
+      "cidade": "Orth",
+      "estado": "Borda do Abismo",
+      "cep": "00000-000",
+      "pais": "Ilha de Beolusk"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Permissão para portar artefatos do Abismo. Quarto nos andares mais baixos possíveis (odeia subir escadas, teme a 'Maldição do Abismo'). Traz companheiro ciborgue Reg."
+    },
+    "veiculo": "Gôndola / Rapel",
+    "data_cadastro": "2024-02-26T10:05:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0041",
+    "nome": "Ainz Ooal Gown",
+    "cpf": "444.444.444-41",
+    "email": "momonga@nazarick.tomb",
+    "telefone": "+00 99 0000-0000",
+    "data_nascimento": "2138-01-01",
+    "nacionalidade": "Overlord (Nazarick)",
+    "endereco": {
+      "logradouro": "10º Andar, Sala do Trono",
+      "cidade": "Grande Tumba de Nazarick",
+      "estado": "Reino Feiticeiro",
+      "cep": "00000-000",
+      "pais": "Novo Mundo"
+    },
+    "preferencias": {
+      "tipo_quarto": "vip",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Não necessita de cama (não dorme) nem frigobar (não come). Quarto deve ter decoração ostentatória e permissão para guardas draconianos na porta. Temperatura ambiente a zero graus não afeta."
+    },
+    "veiculo": "Teletransporte Maior / Besta Esquelética",
+    "data_cadastro": "2024-02-27T23:59:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0042",
+    "nome": "Hachiman Hikigaya",
+    "cpf": "454.454.454-45",
+    "email": "hachiman.8@chiba.jp",
+    "telefone": "+81 90 2345-6789",
+    "data_nascimento": "1995-08-08",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Bairro Residencial Afastado",
+      "cidade": "Chiba",
+      "estado": "Prefeitura de Chiba",
+      "cep": "260-0000",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Frigobar estocado com latas de café da marca MAX Coffee. Quarto nos cantos mais isolados do andar, para evitar cruzar com pessoas felizes e falantes no corredor."
+    },
+    "veiculo": "Bicicleta de Cesta (Geralmente quebra ou é atropelada)",
+    "data_cadastro": "2024-02-28T14:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0043",
+    "nome": "Joseph Joestar",
+    "cpf": "464.464.464-46",
+    "email": "joseph.realestate@joestar.com",
+    "telefone": "+1 212 999-8888",
+    "data_nascimento": "1920-09-27",
+    "nacionalidade": "Britânico-Americano",
+    "endereco": {
+      "logradouro": "Sede da Fundação Speedwagon",
+      "cidade": "Nova York",
+      "estado": "Nova York",
+      "cep": "10001",
+      "pais": "Estados Unidos"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Banheira espaçosa, TV de alta definição que será inevitavelmente esmagada (cobrar taxa de seguro adicional) para uso com a habilidade Hermit Purple. Café americano puro."
+    },
+    "veiculo": "Avião Particular (Alto risco de queda)",
+    "data_cadastro": "2024-02-29T10:00:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0044",
+    "nome": "Kazuma Satou",
+    "cpf": "474.474.474-47",
+    "email": "kazuma.adv@axel.guild",
+    "telefone": "+00 11 0000-1111",
+    "data_nascimento": "1997-06-07",
+    "nacionalidade": "Japonês (Reencarnado)",
+    "endereco": {
+      "logradouro": "Mansão Assombrada",
+      "cidade": "Axel",
+      "estado": "Reino de Belzerg",
+      "cep": "00000-000",
+      "pais": "Mundo de Fantasia"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Isolamento acústico pesado, pois suas acompanhantes (uma deusa inútil, uma maga explosiva e uma cavaleira masoquista) são barulhentas e quebram tudo."
+    },
+    "veiculo": "Carroça (roubada ou alugada)",
+    "data_cadastro": "2024-03-01T15:55:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0045",
+    "nome": "Shinichi Izumi",
+    "cpf": "484.484.484-48",
+    "email": "shinichi.migi@parasyte.net",
+    "telefone": "+81 90 4444-5555",
+    "data_nascimento": "1997-12-01",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Bairro Fukuyama",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "100-0005",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Serviço de quarto deve fornecer bandejas extras de carne crua e vegetais não temperados no meio da noite (para o braço direito). Quarto sem insetos."
+    },
+    "veiculo": "Transporte Público",
+    "data_cadastro": "2024-03-02T08:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0046",
+    "nome": "Ryo Saeba",
+    "cpf": "494.494.494-49",
+    "email": "city.hunter.xyz@shinjuku.jp",
+    "telefone": "+81 90 0000-XYZ0",
+    "data_nascimento": "1959-03-26",
+    "nacionalidade": "Japonês",
+    "endereco": {
+      "logradouro": "Quadro de Avisos da Estação Shinjuku",
+      "cidade": "Tóquio",
+      "estado": "Tóquio",
+      "cep": "160-0022",
+      "pais": "Japão"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": true,
+      "fumante": true,
+      "cama": "king",
+      "necessidades_especiais": "Cofre com senha de alta segurança para guardar seu revólver Colt Python .357 Magnum. Exige vista privilegiada para áreas de piscina ou locais com muitas 'mulheres bonitas'."
+    },
+    "veiculo": "Mini Cooper Vermelho",
+    "data_cadastro": "2024-03-03T18:18:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0047",
+    "nome": "Kiki",
+    "cpf": "505.505.505-50",
+    "email": "kiki.delivery@koriko.town",
+    "telefone": "+00 55 1234-5678",
+    "data_nascimento": "1976-05-01",
+    "nacionalidade": "Bruxa",
+    "endereco": {
+      "logradouro": "Sótão da Padaria Guchokipan",
+      "cidade": "Koriko",
+      "estado": "Litoral",
+      "cep": "00000-000",
+      "pais": "Desconhecido (Inspirado na Suécia)"
+    },
+    "preferencias": {
+      "tipo_quarto": "economico",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Quarto preferencialmente no sótão ou muito alto, com janela basculante grande para permitir saída decolando com a vassoura voadora. Traz gato preto sarcástico (Jiji)."
+    },
+    "veiculo": "Vassoura de palha voadora",
+    "data_cadastro": "2024-03-04T10:30:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0048",
+    "nome": "Howl Jenkins Pendragon",
+    "cpf": "515.515.515-51",
+    "email": "howl.wizard@movingcastle.com",
+    "telefone": "+00 99 9999-8888",
+    "data_nascimento": "1885-00-00",
+    "nacionalidade": "Ingushi/Porthaven",
+    "endereco": {
+      "logradouro": "Porta com o botão virado para o Azul",
+      "cidade": "Kingsbury",
+      "estado": "Ingary",
+      "cep": "00000-000",
+      "pais": "Ingary"
+    },
+    "preferencias": {
+      "tipo_quarto": "luxo",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "casal",
+      "necessidades_especiais": "Banheiro deve ter 40 frascos de poções de beleza, xampus capilares mágicos e tinturas. Espelhos do teto ao chão. A lareira deve estar vazia (para hospedar Calcifer)."
+    },
+    "veiculo": "Castelo Andante",
+    "data_cadastro": "2024-03-05T12:45:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0049",
+    "nome": "Nausicaä",
+    "cpf": "525.525.525-52",
+    "email": "nausicaa.wind@valley.org",
+    "telefone": "+00 00 1111-2222",
+    "data_nascimento": "0000-00-00",
+    "nacionalidade": "Princesa do Vale do Vento",
+    "endereco": {
+      "logradouro": "Castelo do Rei Jihl",
+      "cidade": "Vale do Vento",
+      "estado": "Borda da Periferia",
+      "cep": "00000-000",
+      "pais": "Mundo Pós-Apocalíptico"
+    },
+    "preferencias": {
+      "tipo_quarto": "standard",
+      "andar_alto": true,
+      "fumante": false,
+      "cama": "solteiro",
+      "necessidades_especiais": "Solicita estufa ou área com água pura subterrânea para cultivar esporos não-tóxicos do Mar da Corrupção em vidro isolado. Traz mascote (Raposa-esquilo chamada Teto)."
+    },
+    "veiculo": "Planador voador Mehve",
+    "data_cadastro": "2024-03-06T15:20:00Z",
+    "ativo": true
+  },
+  {
+    "_id": "00000000-0000-0000-0000-hospede0050",
+    "nome": "Rudeus Greyrat",
+    "cpf": "535.535.535-53",
+    "email": "quagmire.rudeus@magic.univ",
+    "telefone": "+00 33 4444-5555",
+    "data_nascimento": "0407-01-01",
+    "nacionalidade": "Reino de Asura (Fitoa)",
+    "endereco": {
+      "logradouro": "Mansão Greyrat",
+      "cidade": "Cidade Mágica Sharia",
+      "estado": "Reino Mágico de Ranoa",
+      "cep": "00000-000",
+      "pais": "Continente Central"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "andar_alto": false,
+      "fumante": false,
+      "cama": "king",
+      "necessidades_especiais": "Área de treinamento com resistência a magias sem conjuração de nível imperial (Rocha/Água). Precisa de um altar religioso privado devotado a uma 'Deusa da Água'."
+    },
+    "veiculo": "Carruagem blindada / Círculo de Teletransporte",
+    "data_cadastro": "2024-03-07T11:11:00Z",
+    "ativo": true
+  }
+]

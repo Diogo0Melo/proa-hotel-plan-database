@@ -1,0 +1,212 @@
+[
+    {
+      "_id": "00000000-0000-0000-0000-pagament0001",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0001",
+      "reserva_id": "00000000-0000-0000-0000-reserva0001",
+      "hospede_id": "00000000-0000-0000-0000-hospede0001",
+      "valor_total": 830.00,
+      "status": "pago",
+      "data_pagamento": "2024-05-13T09:25:00Z",
+      "parcelas": [
+        {
+          "metodo": "troca_mercadoria",
+          "bandeira": "Ervas Raras",
+          "valor": 830.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "TRADE-MUSHISHI-00001"
+        }
+      ],
+      "nota_fiscal": "NF-e 000851",
+      "data_criacao": "2024-05-13T09:25:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0002",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0002",
+      "reserva_id": "00000000-0000-0000-0000-reserva0002",
+      "hospede_id": "00000000-0000-0000-0000-hospede0002",
+      "valor_total": 540.00,
+      "status": "pago",
+      "data_pagamento": "2024-05-14T10:55:00Z",
+      "parcelas": [
+        {
+          "metodo": "tesouro_masmorra",
+          "bandeira": "Moedas de Ouro do Reino Antigo",
+          "valor": 540.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "DUNGEON-GOLD-00002"
+        }
+      ],
+      "nota_fiscal": "NF-e 000852",
+      "data_criacao": "2024-05-14T10:55:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0003",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0003",
+      "reserva_id": "00000000-0000-0000-0000-reserva0003",
+      "hospede_id": "00000000-0000-0000-0000-hospede0003",
+      "valor_total": 2650.00,
+      "status": "pago",
+      "data_pagamento": "2024-05-20T11:55:00Z",
+      "parcelas": [
+        {
+          "metodo": "magia_antiga",
+          "bandeira": "Gemas Mágicas",
+          "valor": 2650.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "ARCANE-GEM-00003"
+        }
+      ],
+      "nota_fiscal": "NF-e 000853",
+      "data_criacao": "2024-05-20T11:55:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0004",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0004",
+      "reserva_id": "00000000-0000-0000-0000-reserva0004",
+      "hospede_id": "00000000-0000-0000-0000-hospede0005",
+      "valor_total": 620.00,
+      "status": "pago",
+      "data_pagamento": "2024-05-22T02:10:00Z",
+      "parcelas": [
+        {
+          "metodo": "cartao_credito_interplanetario",
+          "bandeira": "WoolongCard",
+          "valor": 620.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "TXN-WLG-00198"
+        }
+      ],
+      "nota_fiscal": "NF-e 000854",
+      "data_criacao": "2024-05-22T02:10:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0005",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0005",
+      "reserva_id": "00000000-0000-0000-0000-reserva0005",
+      "hospede_id": "00000000-0000-0000-0000-hospede0006",
+      "valor_total": 1630.00,
+      "status": "pago",
+      "data_pagamento": "2024-05-29T10:25:00Z",
+      "parcelas": [
+        {
+          "metodo": "cartao_credito",
+          "bandeira": "Victor Condria University Corp.",
+          "valor": 1630.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "TXN-VCU-00881"
+        }
+      ],
+      "nota_fiscal": "NF-e 000855",
+      "data_criacao": "2024-05-29T10:25:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0006",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0006",
+      "reserva_id": "00000000-0000-0000-0000-reserva0006",
+      "hospede_id": "00000000-0000-0000-0000-hospede0010",
+      "valor_total": 1700.00,
+      "status": "pago",
+      "data_pagamento": "2024-06-03T11:40:00Z",
+      "parcelas": [
+        {
+          "metodo": "recompensa",
+          "bandeira": "Agência de Seguros Bernardelli",
+          "valor": 1700.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "BOUNTY-PAY-60B-$$"
+        }
+      ],
+      "nota_fiscal": "NF-e 000856",
+      "data_criacao": "2024-06-03T11:40:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0007",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0007",
+      "reserva_id": "00000000-0000-0000-0000-reserva0007",
+      "hospede_id": "00000000-0000-0000-0000-hospede0021",
+      "valor_total": 1740.00,
+      "status": "falhou",
+      "data_pagamento": "2024-06-08T11:59:00Z",
+      "parcelas": [
+        {
+          "metodo": "calote",
+          "bandeira": "Yorozuya Gin-chan",
+          "valor": 1740.00,
+          "num_parcelas": 1,
+          "status": "recusado",
+          "transacao_id": "TXN-CALOTE-00001"
+        }
+      ],
+      "nota_fiscal": null,
+      "data_criacao": "2024-06-08T11:59:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0008",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0008",
+      "reserva_id": "00000000-0000-0000-0000-reserva0008",
+      "hospede_id": "00000000-0000-0000-0000-hospede0024",
+      "valor_total": 3840.00,
+      "status": "pago",
+      "data_pagamento": "2024-06-17T05:55:00Z",
+      "parcelas": [
+        {
+          "metodo": "transferencia_bancaria",
+          "bandeira": "Fundo Wammy's House",
+          "valor": 3840.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "WIRE-WH-00451"
+        }
+      ],
+      "nota_fiscal": "NF-e 000857",
+      "data_criacao": "2024-06-17T05:55:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0009",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0009",
+      "reserva_id": "00000000-0000-0000-0000-reserva0009",
+      "hospede_id": "00000000-0000-0000-0000-hospede0026",
+      "valor_total": 2500.00,
+      "status": "pago",
+      "data_pagamento": "2024-06-22T09:58:00Z",
+      "parcelas": [
+        {
+          "metodo": "cartao_credito",
+          "bandeira": "Shinomiya Group Black Card",
+          "valor": 2500.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "TXN-SHINOMIYA-00001"
+        }
+      ],
+      "nota_fiscal": "NF-e 000858",
+      "data_criacao": "2024-06-22T09:58:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-pagament0010",
+      "hospedagem_id": "00000000-0000-0000-0000-hosped0010",
+      "reserva_id": "00000000-0000-0000-0000-reserva0010",
+      "hospede_id": "00000000-0000-0000-0000-hospede0008",
+      "valor_total": 2080.00,
+      "status": "pago",
+      "data_pagamento": "2024-06-28T08:25:00Z",
+      "parcelas": [
+        {
+          "metodo": "dinheiro",
+          "bandeira": "Moedas do Palácio Imperial",
+          "valor": 2080.00,
+          "num_parcelas": 1,
+          "status": "aprovado",
+          "transacao_id": "CASH-IMPERIAL-00342"
+        }
+      ],
+      "nota_fiscal": "NF-e 000859",
+      "data_criacao": "2024-06-28T08:25:00Z"
+    }
+  ]

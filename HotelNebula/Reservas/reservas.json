@@ -1,0 +1,262 @@
+ [
+    {
+      "_id": "00000000-0000-0000-0000-reserva0001",
+      "hospede_id": "00000000-0000-0000-0000-hospede0001",
+      "hospede_snapshot": {
+        "nome": "Ginko",
+        "email": "ginko@mushi.master.jp",
+        "telefone": "+81 00 1111-0000"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0004",
+      "quarto_snapshot": {
+        "numero": "104",
+        "tipo": "standard",
+        "preco_diaria": 250.00
+      },
+      "data_checkin": "2024-05-10",
+      "data_checkout": "2024-05-13",
+      "num_noites": 3,
+      "num_hospedes": 1,
+      "valor_total": 750.00,
+      "status": "encerrada",
+      "canal": "direto",
+      "codigo_reserva": "HN-2024-00001",
+      "observacoes": "Hóspede pede que não mexam em sua caixa de madeira nas costas.",
+      "data_criacao": "2024-05-01T10:00:00Z",
+      "data_atualizacao": "2024-05-13T10:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0002",
+      "hospede_id": "00000000-0000-0000-0000-hospede0002",
+      "hospede_snapshot": {
+        "nome": "Laios Touden",
+        "email": "laios.eats@dungeon.com",
+        "telefone": "+00 99 8888-7777"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0002",
+      "quarto_snapshot": {
+        "numero": "102",
+        "tipo": "standard",
+        "preco_diaria": 220.00
+      },
+      "data_checkin": "2024-05-12",
+      "data_checkout": "2024-05-14",
+      "num_noites": 2,
+      "num_hospedes": 4,
+      "valor_total": 440.00,
+      "status": "encerrada",
+      "canal": "agencia_aventureiros",
+      "codigo_reserva": "HN-2024-00002",
+      "observacoes": "Vão usar a cozinha do quarto intensamente. Estão trazendo ingredientes próprios não identificados.",
+      "data_criacao": "2024-05-05T14:30:00Z",
+      "data_atualizacao": "2024-05-14T11:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0003",
+      "hospede_id": "00000000-0000-0000-0000-hospede0003",
+      "hospede_snapshot": {
+        "nome": "Frieren",
+        "email": "frieren.mage@beyond.end",
+        "telefone": "+00 11 2222-3333"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0009",
+      "quarto_snapshot": {
+        "numero": "203",
+        "tipo": "suite",
+        "preco_diaria": 450.00
+      },
+      "data_checkin": "2024-05-15",
+      "data_checkout": "2024-05-20",
+      "num_noites": 5,
+      "num_hospedes": 1,
+      "valor_total": 2250.00,
+      "status": "encerrada",
+      "canal": "direto",
+      "codigo_reserva": "HN-2024-00003",
+      "observacoes": "Favor não bater na porta antes do meio-dia. Ela tem sono pesado.",
+      "data_criacao": "2024-01-10T16:50:00Z",
+      "data_atualizacao": "2024-05-20T12:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0004",
+      "hospede_id": "00000000-0000-0000-0000-hospede0005",
+      "hospede_snapshot": {
+        "nome": "Spike Spiegel",
+        "email": "spike.bounty@bebop.mars",
+        "telefone": "+99 88 7777-6666"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0014",
+      "quarto_snapshot": {
+        "numero": "302",
+        "tipo": "suite",
+        "preco_diaria": 420.00
+      },
+      "data_checkin": "2024-05-22",
+      "data_checkout": "2024-05-23",
+      "num_noites": 1,
+      "num_hospedes": 1,
+      "valor_total": 420.00,
+      "status": "encerrada",
+      "canal": "site_proprio",
+      "codigo_reserva": "HN-2024-00004",
+      "observacoes": "Pode precisar fugir apressadamente. Cobrar cartão antecipado.",
+      "data_criacao": "2024-05-20T08:00:00Z",
+      "data_atualizacao": "2024-05-23T09:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0005",
+      "hospede_id": "00000000-0000-0000-0000-hospede0006",
+      "hospede_snapshot": {
+        "nome": "Kurisu Makise",
+        "email": "christina.zombie@victorcondria.edu",
+        "telefone": "+1 212 555-0198"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0007",
+      "quarto_snapshot": {
+        "numero": "201",
+        "tipo": "suite",
+        "preco_diaria": 350.00
+      },
+      "data_checkin": "2024-05-25",
+      "data_checkout": "2024-05-29",
+      "num_noites": 4,
+      "num_hospedes": 1,
+      "valor_total": 1400.00,
+      "status": "encerrada",
+      "canal": "institucional",
+      "codigo_reserva": "HN-2024-00005",
+      "observacoes": "Vai usar o quarto como laboratório provisório. Exigiu muitas réguas e apagadores.",
+      "data_criacao": "2024-05-15T13:45:00Z",
+      "data_atualizacao": "2024-05-29T10:30:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0006",
+      "hospede_id": "00000000-0000-0000-0000-hospede0010",
+      "hospede_snapshot": {
+        "nome": "Vash the Stampede",
+        "email": "love.and.peace@gunsmoke.planet",
+        "telefone": "+00 22 1111-0000"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0024",
+      "quarto_snapshot": {
+        "numero": "406",
+        "tipo": "suite",
+        "preco_diaria": 500.00
+      },
+      "data_checkin": "2024-06-01",
+      "data_checkout": "2024-06-03",
+      "num_noites": 2,
+      "num_hospedes": 1,
+      "valor_total": 1000.00,
+      "status": "encerrada",
+      "canal": "direto",
+      "codigo_reserva": "HN-2024-00006",
+      "observacoes": "Aplicar taxa dupla de seguro do quarto, risco altíssimo de danos estruturais colaterais.",
+      "data_criacao": "2024-05-28T16:10:00Z",
+      "data_atualizacao": "2024-06-03T11:45:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0007",
+      "hospede_id": "00000000-0000-0000-0000-hospede0021",
+      "hospede_snapshot": {
+        "nome": "Gintoki Sakata",
+        "email": "gin.chan.yorozuya@kabukicho.jp",
+        "telefone": "+81 80 5555-4444"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0030",
+      "quarto_snapshot": {
+        "numero": "506",
+        "tipo": "tematico",
+        "preco_diaria": 500.00
+      },
+      "data_checkin": "2024-06-05",
+      "data_checkout": "2024-06-08",
+      "num_noites": 3,
+      "num_hospedes": 3,
+      "valor_total": 1500.00,
+      "status": "encerrada",
+      "canal": "app_terceiros",
+      "codigo_reserva": "HN-2024-00007",
+      "observacoes": "Um homem de óculos e uma garota com um guarda-chuva o acompanham e um cachorro gigante branco (cobrar taxa pet oculta).",
+      "data_criacao": "2024-06-02T09:20:00Z",
+      "data_atualizacao": "2024-06-08T12:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0008",
+      "hospede_id": "00000000-0000-0000-0000-hospede0024",
+      "hospede_snapshot": {
+        "nome": "L Lawliet",
+        "email": "ryuzaki.detective@wammy.uk",
+        "telefone": "+44 20 8888-7777"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0021",
+      "quarto_snapshot": {
+        "numero": "403",
+        "tipo": "suite",
+        "preco_diaria": 400.00
+      },
+      "data_checkin": "2024-06-10",
+      "data_checkout": "2024-06-17",
+      "num_noites": 7,
+      "num_hospedes": 1,
+      "valor_total": 2800.00,
+      "status": "encerrada",
+      "canal": "direto_corporativo",
+      "codigo_reserva": "HN-2024-00008",
+      "observacoes": "Privacidade máxima. Nenhum funcionário entra no quarto, bandeja de comida deve ser deixada na porta.",
+      "data_criacao": "2024-06-01T15:00:00Z",
+      "data_atualizacao": "2024-06-17T06:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0009",
+      "hospede_id": "00000000-0000-0000-0000-hospede0026",
+      "hospede_snapshot": {
+        "nome": "Kaguya Shinomiya",
+        "email": "kaguya.president@shuchiin.edu.jp",
+        "telefone": "+81 90 1234-9876"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0022",
+      "quarto_snapshot": {
+        "numero": "404",
+        "tipo": "master",
+        "preco_diaria": 900.00
+      },
+      "data_checkin": "2024-06-20",
+      "data_checkout": "2024-06-22",
+      "num_noites": 2,
+      "num_hospedes": 2,
+      "valor_total": 1800.00,
+      "status": "encerrada",
+      "canal": "secretaria_executiva",
+      "codigo_reserva": "HN-2024-00009",
+      "observacoes": "Tudo deve ser impecável. A camareira Hayasaka coordenará as exigências.",
+      "data_criacao": "2024-06-10T11:15:00Z",
+      "data_atualizacao": "2024-06-22T10:00:00Z"
+    },
+    {
+      "_id": "00000000-0000-0000-0000-reserva0010",
+      "hospede_id": "00000000-0000-0000-0000-hospede0008",
+      "hospede_snapshot": {
+        "nome": "Maomao",
+        "email": "apothecary.cat@palace.cn",
+        "telefone": "+86 10 9999-8888"
+      },
+      "quarto_id": "00000000-0000-0000-0000-quarto0019",
+      "quarto_snapshot": {
+        "numero": "401",
+        "tipo": "deluxe",
+        "preco_diaria": 600.00
+      },
+      "data_checkin": "2024-06-25",
+      "data_checkout": "2024-06-28",
+      "num_noites": 3,
+      "num_hospedes": 1,
+      "valor_total": 1800.00,
+      "status": "encerrada",
+      "canal": "direto",
+      "codigo_reserva": "HN-2024-00010",
+      "observacoes": "Permitido manusear ervas no quarto. Proibido jogar fora qualquer pó suspeito.",
+      "data_criacao": "2024-06-15T09:40:00Z",
+      "data_atualizacao": "2024-06-28T08:30:00Z"
+    }
+  ]

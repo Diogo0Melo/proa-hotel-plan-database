@@ -1,0 +1,332 @@
+[
+    {
+      "_id": "00000000-0000-0000-0000-hosped0001",
+      "reserva_id": "00000000-0000-0000-0000-reserva0001",
+      "hospede_id": "00000000-0000-0000-0000-hospede0001",
+      "quarto_id": "00000000-0000-0000-0000-quarto0004",
+      "checkin_real": "2024-05-10T14:15:00Z",
+      "checkout_real": "2024-05-13T09:30:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico101",
+          "nome": "Chá verde especial matinal",
+          "quantidade": 2,
+          "preco_unitario": 15.00,
+          "total": 30.00,
+          "data": "2024-05-11T07:30:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico102",
+          "nome": "Incenso repelente purificador de Mushi",
+          "quantidade": 1,
+          "preco_unitario": 50.00,
+          "total": 50.00,
+          "data": "2024-05-12T19:00:00Z"
+        }
+      ],
+      "total_servicos": 80.00,
+      "total_diarias": 750.00,
+      "total_geral": 830.00,
+      "observacoes": "O quarto ficou impregnado com cheiro de fumaça de tabaco, mas não houve danos reais."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0002",
+      "reserva_id": "00000000-0000-0000-0000-reserva0002",
+      "hospede_id": "00000000-0000-0000-0000-hospede0002",
+      "quarto_id": "00000000-0000-0000-0000-quarto0002",
+      "checkin_real": "2024-05-12T16:00:00Z",
+      "checkout_real": "2024-05-14T11:00:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0001",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico103",
+          "nome": "Limpeza pesada de panelas de ferro com lodo de masmorra",
+          "quantidade": 1,
+          "preco_unitario": 100.00,
+          "total": 100.00,
+          "data": "2024-05-13T14:00:00Z"
+        }
+      ],
+      "total_servicos": 100.00,
+      "total_diarias": 440.00,
+      "total_geral": 540.00,
+      "observacoes": "Hóspedes cozinharam algo que cheirava a escorpião andante. O Chef Executivo Senshi subiu para ajudar no preparo."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0003",
+      "reserva_id": "00000000-0000-0000-0000-reserva0003",
+      "hospede_id": "00000000-0000-0000-0000-hospede0003",
+      "quarto_id": "00000000-0000-0000-0000-quarto0009",
+      "checkin_real": "2024-05-15T18:20:00Z",
+      "checkout_real": "2024-05-20T12:00:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0007",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico104",
+          "nome": "Serviço de despertador insistente",
+          "quantidade": 5,
+          "preco_unitario": 20.00,
+          "total": 100.00,
+          "data": "2024-05-16T13:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico105",
+          "nome": "Grimório de receitas de tortas doces (Souvenir)",
+          "quantidade": 1,
+          "preco_unitario": 300.00,
+          "total": 300.00,
+          "data": "2024-05-18T10:00:00Z"
+        }
+      ],
+      "total_servicos": 400.00,
+      "total_diarias": 2250.00,
+      "total_geral": 2650.00,
+      "observacoes": "Checkout estendido até as 14h, precisou ser arrastada da cama pelos aprendizes."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0004",
+      "reserva_id": "00000000-0000-0000-0000-reserva0004",
+      "hospede_id": "00000000-0000-0000-0000-hospede0005",
+      "quarto_id": "00000000-0000-0000-0000-quarto0014",
+      "checkin_real": "2024-05-22T02:15:00Z",
+      "checkout_real": "2024-05-23T06:40:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0001",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico106",
+          "nome": "Porção de Carne com Pimentão (com Carne bovina real)",
+          "quantidade": 2,
+          "preco_unitario": 80.00,
+          "total": 160.00,
+          "data": "2024-05-22T03:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico107",
+          "nome": "Reposição de cinzeiro quebrado",
+          "quantidade": 1,
+          "preco_unitario": 40.00,
+          "total": 40.00,
+          "data": "2024-05-22T05:00:00Z"
+        }
+      ],
+      "total_servicos": 200.00,
+      "total_diarias": 420.00,
+      "total_geral": 620.00,
+      "observacoes": "Saiu correndo após receber uma ligação em seu terminal. Pagamento abatido no cartão previamente autorizado."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0005",
+      "reserva_id": "00000000-0000-0000-0000-reserva0005",
+      "hospede_id": "00000000-0000-0000-0000-hospede0006",
+      "quarto_id": "00000000-0000-0000-0000-quarto0007",
+      "checkin_real": "2024-05-25T11:00:00Z",
+      "checkout_real": "2024-05-29T10:30:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0007",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico108",
+          "nome": "Engradado de Dr. Pepper gelado (6 latas)",
+          "quantidade": 4,
+          "preco_unitario": 50.00,
+          "total": 200.00,
+          "data": "2024-05-25T12:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico109",
+          "nome": "Pudim gelatinoso de micro-ondas",
+          "quantidade": 2,
+          "preco_unitario": 15.00,
+          "total": 30.00,
+          "data": "2024-05-27T02:00:00Z"
+        }
+      ],
+      "total_servicos": 230.00,
+      "total_diarias": 1400.00,
+      "total_geral": 1630.00,
+      "observacoes": "Foi vista discutindo acaloradamente pelo telefone sobre linhas de tempo e micro-ondas. Nenhuma alteração temporal detectada no hotel."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0006",
+      "reserva_id": "00000000-0000-0000-0000-reserva0006",
+      "hospede_id": "00000000-0000-0000-0000-hospede0010",
+      "quarto_id": "00000000-0000-0000-0000-quarto0024",
+      "checkin_real": "2024-06-01T15:30:00Z",
+      "checkout_real": "2024-06-03T11:45:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico110",
+          "nome": "Caixa de 50 donuts variados muito açucarados",
+          "quantidade": 2,
+          "preco_unitario": 100.00,
+          "total": 200.00,
+          "data": "2024-06-02T10:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico111",
+          "nome": "Taxa de cobertura para buracos de bala na parede leste",
+          "quantidade": 1,
+          "preco_unitario": 500.00,
+          "total": 500.00,
+          "data": "2024-06-03T09:00:00Z"
+        }
+      ],
+      "total_servicos": 700.00,
+      "total_diarias": 1000.00,
+      "total_geral": 1700.00,
+      "observacoes": "Muitos caçadores de recompensa na recepção, nossa segurança (Gendo) lidou com a situação."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0007",
+      "reserva_id": "00000000-0000-0000-0000-reserva0007",
+      "hospede_id": "00000000-0000-0000-0000-hospede0021",
+      "quarto_id": "00000000-0000-0000-0000-quarto0030",
+      "checkin_real": "2024-06-05T14:40:00Z",
+      "checkout_real": "2024-06-08T12:00:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0001",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico112",
+          "nome": "Galão de Leite de Morango",
+          "quantidade": 3,
+          "preco_unitario": 40.00,
+          "total": 120.00,
+          "data": "2024-06-05T20:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico113",
+          "nome": "Parfait de Chocolate Triplo com menta",
+          "quantidade": 2,
+          "preco_unitario": 45.00,
+          "total": 90.00,
+          "data": "2024-06-06T15:30:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico114",
+          "nome": "Aluguel de fitas de anime VHS na recepção",
+          "quantidade": 1,
+          "preco_unitario": 30.00,
+          "total": 30.00,
+          "data": "2024-06-07T23:00:00Z"
+        }
+      ],
+      "total_servicos": 240.00,
+      "total_diarias": 1500.00,
+      "total_geral": 1740.00,
+      "observacoes": "Quase saíram sem pagar. O recepcionista Decim teve que usar seus fios para impedir a fuga."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0008",
+      "reserva_id": "00000000-0000-0000-0000-reserva0008",
+      "hospede_id": "00000000-0000-0000-0000-hospede0024",
+      "quarto_id": "00000000-0000-0000-0000-quarto0021",
+      "checkin_real": "2024-06-10T03:00:00Z",
+      "checkout_real": "2024-06-17T06:00:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico115",
+          "nome": "Torre de Macarons Artesanais (Diária)",
+          "quantidade": 7,
+          "preco_unitario": 120.00,
+          "total": 840.00,
+          "data": "2024-06-10T12:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico116",
+          "nome": "Fardo de Chá Preto Premium (10 Litros com açúcar extra)",
+          "quantidade": 1,
+          "preco_unitario": 200.00,
+          "total": 200.00,
+          "data": "2024-06-11T14:00:00Z"
+        }
+      ],
+      "total_servicos": 1040.00,
+      "total_diarias": 2800.00,
+      "total_geral": 3840.00,
+      "observacoes": "Pagamento efetuado via fundo secreto por um senhor idoso chamado Watari."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0009",
+      "reserva_id": "00000000-0000-0000-0000-reserva0009",
+      "hospede_id": "00000000-0000-0000-0000-hospede0026",
+      "quarto_id": "00000000-0000-0000-0000-quarto0022",
+      "checkin_real": "2024-06-20T15:00:00Z",
+      "checkout_real": "2024-06-22T10:00:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0007",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico117",
+          "nome": "Serviço Completo de Chá da Tarde Inglês com Mordomo",
+          "quantidade": 2,
+          "preco_unitario": 150.00,
+          "total": 300.00,
+          "data": "2024-06-20T16:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico118",
+          "nome": "Fechamento exclusivo do telhado para observação astronômica",
+          "quantidade": 1,
+          "preco_unitario": 400.00,
+          "total": 400.00,
+          "data": "2024-06-21T21:00:00Z"
+        }
+      ],
+      "total_servicos": 700.00,
+      "total_diarias": 1800.00,
+      "total_geral": 2500.00,
+      "observacoes": "Muitas manobras psicológicas ocorreram para decidir quem pagaria a conta no checkout."
+    },
+    {
+      "_id": "00000000-0000-0000-0000-hosped0010",
+      "reserva_id": "00000000-0000-0000-0000-reserva0010",
+      "hospede_id": "00000000-0000-0000-0000-hospede0008",
+      "quarto_id": "00000000-0000-0000-0000-quarto0019",
+      "checkin_real": "2024-06-25T13:45:00Z",
+      "checkout_real": "2024-06-28T08:30:00Z",
+      "status": "encerrada",
+      "funcionario_checkin_id": "00000000-0000-0000-0000-funcio0001",
+      "funcionario_checkout_id": "00000000-0000-0000-0000-funcio0007",
+      "servicos_consumidos": [
+        {
+          "servico_id": "00000000-0000-0000-0000-servico119",
+          "nome": "Passe de Acesso Irrestrito ao Jardim Botânico Medicinal",
+          "quantidade": 1,
+          "preco_unitario": 200.00,
+          "total": 200.00,
+          "data": "2024-06-25T15:00:00Z"
+        },
+        {
+          "servico_id": "00000000-0000-0000-0000-servico120",
+          "nome": "Reposição de Almofariz e Pilão de cerâmica",
+          "quantidade": 1,
+          "preco_unitario": 80.00,
+          "total": 80.00,
+          "data": "2024-06-26T09:00:00Z"
+        }
+      ],
+      "total_servicos": 280.00,
+      "total_diarias": 1800.00,
+      "total_geral": 2080.00,
+      "observacoes": "Foi vista mastigando folhas venenosas com uma expressão bizarramente satisfeita."
+    }
+  ]

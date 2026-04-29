@@ -1,0 +1,482 @@
+[
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0001",
+    "detalhes": {
+      "nome": "Incenso Purificador Repelente de Mushi",
+      "categoria": "comodidade",
+      "descricao": "Incenso formulado com ervas especiais de montanha, ideal para manter formas de vida primordiais e invisíveis afastadas do seu quarto."
+    },
+    "precificacao": {
+      "preco_padrao": 35.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "unidade"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["purificacao", "fumante", "ginko"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0002",
+    "detalhes": {
+      "nome": "Kit Culinária de Masmorra (Acompanha Panela de Ferro)",
+      "categoria": "alimentacao",
+      "descricao": "Aluguel de panelas de ferro fundido e autorização para preparo de carnes exóticas no quarto. Dicas do Chef Senshi inclusas mediante disponibilidade."
+    },
+    "precificacao": {
+      "preco_padrao": 120.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "diaria"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "08:00",
+      "horario_fim": "22:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["cozinha", "masmorra", "laios"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0003",
+    "detalhes": {
+      "nome": "Aluguel de Grimórios Raros e Antigos",
+      "categoria": "entretenimento",
+      "descricao": "Acesso a um acervo de grimórios autênticos. Estritamente inspecionados para garantir a ausência de Mímicos em baús."
+    },
+    "precificacao": {
+      "preco_padrao": 300.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "diaria"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "10:00",
+      "horario_fim": "20:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["magia", "leitura", "frieren"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0004",
+    "detalhes": {
+      "nome": "Engradado de Dr. Pepper Gelado (6 latas)",
+      "categoria": "alimentacao",
+      "descricao": "A bebida intelectual dos escolhidos por Steins;Gate. Combina perfeitamente com viagens no tempo e sessões intensas no laboratório."
+    },
+    "precificacao": {
+      "preco_padrao": 45.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "engradado"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["bebida", "cientista", "kurisu"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0005",
+    "detalhes": {
+      "nome": "Porção de Carne com Pimentão (com Bife Real)",
+      "categoria": "alimentacao",
+      "descricao": "Um prato marciano clássico. Ao contrário das versões servidas na Bebop, garantimos carne de verdade na nossa receita."
+    },
+    "precificacao": {
+      "preco_padrao": 85.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "porcao"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "11:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["refeicao", "carne", "spike"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0006",
+    "detalhes": {
+      "nome": "Caixa de 50 Donuts 'Love & Peace'",
+      "categoria": "alimentacao",
+      "descricao": "Donuts artesanais cobertos com níveis insalubres de glacê. Essenciais para manter a energia pacifista de um pistoleiro humanoide."
+    },
+    "precificacao": {
+      "preco_padrao": 100.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "caixa"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "06:00",
+      "horario_fim": "22:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["doce", "donuts", "vash"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0007",
+    "detalhes": {
+      "nome": "Taxa de Cobertura para Buracos de Bala e Danos Estruturais",
+      "categoria": "taxa_dano",
+      "descricao": "Seguro extra obrigatório caso o hóspede seja caçado por sindicatos do crime ou destrua parte das paredes do hotel em confrontos armados."
+    },
+    "precificacao": {
+      "preco_padrao": 500.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "estadia"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["seguro", "manutencao", "perigo", "revy"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0008",
+    "detalhes": {
+      "nome": "Kit Gintama: Leite de Morango e Shonen Jump",
+      "categoria": "entretenimento",
+      "descricao": "Serviço de quarto para o faz-tudo folgado. Entrega na porta de litros de leite de morango e a edição mais recente da Shonen Jump."
+    },
+    "precificacao": {
+      "preco_padrao": 30.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "kit"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "08:00",
+      "horario_fim": "12:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["leite", "revista", "gintoki"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0009",
+    "detalhes": {
+      "nome": "Torta de Morango Customizada (Nível de Açúcar Ajustável)",
+      "categoria": "alimentacao",
+      "descricao": "Sobremesa para mentes dedutivas. Diga-nos exatamente a porcentagem a mais de açúcar que você necessita para desvendar assassinatos."
+    },
+    "precificacao": {
+      "preco_padrao": 60.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "fatia"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["sobremesa", "doce", "lawliet"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0010",
+    "detalhes": {
+      "nome": "Passe de Acesso ao Jardim Botânico Medicinal",
+      "categoria": "especiais",
+      "descricao": "Acesso livre e sem vigilância às estufas do hotel para colheita de Digitalis purpurea e outras ervas raras para experimentos apotecários."
+    },
+    "precificacao": {
+      "preco_padrao": 150.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "passe_diario"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "05:00",
+      "horario_fim": "18:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["jardim", "ervas", "maomao"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0011",
+    "detalhes": {
+      "nome": "Serviço de Chá da Tarde Inglês (Porcelana Autêntica)",
+      "categoria": "luxo",
+      "descricao": "Chá importado servido rigorosamente na temperatura correta pela nossa equipe de elite. Satisfação garantida para o Presidente do conselho."
+    },
+    "precificacao": {
+      "preco_padrao": 250.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "servico"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "15:00",
+      "horario_fim": "18:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["luxo", "cha", "kaguya"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0012",
+    "detalhes": {
+      "nome": "Cesta Diária de Maçãs Vermelhas Premium",
+      "categoria": "alimentacao",
+      "descricao": "Reposição diária de maçãs suculentas, perfeitas para mercadores e indispensáveis para apaziguar a fome de acompanhantes lobas."
+    },
+    "precificacao": {
+      "preco_padrao": 40.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "cesta"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "07:00",
+      "horario_fim": "10:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["fruta", "macas", "lawrence"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0013",
+    "detalhes": {
+      "nome": "Kit de Manutenção de Próteses Metálicas e Gemas",
+      "categoria": "comodidade",
+      "descricao": "Óleo lubrificante de alta qualidade, ferramentas para braços de adamantium e pó de polimento industrial para evitar riscos em pernas de ágata."
+    },
+    "precificacao": {
+      "preco_padrao": 90.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "kit"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["manutencao", "protese", "violet", "phos", "motoko"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0014",
+    "detalhes": {
+      "nome": "Frigobar Abastecido Apenas com MAX Coffee",
+      "categoria": "alimentacao",
+      "descricao": "Serviço solitário: o staff remove qualquer outra bebida e abastece seu frigobar até a tampa com o café mais doce e letárgico de Chiba."
+    },
+    "precificacao": {
+      "preco_padrao": 75.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "reabastecimento"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["cafe", "bebida", "hachiman"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0015",
+    "detalhes": {
+      "nome": "Bisnaga Gigante de Maionese Caseira",
+      "categoria": "alimentacao",
+      "descricao": "Um galão da melhor maionese, garantida para acalentar almas transmigradas que sentem saudades da culinária de um mundo de não-fantasia."
+    },
+    "precificacao": {
+      "preco_padrao": 20.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "bisnaga"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["condimento", "comida", "kazuma"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0016",
+    "detalhes": {
+      "nome": "Kit Sobrevivência: Lámen Instantâneo e Cola",
+      "categoria": "alimentacao",
+      "descricao": "O suprimento basilar para gênios recriando a civilização moderna ou para meio-youkais que odeiam temperos complicados."
+    },
+    "precificacao": {
+      "preco_padrao": 30.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "kit"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "00:00",
+      "horario_fim": "23:59",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["lamen", "rapido", "senku", "inuyasha"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0017",
+    "detalhes": {
+      "nome": "Bandeja Noturna de Carne Crua e Vegetais",
+      "categoria": "alimentacao",
+      "descricao": "Entrega silenciosa de madrugada contendo blocos nutricionais puros para parasitas intelectuais que habitam seu braço direito."
+    },
+    "precificacao": {
+      "preco_padrao": 85.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "bandeja"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "23:00",
+      "horario_fim": "05:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["carne_crua", "noturno", "shinichi"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0018",
+    "detalhes": {
+      "nome": "Reposição Mágica de Poções de Beleza e Tinturas",
+      "categoria": "luxo",
+      "descricao": "Abastecimento com dezenas de frascos e cosméticos encantados. O hotel não se responsabiliza caso a cor de cabelo de grandes magos mude."
+    },
+    "precificacao": {
+      "preco_padrao": 400.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "kit"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "08:00",
+      "horario_fim": "20:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["beleza", "magia", "howl"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0019",
+    "detalhes": {
+      "nome": "Acesso Especial ao Telhado Noturno",
+      "categoria": "especiais",
+      "descricao": "Reserva garantida e acesso não-rastreável à laje do hotel para contratos, observação astronômica com telescópio ou uso de fios e ganchos."
+    },
+    "precificacao": {
+      "preco_padrao": 100.00,
+      "moeda": "BRL",
+      "unidade_cobranca": "noite"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "22:00",
+      "horario_fim": "06:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["acesso", "noturno", "hei"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  },
+  {
+    "id_servico": "00000000-0000-0000-0000-servic0020",
+    "detalhes": {
+      "nome": "Serviço de Limpeza Divina (Terceirizado)",
+      "categoria": "comodidade",
+      "descricao": "Limpeza impecável física e espiritual do quarto, executada por um deus de moletom que atende a qualquer pedido em troca de uma mísera moeda."
+    },
+    "precificacao": {
+      "preco_padrao": 0.05,
+      "moeda": "BRL",
+      "unidade_cobranca": "servico"
+    },
+    "disponibilidade": {
+      "ativo": true,
+      "horario_inicio": "08:00",
+      "horario_fim": "18:00",
+      "dias_semana": ["Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom"]
+    },
+    "operacional": {
+      "tags": ["limpeza", "espiritual", "yato"],
+      "requer_agendamento": false,
+      "departamento_responsavel": "Recepção"
+    }
+  }
+]
