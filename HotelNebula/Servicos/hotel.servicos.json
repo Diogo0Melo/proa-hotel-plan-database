@@ -1,0 +1,947 @@
+[{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699d"
+  },
+  "detalhes": {
+    "nome": "Correio por Coruja/Drone Adipisci",
+    "categoria": "Conveniência",
+    "descricao": "Tempora molestiae ea rerum esse in."
+  },
+  "precificacao": {
+    "preco_padrao": 172.58,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": false,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Segunda-feira",
+      "Sexta-feira",
+      "Sábado",
+      "Terça-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Conveniência"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b5"
+  },
+  "detalhes": {
+    "nome": "Polimento de Peitorais Numquam",
+    "categoria": "Lavanderia",
+    "descricao": "Dolore accusantium eligendi ullam facere at."
+  },
+  "precificacao": {
+    "preco_padrao": 487.75,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": false,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Véspera de Evento",
+      "Dia de Festival",
+      "Terça-feira",
+      "Feriado Local"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lavanderia"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669ae"
+  },
+  "detalhes": {
+    "nome": "Banho Termal (Onsen) Eveniet",
+    "categoria": "Bem-Estar",
+    "descricao": "Eaque vitae perferendis doloribus mollitia quos."
+  },
+  "precificacao": {
+    "preco_padrao": 195.14,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sábado",
+      "Feriado Local",
+      "Domingo",
+      "Dia de Festival",
+      "Quarta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a3"
+  },
+  "detalhes": {
+    "nome": "Banho Termal (Onsen) Dicta",
+    "categoria": "Bem-Estar",
+    "descricao": "Consectetur quae consectetur provident sint blanditiis distinctio labore quia velit fuga veritatis."
+  },
+  "precificacao": {
+    "preco_padrao": 115.33,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Check-out em Massa",
+      "Sábado",
+      "Quinta-feira",
+      "Dia de Festival",
+      "Segunda-feira",
+      "Terça-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669ac"
+  },
+  "detalhes": {
+    "nome": "Banho de Lama de Golem Ipsum",
+    "categoria": "Bem-Estar",
+    "descricao": "Impedit eveniet fugiat repudiandae commodi dicta quibusdam."
+  },
+  "precificacao": {
+    "preco_padrao": 717.22,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Festival",
+      "Sábado",
+      "Feriado Local",
+      "Segunda-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669ad"
+  },
+  "detalhes": {
+    "nome": "Biblioteca de Pergaminhos Antigos Repudiandae",
+    "categoria": "Lazer",
+    "descricao": "Laudantium quibusdam harum beatae aperiam iure illum laborum illum."
+  },
+  "precificacao": {
+    "preco_padrao": 641.36,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quinta-feira",
+      "Dia de Festival",
+      "Feriado Local",
+      "Terça-feira",
+      "Quarta-feira",
+      "Véspera de Evento"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b2"
+  },
+  "detalhes": {
+    "nome": "Workshop de Origami Voluptatum",
+    "categoria": "Lazer",
+    "descricao": "Earum optio eum distinctio vero eveniet totam consequatur ullam non a."
+  },
+  "precificacao": {
+    "preco_padrao": 747.99,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Terça-feira",
+      "Sexta-feira",
+      "Quarta-feira",
+      "Feriado Local",
+      "Dia de Check-out em Massa"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a0"
+  },
+  "detalhes": {
+    "nome": "Duelos de Treinamento Saepe",
+    "categoria": "Lazer",
+    "descricao": "Expedita eligendi quos quaerat perferendis quaerat maxime dolorum."
+  },
+  "precificacao": {
+    "preco_padrao": 231.45,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quarta-feira",
+      "Sexta-feira",
+      "Segunda-feira",
+      "Sábado"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669ab"
+  },
+  "detalhes": {
+    "nome": "Churrasco de Hidra Consequuntur",
+    "categoria": "Alimentação",
+    "descricao": "Cumque corporis ducimus at esse illum cumque nostrum eveniet ad animi harum."
+  },
+  "precificacao": {
+    "preco_padrao": 220.75,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quinta-feira",
+      "Dia de Festival",
+      "Dia de Check-out em Massa",
+      "Sábado",
+      "Véspera de Evento",
+      "Terça-feira",
+      "Quarta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Alimentação"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a66999"
+  },
+  "detalhes": {
+    "nome": "Workshop de Origami Blanditiis",
+    "categoria": "Lazer",
+    "descricao": "Et voluptatem cum aperiam quis optio odit temporibus animi occaecati."
+  },
+  "precificacao": {
+    "preco_padrao": 287.05,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Feriado Local",
+      "Sexta-feira",
+      "Segunda-feira",
+      "Dia de Festival",
+      "Terça-feira",
+      "Dia de Check-out em Massa",
+      "Quinta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a6"
+  },
+  "detalhes": {
+    "nome": "Bebidas Exóticas Quo",
+    "categoria": "Alimentação",
+    "descricao": "Architecto aliquid laboriosam est iste excepturi fugiat rerum rerum consequatur."
+  },
+  "precificacao": {
+    "preco_padrao": 86.64,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sábado",
+      "Quinta-feira",
+      "Dia de Check-out em Massa",
+      "Feriado Local",
+      "Véspera de Evento"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Alimentação"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b3"
+  },
+  "detalhes": {
+    "nome": "Leilão de Itens Raros Accusamus",
+    "categoria": "Eventos Especiais",
+    "descricao": "Impedit tempora provident quis modi ratione officiis aspernatur."
+  },
+  "precificacao": {
+    "preco_padrao": 774.05,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sábado",
+      "Segunda-feira",
+      "Feriado Local",
+      "Domingo",
+      "Quarta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Eventos Especiais"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a7"
+  },
+  "detalhes": {
+    "nome": "Leilão de Itens Raros Deserunt",
+    "categoria": "Eventos Especiais",
+    "descricao": "Odio quis pariatur corrupti quas at numquam numquam harum tempore excepturi aliquid."
+  },
+  "precificacao": {
+    "preco_padrao": 524.36,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Domingo",
+      "Sábado",
+      "Segunda-feira",
+      "Quinta-feira",
+      "Feriado Local",
+      "Sexta-feira",
+      "Quarta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Eventos Especiais"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699e"
+  },
+  "detalhes": {
+    "nome": "Máscara Facial de Essência Mágica Quae",
+    "categoria": "Bem-Estar",
+    "descricao": "Quasi sapiente ea magni commodi quidem velit."
+  },
+  "precificacao": {
+    "preco_padrao": 370.02,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Domingo",
+      "Terça-feira",
+      "Segunda-feira",
+      "Feriado Local",
+      "Dia de Check-out em Massa"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b1"
+  },
+  "detalhes": {
+    "nome": "Seguro de Aventura Quibusdam",
+    "categoria": "Conveniência",
+    "descricao": "Architecto at praesentium rerum quam voluptatum soluta distinctio magnam reiciendis sunt veniam odio."
+  },
+  "precificacao": {
+    "preco_padrao": 482.57,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Check-out em Massa",
+      "Quarta-feira",
+      "Domingo",
+      "Véspera de Evento",
+      "Terça-feira",
+      "Segunda-feira",
+      "Dia de Festival"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Conveniência"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699c"
+  },
+  "detalhes": {
+    "nome": "Festa na Piscina (Beach Episode) Quidem",
+    "categoria": "Eventos Especiais",
+    "descricao": "Harum quaerat sunt maxime molestiae distinctio maiores est exercitationem odio."
+  },
+  "precificacao": {
+    "preco_padrao": 407.43,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Festival",
+      "Sábado",
+      "Domingo",
+      "Terça-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Eventos Especiais"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699f"
+  },
+  "detalhes": {
+    "nome": "Massagem com Pedras Vulcânicas de Mordor Occaecati",
+    "categoria": "Bem-Estar",
+    "descricao": "Nemo a excepturi doloremque quia neque quaerat vel pariatur."
+  },
+  "precificacao": {
+    "preco_padrao": 112.31,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sexta-feira",
+      "Quarta-feira",
+      "Dia de Check-out em Massa",
+      "Dia de Festival",
+      "Domingo"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a5"
+  },
+  "detalhes": {
+    "nome": "Aluguel de Tradutor Universal Nihil",
+    "categoria": "Conveniência",
+    "descricao": "Vel esse eligendi delectus qui a."
+  },
+  "precificacao": {
+    "preco_padrao": 673.94,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quarta-feira",
+      "Sexta-feira",
+      "Domingo",
+      "Feriado Local",
+      "Dia de Check-out em Massa",
+      "Segunda-feira",
+      "Quinta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Conveniência"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699a"
+  },
+  "detalhes": {
+    "nome": "Sala de Cinema Retrô Ut",
+    "categoria": "Lazer",
+    "descricao": "Voluptate in suscipit praesentium sit quam et exercitationem repudiandae tempore nostrum corporis."
+  },
+  "precificacao": {
+    "preco_padrao": 735.94,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Festival",
+      "Sábado",
+      "Terça-feira",
+      "Sexta-feira",
+      "Quinta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a2"
+  },
+  "detalhes": {
+    "nome": "Massagem de Recuperação HP Qui",
+    "categoria": "Bem-Estar",
+    "descricao": "Nihil maxime hic ea libero incidunt ipsam ut laudantium voluptate reprehenderit."
+  },
+  "precificacao": {
+    "preco_padrao": 436.97,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quarta-feira",
+      "Quinta-feira",
+      "Sexta-feira",
+      "Segunda-feira",
+      "Domingo",
+      "Terça-feira",
+      "Feriado Local"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a8"
+  },
+  "detalhes": {
+    "nome": "Banquete Isekai Velit",
+    "categoria": "Alimentação",
+    "descricao": "Quasi officia sint provident nemo recusandae provident natus commodi nam deserunt."
+  },
+  "precificacao": {
+    "preco_padrao": 600.93,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sábado",
+      "Quinta-feira",
+      "Dia de Festival",
+      "Feriado Local",
+      "Terça-feira",
+      "Quarta-feira",
+      "Sexta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Alimentação"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669af"
+  },
+  "detalhes": {
+    "nome": "Costura de Uniformes Escolares (Anime) Incidunt",
+    "categoria": "Lavanderia",
+    "descricao": "Illum assumenda odio dignissimos voluptas fuga voluptates quos modi incidunt tenetur iste a."
+  },
+  "precificacao": {
+    "preco_padrao": 356.87,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": false,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Terça-feira",
+      "Véspera de Evento",
+      "Sábado",
+      "Quarta-feira",
+      "Dia de Check-out em Massa",
+      "Quinta-feira",
+      "Feriado Local"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Lavanderia"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b4"
+  },
+  "detalhes": {
+    "nome": "Clube de Jogos de Tabuleiro Aliquam",
+    "categoria": "Lazer",
+    "descricao": "Perferendis explicabo repellat repudiandae facere debitis quisquam possimus ab iure vel."
+  },
+  "precificacao": {
+    "preco_padrao": 560.1,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Domingo",
+      "Terça-feira",
+      "Véspera de Evento",
+      "Feriado Local",
+      "Sábado",
+      "Dia de Festival"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a6699b"
+  },
+  "detalhes": {
+    "nome": "Aluguel de Mangás/Light Novels Necessitatibus",
+    "categoria": "Lazer",
+    "descricao": "Officia suscipit numquam nulla ipsam exercitationem repellat officiis quod sunt assumenda."
+  },
+  "precificacao": {
+    "preco_padrao": 671.77,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Sexta-feira",
+      "Quarta-feira",
+      "Segunda-feira",
+      "Sábado",
+      "Quinta-feira",
+      "Domingo",
+      "Terça-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lazer"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a4"
+  },
+  "detalhes": {
+    "nome": "Banheira de Pétalas de Sakura Sed",
+    "categoria": "Bem-Estar",
+    "descricao": "Beatae fuga enim minima blanditiis esse fugiat eos adipisci corporis quos."
+  },
+  "precificacao": {
+    "preco_padrao": 374.6,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por pessoa"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Domingo",
+      "Dia de Check-out em Massa",
+      "Sexta-feira",
+      "Quinta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a1"
+  },
+  "detalhes": {
+    "nome": "Sopa de Slime (Gelatina) Itaque",
+    "categoria": "Alimentação",
+    "descricao": "Neque reprehenderit facere atque quae repudiandae aspernatur aperiam suscipit labore ipsum fuga."
+  },
+  "precificacao": {
+    "preco_padrao": 202.13,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por hora"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Véspera de Evento",
+      "Sábado",
+      "Sexta-feira",
+      "Dia de Festival"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Alimentação"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b0"
+  },
+  "detalhes": {
+    "nome": "Festa na Piscina (Beach Episode) Officiis",
+    "categoria": "Eventos Especiais",
+    "descricao": "Enim voluptas a ut laboriosam nisi saepe fugit expedita odio nesciunt magni aliquid."
+  },
+  "precificacao": {
+    "preco_padrao": 85.94,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por uso"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Festival",
+      "Véspera de Evento",
+      "Dia de Check-out em Massa",
+      "Sexta-feira"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Eventos Especiais"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669aa"
+  },
+  "detalhes": {
+    "nome": "Acupuntura Voluptatibus",
+    "categoria": "Bem-Estar",
+    "descricao": "Ipsam rem non illo aliquid similique ad ipsa impedit similique et ducimus beatae."
+  },
+  "precificacao": {
+    "preco_padrao": 19.93,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Terça-feira",
+      "Dia de Check-out em Massa",
+      "Segunda-feira",
+      "Feriado Local",
+      "Véspera de Evento"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": true,
+    "departamento_responsavel": "Depto. de Bem-Estar"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669b6"
+  },
+  "detalhes": {
+    "nome": "Despertador Sint",
+    "categoria": "Conveniência",
+    "descricao": "Esse quaerat doloremque laudantium facilis eligendi temporibus provident distinctio deserunt reprehenderit id sit necessitatibus."
+  },
+  "precificacao": {
+    "preco_padrao": 558.32,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Quarta-feira",
+      "Feriado Local",
+      "Domingo",
+      "Quinta-feira",
+      "Sábado",
+      "Segunda-feira",
+      "Véspera de Evento"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Conveniência"
+  }
+},
+{
+  "_id": {
+    "$oid": "69f4d32e72fccb5147a669a9"
+  },
+  "detalhes": {
+    "nome": "Tinturaria de Tecidos Raros Sit",
+    "categoria": "Lavanderia",
+    "descricao": "Nemo amet necessitatibus deleniti labore tempore blanditiis vel debitis accusantium ratione doloribus."
+  },
+  "precificacao": {
+    "preco_padrao": 296.62,
+    "moeda": "BRL",
+    "unidade_cobranca": "Por diária"
+  },
+  "disponibilidade": {
+    "ativo": true,
+    "horario_inicio": "08:00",
+    "horario_fim": "22:00",
+    "dias_semana": [
+      "Dia de Check-out em Massa",
+      "Dia de Festival",
+      "Sexta-feira",
+      "Véspera de Evento",
+      "Domingo",
+      "Segunda-feira",
+      "Feriado Local"
+    ]
+  },
+  "operacional": {
+    "requer_agendamento": false,
+    "departamento_responsavel": "Depto. de Lavanderia"
+  }
+}]
